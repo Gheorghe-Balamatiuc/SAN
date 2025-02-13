@@ -1,0 +1,14 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\int	above	None	None	sup	None	None	right
+3	V	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	V	None	None	None	None	None	None	None
+5	A	2	above	None	None	None	None	None	None	None
+6	(	5	A	None	None	None	None	None	None	None
+7	X	6	(	None	None	None	None	None	None	None
+8	)	7	X	None	None	None	None	None	None	None
+9	<eos>	8	)	None	None	None	None	None	None	None
+10	\sum	2	right	None	None	None	None	None	None	None
+11	c	10	\sum	None	None	None	None	None	None	None
+12	d	11	c	None	None	None	None	None	None	None
+13	y	12	d	None	None	None	None	None	None	None
+14	<eos>	13	y	None	None	None	None	None	None	None

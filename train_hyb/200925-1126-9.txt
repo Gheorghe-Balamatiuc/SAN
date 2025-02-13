@@ -1,0 +1,6 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	\sum	1	\int	None	None	None	None	None	None	None
+3	p	2	\sum	None	None	None	None	None	None	None
+4	d	3	p	None	None	None	None	None	None	None
+5	b	4	d	None	None	None	None	None	None	None
+6	<eos>	5	b	None	None	None	None	None	None	None

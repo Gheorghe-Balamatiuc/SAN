@@ -1,0 +1,17 @@
+1	r	0	<sos>	None	None	None	None	None	None	None
+2	(	1	r	None	None	None	None	None	None	None
+3	t	2	(	None	None	None	None	None	None	None
+4	)	3	t	None	None	None	None	None	None	None
+5	=	4	)	None	None	None	None	None	None	None
+6	(	5	=	None	None	None	None	None	None	None
+7	x	6	(	None	None	None	None	None	None	None
+8	(	7	x	None	None	None	None	None	None	None
+9	t	8	(	None	None	None	None	None	None	None
+10	)	9	t	None	None	None	None	None	None	None
+11	,	10	)	None	None	None	None	None	None	None
+12	y	11	,	None	None	None	None	None	None	None
+13	(	12	y	None	None	None	None	None	None	None
+14	t	13	(	None	None	None	None	None	None	None
+15	)	14	t	None	None	None	None	None	None	None
+16	)	15	)	None	None	None	None	None	None	None
+17	<eos>	16	)	None	None	None	None	None	None	None

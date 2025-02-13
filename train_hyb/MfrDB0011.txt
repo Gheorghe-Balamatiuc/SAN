@@ -1,0 +1,13 @@
+1	s	0	<sos>	None	None	None	None	None	None	None
+2	=	1	s	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	right
+5	1	4	above	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None
+7	2	4	below	None	None	None	None	None	None	None
+8	<eos>	7	2	None	None	None	None	None	None	None
+9	a	4	right	None	None	None	None	None	None	None
+10	t	9	a	None	None	None	None	None	None	None
+11	struct	10	t	None	None	None	sup	None	None	None
+12	2	11	sup	None	None	None	None	None	None	None
+13	<eos>	12	2	None	None	None	None	None	None	None

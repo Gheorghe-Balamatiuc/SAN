@@ -1,0 +1,2 @@
+1	H	0	<sos>	None	None	None	None	None	None	None
+2	<eos>	1	H	None	None	None	None	None	None	None

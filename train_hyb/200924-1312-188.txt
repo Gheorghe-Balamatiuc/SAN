@@ -1,0 +1,16 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\int	None	None	sub	sup	None	None	right
+3	\sqrt	2	sub	None	None	None	None	None	None	None
+4	struct	3	\sqrt	None	None	None	None	None	inside	None
+5	\sigma	4	inside	None	None	None	None	None	None	None
+6	<eos>	5	\sigma	None	None	None	None	None	None	None
+7	-	2	sup	None	None	None	None	None	None	None
+8	b	7	-	None	None	None	None	None	None	None
+9	<eos>	8	b	None	None	None	None	None	None	None
+10	-	2	right	None	None	None	None	None	None	None
+11	A	10	-	None	None	None	None	None	None	None
+12	d	11	A	None	None	None	None	None	None	None
+13	M	12	d	None	None	None	None	None	None	None
+14	struct	13	M	None	None	sub	None	None	None	None
+15	s	14	sub	None	None	None	None	None	None	None
+16	<eos>	15	s	None	None	None	None	None	None	None

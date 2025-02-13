@@ -1,0 +1,15 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	-	2	above	None	None	None	None	None	None	None
+4	I	3	-	None	None	None	None	None	None	None
+5	+	4	I	None	None	None	None	None	None	None
+6	\frac	5	+	None	None	None	None	None	None	None
+7	struct	6	\frac	above	below	None	None	None	None	None
+8	\sigma	7	above	None	None	None	None	None	None	None
+9	<eos>	8	\sigma	None	None	None	None	None	None	None
+10	e	7	below	None	None	None	None	None	None	None
+11	<eos>	10	e	None	None	None	None	None	None	None
+12	[	2	below	None	None	None	None	None	None	None
+13	\phi	12	[	None	None	None	None	None	None	None
+14	]	13	\phi	None	None	None	None	None	None	None
+15	<eos>	14	]	None	None	None	None	None	None	None

@@ -1,0 +1,5 @@
+1	\cos	0	<sos>	None	None	None	None	None	None	None
+2	h	1	\cos	None	None	None	None	None	None	None
+3	struct	2	h	None	None	None	sup	None	None	None
+4	i	3	sup	None	None	None	None	None	None	None
+5	<eos>	4	i	None	None	None	None	None	None	None

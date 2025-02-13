@@ -1,0 +1,5 @@
+1	Y	0	<sos>	None	None	None	None	None	None	None
+2	-	1	Y	None	None	None	None	None	None	None
+3	\sum	2	-	None	None	None	None	None	None	None
+4	e	3	\sum	None	None	None	None	None	None	None
+5	<eos>	4	e	None	None	None	None	None	None	None

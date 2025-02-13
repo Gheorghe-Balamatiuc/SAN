@@ -1,0 +1,4 @@
+1	z	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	z	None	None	sub	None	None	None	None
+3	g	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	g	None	None	None	None	None	None	None

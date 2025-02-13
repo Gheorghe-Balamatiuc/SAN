@@ -1,0 +1,10 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\int	None	None	sub	sup	None	None	right
+3	V	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	V	None	None	None	None	None	None	None
+5	\gamma	2	sup	None	None	None	None	None	None	None
+6	<eos>	5	\gamma	None	None	None	None	None	None	None
+7	M	2	right	None	None	None	None	None	None	None
+8	d	7	M	None	None	None	None	None	None	None
+9	\beta	8	d	None	None	None	None	None	None	None
+10	<eos>	9	\beta	None	None	None	None	None	None	None

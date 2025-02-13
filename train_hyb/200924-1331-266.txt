@@ -1,0 +1,8 @@
+1	G	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	G	None	None	sub	sup	None	None	None
+3	h	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	h	None	None	None	None	None	None	None
+5	Y	2	sup	None	None	None	None	None	None	None
+6	-	5	Y	None	None	None	None	None	None	None
+7	v	6	-	None	None	None	None	None	None	None
+8	<eos>	7	v	None	None	None	None	None	None	None

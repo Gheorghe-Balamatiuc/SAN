@@ -1,0 +1,15 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	=	1	a	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	c	4	above	None	None	None	None	None	None	None
+6	\sin	5	c	None	None	None	None	None	None	None
+7	\alpha	6	\sin	None	None	None	None	None	None	None
+8	<eos>	7	\alpha	None	None	None	None	None	None	None
+9	\sin	4	below	None	None	None	None	None	None	None
+10	(	9	\sin	None	None	None	None	None	None	None
+11	\alpha	10	(	None	None	None	None	None	None	None
+12	+	11	\alpha	None	None	None	None	None	None	None
+13	\beta	12	+	None	None	None	None	None	None	None
+14	)	13	\beta	None	None	None	None	None	None	None
+15	<eos>	14	)	None	None	None	None	None	None	None

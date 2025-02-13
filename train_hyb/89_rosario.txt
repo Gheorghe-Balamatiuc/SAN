@@ -1,0 +1,13 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	x	None	None	None	sup	None	None	right
+3	\prime	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	\prime	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	x	5	=	None	None	None	None	None	None	None
+7	\cos	6	x	None	None	None	None	None	None	None
+8	\theta	7	\cos	None	None	None	None	None	None	None
+9	+	8	\theta	None	None	None	None	None	None	None
+10	y	9	+	None	None	None	None	None	None	None
+11	\sin	10	y	None	None	None	None	None	None	None
+12	\theta	11	\sin	None	None	None	None	None	None	None
+13	<eos>	12	\theta	None	None	None	None	None	None	None

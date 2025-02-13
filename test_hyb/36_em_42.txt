@@ -1,0 +1,4 @@
+1	m	0	<sos>	None	None	None	None	None	None	None
+2	\times	1	m	None	None	None	None	None	None	None
+3	p	2	\times	None	None	None	None	None	None	None
+4	<eos>	3	p	None	None	None	None	None	None	None

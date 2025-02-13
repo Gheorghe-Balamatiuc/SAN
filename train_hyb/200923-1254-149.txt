@@ -1,0 +1,2 @@
+1	\mu	0	<sos>	None	None	None	None	None	None	None
+2	<eos>	1	\mu	None	None	None	None	None	None	None

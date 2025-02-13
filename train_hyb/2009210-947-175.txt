@@ -1,0 +1,5 @@
+1	h	0	<sos>	None	None	None	None	None	None	None
+2	+	1	h	None	None	None	None	None	None	None
+3	v	2	+	None	None	None	None	None	None	None
+4	i	3	v	None	None	None	None	None	None	None
+5	<eos>	4	i	None	None	None	None	None	None	None

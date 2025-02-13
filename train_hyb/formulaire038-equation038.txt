@@ -1,0 +1,13 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	right
+3	2	2	above	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None
+5	3	2	below	None	None	None	None	None	None	None
+6	<eos>	5	3	None	None	None	None	None	None	None
+7	b	2	right	None	None	None	None	None	None	None
+8	\times	7	b	None	None	None	None	None	None	None
+9	f	8	\times	None	None	None	None	None	None	None
+10	(	9	f	None	None	None	None	None	None	None
+11	b	10	(	None	None	None	None	None	None	None
+12	)	11	b	None	None	None	None	None	None	None
+13	<eos>	12	)	None	None	None	None	None	None	None

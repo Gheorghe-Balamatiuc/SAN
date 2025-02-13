@@ -1,0 +1,10 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	right
+3	c	2	above	None	None	None	None	None	None	None
+4	-	3	c	None	None	None	None	None	None	None
+5	d	4	-	None	None	None	None	None	None	None
+6	<eos>	5	d	None	None	None	None	None	None	None
+7	p	2	below	None	None	None	None	None	None	None
+8	<eos>	7	p	None	None	None	None	None	None	None
+9	u	2	right	None	None	None	None	None	None	None
+10	<eos>	9	u	None	None	None	None	None	None	None

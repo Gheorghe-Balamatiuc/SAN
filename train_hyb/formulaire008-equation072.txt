@@ -1,0 +1,9 @@
+1	Y	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	Y	None	None	None	sup	None	None	right
+3	p	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	p	None	None	None	None	None	None	None
+5	-	2	right	None	None	None	None	None	None	None
+6	X	5	-	None	None	None	None	None	None	None
+7	struct	6	X	None	None	None	sup	None	None	None
+8	p	7	sup	None	None	None	None	None	None	None
+9	<eos>	8	p	None	None	None	None	None	None	None

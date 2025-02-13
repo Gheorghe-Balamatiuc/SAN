@@ -1,0 +1,13 @@
+1	\lim	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\lim	None	None	sub	None	None	None	right
+3	x	2	sub	None	None	None	None	None	None	None
+4	\rightarrow	3	x	None	None	None	None	None	None	None
+5	3	4	\rightarrow	None	None	None	None	None	None	None
+6	<eos>	5	3	None	None	None	None	None	None	None
+7	x	2	right	None	None	None	None	None	None	None
+8	struct	7	x	None	None	None	sup	None	None	right
+9	2	8	sup	None	None	None	None	None	None	None
+10	<eos>	9	2	None	None	None	None	None	None	None
+11	=	8	right	None	None	None	None	None	None	None
+12	9	11	=	None	None	None	None	None	None	None
+13	<eos>	12	9	None	None	None	None	None	None	None

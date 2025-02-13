@@ -1,0 +1,7 @@
+1	u	0	<sos>	None	None	None	None	None	None	None
+2	-	1	u	None	None	None	None	None	None	None
+3	p	2	-	None	None	None	None	None	None	None
+4	F	3	p	None	None	None	None	None	None	None
+5	struct	4	F	None	None	sub	None	None	None	None
+6	v	5	sub	None	None	None	None	None	None	None
+7	<eos>	6	v	None	None	None	None	None	None	None

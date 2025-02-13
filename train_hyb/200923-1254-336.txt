@@ -1,0 +1,11 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\int	above	None	None	sup	None	None	right
+3	v	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	v	None	None	None	None	None	None	None
+5	H	2	above	None	None	None	None	None	None	None
+6	<eos>	5	H	None	None	None	None	None	None	None
+7	-	2	right	None	None	None	None	None	None	None
+8	m	7	-	None	None	None	None	None	None	None
+9	d	8	m	None	None	None	None	None	None	None
+10	z	9	d	None	None	None	None	None	None	None
+11	<eos>	10	z	None	None	None	None	None	None	None

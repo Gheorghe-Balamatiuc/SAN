@@ -1,0 +1,11 @@
+1	y	0	<sos>	None	None	None	None	None	None	None
+2	(	1	y	None	None	None	None	None	None	None
+3	\alpha	2	(	None	None	None	None	None	None	None
+4	)	3	\alpha	None	None	None	None	None	None	None
+5	=	4	)	None	None	None	None	None	None	None
+6	\alpha	5	=	None	None	None	None	None	None	None
+7	\theta	6	\alpha	None	None	None	None	None	None	None
+8	(	7	\theta	None	None	None	None	None	None	None
+9	\alpha	8	(	None	None	None	None	None	None	None
+10	)	9	\alpha	None	None	None	None	None	None	None
+11	<eos>	10	)	None	None	None	None	None	None	None

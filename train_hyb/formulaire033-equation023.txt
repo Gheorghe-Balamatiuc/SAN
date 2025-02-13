@@ -1,0 +1,7 @@
+1	b	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	b	None	None	None	sup	None	None	None
+3	-	2	sup	None	None	None	None	None	None	None
+4	\theta	3	-	None	None	None	None	None	None	None
+5	struct	4	\theta	None	None	sub	None	None	None	None
+6	0	5	sub	None	None	None	None	None	None	None
+7	<eos>	6	0	None	None	None	None	None	None	None

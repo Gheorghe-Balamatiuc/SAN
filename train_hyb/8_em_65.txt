@@ -1,0 +1,5 @@
+1	\forall	0	<sos>	None	None	None	None	None	None	None
+2	i	1	\forall	None	None	None	None	None	None	None
+3	\in	2	i	None	None	None	None	None	None	None
+4	I	3	\in	None	None	None	None	None	None	None
+5	<eos>	4	I	None	None	None	None	None	None	None

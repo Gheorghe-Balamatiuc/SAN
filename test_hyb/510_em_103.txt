@@ -1,0 +1,7 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	x	1	\int	None	None	None	None	None	None	None
+3	\sin	2	x	None	None	None	None	None	None	None
+4	x	3	\sin	None	None	None	None	None	None	None
+5	d	4	x	None	None	None	None	None	None	None
+6	x	5	d	None	None	None	None	None	None	None
+7	<eos>	6	x	None	None	None	None	None	None	None

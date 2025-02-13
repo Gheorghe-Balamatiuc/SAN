@@ -1,0 +1,7 @@
+1	z	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	z	None	None	None	sup	None	None	right
+3	d	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	d	None	None	None	None	None	None	None
+5	+	2	right	None	None	None	None	None	None	None
+6	z	5	+	None	None	None	None	None	None	None
+7	<eos>	6	z	None	None	None	None	None	None	None

@@ -1,0 +1,5 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	f	1	-	None	None	None	None	None	None	None
+3	struct	2	f	None	None	None	sup	None	None	None
+4	w	3	sup	None	None	None	None	None	None	None
+5	<eos>	4	w	None	None	None	None	None	None	None

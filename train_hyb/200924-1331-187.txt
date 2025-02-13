@@ -1,0 +1,4 @@
+1	S	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	S	None	None	None	sup	None	None	None
+3	I	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	I	None	None	None	None	None	None	None

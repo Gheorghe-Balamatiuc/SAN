@@ -1,0 +1,10 @@
+1	[	0	<sos>	None	None	None	None	None	None	None
+2	\sum	1	[	None	None	None	None	None	None	None
+3	h	2	\sum	None	None	None	None	None	None	None
+4	]	3	h	None	None	None	None	None	None	None
+5	<	4	]	None	None	None	None	None	None	None
+6	\sum	5	<	None	None	None	None	None	None	None
+7	f	6	\sum	None	None	None	None	None	None	None
+8	+	7	f	None	None	None	None	None	None	None
+9	n	8	+	None	None	None	None	None	None	None
+10	<eos>	9	n	None	None	None	None	None	None	None

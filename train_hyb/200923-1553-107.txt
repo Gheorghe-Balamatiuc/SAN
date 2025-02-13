@@ -1,0 +1,6 @@
+1	E	0	<sos>	None	None	None	None	None	None	None
+2	\lambda	1	E	None	None	None	None	None	None	None
+3	-	2	\lambda	None	None	None	None	None	None	None
+4	\sum	3	-	None	None	None	None	None	None	None
+5	I	4	\sum	None	None	None	None	None	None	None
+6	<eos>	5	I	None	None	None	None	None	None	None

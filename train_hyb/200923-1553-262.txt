@@ -1,0 +1,11 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	x	None	None	None	sup	None	None	None
+3	\frac	2	sup	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	T	4	above	None	None	None	None	None	None	None
+6	<eos>	5	T	None	None	None	None	None	None	None
+7	g	4	below	None	None	None	None	None	None	None
+8	struct	7	g	None	None	sub	None	None	None	None
+9	E	8	sub	None	None	None	None	None	None	None
+10	E	9	E	None	None	None	None	None	None	None
+11	<eos>	10	E	None	None	None	None	None	None	None

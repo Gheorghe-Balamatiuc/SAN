@@ -1,0 +1,6 @@
+1	F	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	F	None	None	None	sup	None	None	None
+3	\Delta	2	sup	None	None	None	None	None	None	None
+4	+	3	\Delta	None	None	None	None	None	None	None
+5	\alpha	4	+	None	None	None	None	None	None	None
+6	<eos>	5	\alpha	None	None	None	None	None	None	None

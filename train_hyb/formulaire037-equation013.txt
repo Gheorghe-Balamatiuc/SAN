@@ -1,0 +1,12 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	a	None	None	sub	None	None	None	right
+3	n	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	n	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	\sin	5	=	None	None	None	None	None	None	None
+7	(	6	\sin	None	None	None	None	None	None	None
+8	2	7	(	None	None	None	None	None	None	None
+9	n	8	2	None	None	None	None	None	None	None
+10	x	9	n	None	None	None	None	None	None	None
+11	)	10	x	None	None	None	None	None	None	None
+12	<eos>	11	)	None	None	None	None	None	None	None

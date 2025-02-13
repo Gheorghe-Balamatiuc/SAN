@@ -1,0 +1,11 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	k	2	above	None	None	None	None	None	None	None
+4	+	3	k	None	None	None	None	None	None	None
+5	i	4	+	None	None	None	None	None	None	None
+6	n	5	i	None	None	None	None	None	None	None
+7	<eos>	6	n	None	None	None	None	None	None	None
+8	\gamma	2	below	None	None	None	None	None	None	None
+9	-	8	\gamma	None	None	None	None	None	None	None
+10	u	9	-	None	None	None	None	None	None	None
+11	<eos>	10	u	None	None	None	None	None	None	None

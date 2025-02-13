@@ -1,0 +1,14 @@
+1	f	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	f	None	None	sub	None	None	None	right
+3	0	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	0	None	None	None	None	None	None	None
+5	-	2	right	None	None	None	None	None	None	None
+6	f	5	-	None	None	None	None	None	None	None
+7	struct	6	f	None	None	sub	None	None	None	right
+8	1	7	sub	None	None	None	None	None	None	None
+9	<eos>	8	1	None	None	None	None	None	None	None
+10	+	7	right	None	None	None	None	None	None	None
+11	f	10	+	None	None	None	None	None	None	None
+12	struct	11	f	None	None	sub	None	None	None	None
+13	2	12	sub	None	None	None	None	None	None	None
+14	<eos>	13	2	None	None	None	None	None	None	None

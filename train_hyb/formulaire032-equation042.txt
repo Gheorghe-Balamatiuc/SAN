@@ -1,0 +1,14 @@
+1	u	0	<sos>	None	None	None	None	None	None	None
+2	=	1	u	None	None	None	None	None	None	None
+3	\sum	2	=	None	None	None	None	None	None	None
+4	struct	3	\sum	above	below	None	None	None	None	right
+5	i	4	below	None	None	None	None	None	None	None
+6	=	5	i	None	None	None	None	None	None	None
+7	1	6	=	None	None	None	None	None	None	None
+8	<eos>	7	1	None	None	None	None	None	None	None
+9	k	4	above	None	None	None	None	None	None	None
+10	<eos>	9	k	None	None	None	None	None	None	None
+11	u	4	right	None	None	None	None	None	None	None
+12	struct	11	u	None	None	sub	None	None	None	None
+13	i	12	sub	None	None	None	None	None	None	None
+14	<eos>	13	i	None	None	None	None	None	None	None

@@ -1,0 +1,14 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	1	2	above	None	None	None	None	None	None	None
+4	-	3	1	None	None	None	None	None	None	None
+5	\sqrt	4	-	None	None	None	None	None	None	None
+6	struct	5	\sqrt	None	None	None	None	None	inside	None
+7	3	6	inside	None	None	None	None	None	None	None
+8	<eos>	7	3	None	None	None	None	None	None	None
+9	1	2	below	None	None	None	None	None	None	None
+10	+	9	1	None	None	None	None	None	None	None
+11	\sqrt	10	+	None	None	None	None	None	None	None
+12	struct	11	\sqrt	None	None	None	None	None	inside	None
+13	3	12	inside	None	None	None	None	None	None	None
+14	<eos>	13	3	None	None	None	None	None	None	None

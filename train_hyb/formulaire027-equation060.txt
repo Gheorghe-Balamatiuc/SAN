@@ -1,0 +1,13 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	2	1	1	None	None	None	None	None	None	None
+3	5	2	2	None	None	None	None	None	None	None
+4	\div	3	5	None	None	None	None	None	None	None
+5	1	4	\div	None	None	None	None	None	None	None
+6	7	5	1	None	None	None	None	None	None	None
+7	6	6	7	None	None	None	None	None	None	None
+8	=	7	6	None	None	None	None	None	None	None
+9	0	8	=	None	None	None	None	None	None	None
+10	.	9	0	None	None	None	None	None	None	None
+11	7	10	.	None	None	None	None	None	None	None
+12	1	11	7	None	None	None	None	None	None	None
+13	<eos>	12	1	None	None	None	None	None	None	None

@@ -1,0 +1,5 @@
+1	7	0	<sos>	None	None	None	None	None	None	None
+2	.	1	7	None	None	None	None	None	None	None
+3	7	2	.	None	None	None	None	None	None	None
+4	R	3	7	None	None	None	None	None	None	None
+5	<eos>	4	R	None	None	None	None	None	None	None

@@ -1,0 +1,17 @@
+1	u	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	u	None	None	sub	None	None	None	right
+3	n	2	sub	None	None	None	None	None	None	None
+4	+	3	n	None	None	None	None	None	None	None
+5	1	4	+	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None
+7	=	2	right	None	None	None	None	None	None	None
+8	\sqrt	7	=	None	None	None	None	None	None	None
+9	struct	8	\sqrt	None	None	None	None	None	inside	None
+10	u	9	inside	None	None	None	None	None	None	None
+11	struct	10	u	None	None	sub	None	None	None	right
+12	n	11	sub	None	None	None	None	None	None	None
+13	<eos>	12	n	None	None	None	None	None	None	None
+14	v	11	right	None	None	None	None	None	None	None
+15	struct	14	v	None	None	sub	None	None	None	None
+16	n	15	sub	None	None	None	None	None	None	None
+17	<eos>	16	n	None	None	None	None	None	None	None

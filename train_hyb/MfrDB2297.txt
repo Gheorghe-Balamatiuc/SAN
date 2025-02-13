@@ -1,0 +1,17 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	a	None	None	sub	None	None	None	right
+3	n	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	n	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	a	5	=	None	None	None	None	None	None	None
+7	struct	6	a	None	None	sub	None	None	None	right
+8	1	7	sub	None	None	None	None	None	None	None
+9	<eos>	8	1	None	None	None	None	None	None	None
+10	+	7	right	None	None	None	None	None	None	None
+11	(	10	+	None	None	None	None	None	None	None
+12	n	11	(	None	None	None	None	None	None	None
+13	-	12	n	None	None	None	None	None	None	None
+14	1	13	-	None	None	None	None	None	None	None
+15	)	14	1	None	None	None	None	None	None	None
+16	d	15	)	None	None	None	None	None	None	None
+17	<eos>	16	d	None	None	None	None	None	None	None

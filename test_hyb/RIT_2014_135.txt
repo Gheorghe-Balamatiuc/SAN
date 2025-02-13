@@ -1,0 +1,11 @@
+1	b	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	b	None	None	None	sup	None	None	right
+3	\log	2	sup	None	None	None	None	None	None	None
+4	struct	3	\log	None	None	sub	None	None	None	right
+5	b	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	b	None	None	None	None	None	None	None
+7	X	4	right	None	None	None	None	None	None	None
+8	<eos>	7	X	None	None	None	None	None	None	None
+9	=	2	right	None	None	None	None	None	None	None
+10	X	9	=	None	None	None	None	None	None	None
+11	<eos>	10	X	None	None	None	None	None	None	None

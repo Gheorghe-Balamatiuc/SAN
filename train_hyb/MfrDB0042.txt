@@ -1,0 +1,14 @@
+1	\sin	0	<sos>	None	None	None	None	None	None	None
+2	(	1	\sin	None	None	None	None	None	None	None
+3	2	2	(	None	None	None	None	None	None	None
+4	x	3	2	None	None	None	None	None	None	None
+5	)	4	x	None	None	None	None	None	None	None
+6	=	5	)	None	None	None	None	None	None	None
+7	2	6	=	None	None	None	None	None	None	None
+8	\cdot	7	2	None	None	None	None	None	None	None
+9	\sin	8	\cdot	None	None	None	None	None	None	None
+10	x	9	\sin	None	None	None	None	None	None	None
+11	\cdot	10	x	None	None	None	None	None	None	None
+12	\cos	11	\cdot	None	None	None	None	None	None	None
+13	x	12	\cos	None	None	None	None	None	None	None
+14	<eos>	13	x	None	None	None	None	None	None	None

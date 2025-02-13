@@ -1,0 +1,15 @@
+1	\lim	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\lim	None	None	sub	None	None	None	right
+3	x	2	sub	None	None	None	None	None	None	None
+4	\rightarrow	3	x	None	None	None	None	None	None	None
+5	-	4	\rightarrow	None	None	None	None	None	None	None
+6	\infty	5	-	None	None	None	None	None	None	None
+7	<eos>	6	\infty	None	None	None	None	None	None	None
+8	f	2	right	None	None	None	None	None	None	None
+9	(	8	f	None	None	None	None	None	None	None
+10	x	9	(	None	None	None	None	None	None	None
+11	)	10	x	None	None	None	None	None	None	None
+12	=	11	)	None	None	None	None	None	None	None
+13	-	12	=	None	None	None	None	None	None	None
+14	\infty	13	-	None	None	None	None	None	None	None
+15	<eos>	14	\infty	None	None	None	None	None	None	None

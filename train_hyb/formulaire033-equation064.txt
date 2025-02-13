@@ -1,0 +1,12 @@
+1	v	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	v	None	None	sub	None	None	None	right
+3	x	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	x	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	v	5	=	None	None	None	None	None	None	None
+7	struct	6	v	None	None	sub	None	None	None	right
+8	0	7	sub	None	None	None	None	None	None	None
+9	<eos>	8	0	None	None	None	None	None	None	None
+10	\cos	7	right	None	None	None	None	None	None	None
+11	\alpha	10	\cos	None	None	None	None	None	None	None
+12	<eos>	11	\alpha	None	None	None	None	None	None	None

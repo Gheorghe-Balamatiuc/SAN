@@ -1,0 +1,15 @@
+1	|	0	<sos>	None	None	None	None	None	None	None
+2	\sin	1	|	None	None	None	None	None	None	None
+3	z	2	\sin	None	None	None	None	None	None	None
+4	|	3	z	None	None	None	None	None	None	None
+5	=	4	|	None	None	None	None	None	None	None
+6	\sqrt	5	=	None	None	None	None	None	None	None
+7	struct	6	\sqrt	None	None	None	None	None	inside	None
+8	1	7	inside	None	None	None	None	None	None	None
+9	-	8	1	None	None	None	None	None	None	None
+10	\cos	9	-	None	None	None	None	None	None	None
+11	struct	10	\cos	None	None	None	sup	None	None	right
+12	2	11	sup	None	None	None	None	None	None	None
+13	<eos>	12	2	None	None	None	None	None	None	None
+14	z	11	right	None	None	None	None	None	None	None
+15	<eos>	14	z	None	None	None	None	None	None	None

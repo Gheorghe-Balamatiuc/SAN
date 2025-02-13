@@ -1,0 +1,2 @@
+1	\beta	0	<sos>	None	None	None	None	None	None	None
+2	<eos>	1	\beta	None	None	None	None	None	None	None

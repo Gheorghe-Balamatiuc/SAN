@@ -1,0 +1,9 @@
+1	z	0	<sos>	None	None	None	None	None	None	None
+2	=	1	z	None	None	None	None	None	None	None
+3	\cos	2	=	None	None	None	None	None	None	None
+4	\theta	3	\cos	None	None	None	None	None	None	None
+5	+	4	\theta	None	None	None	None	None	None	None
+6	j	5	+	None	None	None	None	None	None	None
+7	\sin	6	j	None	None	None	None	None	None	None
+8	\theta	7	\sin	None	None	None	None	None	None	None
+9	<eos>	8	\theta	None	None	None	None	None	None	None

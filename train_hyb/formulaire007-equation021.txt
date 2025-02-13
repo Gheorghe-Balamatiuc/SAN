@@ -1,0 +1,7 @@
+1	n	0	<sos>	None	None	None	None	None	None	None
+2	\log	1	n	None	None	None	None	None	None	None
+3	struct	2	\log	None	None	sub	None	None	None	right
+4	2	3	sub	None	None	None	None	None	None	None
+5	<eos>	4	2	None	None	None	None	None	None	None
+6	n	3	right	None	None	None	None	None	None	None
+7	<eos>	6	n	None	None	None	None	None	None	None

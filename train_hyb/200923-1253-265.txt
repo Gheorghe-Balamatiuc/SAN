@@ -1,0 +1,8 @@
+1	8	0	<sos>	None	None	None	None	None	None	None
+2	+	1	8	None	None	None	None	None	None	None
+3	A	2	+	None	None	None	None	None	None	None
+4	m	3	A	None	None	None	None	None	None	None
+5	>	4	m	None	None	None	None	None	None	None
+6	\sum	5	>	None	None	None	None	None	None	None
+7	X	6	\sum	None	None	None	None	None	None	None
+8	<eos>	7	X	None	None	None	None	None	None	None

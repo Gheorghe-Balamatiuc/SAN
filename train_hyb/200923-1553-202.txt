@@ -1,0 +1,6 @@
+1	A	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	A	None	None	sub	None	None	None	None
+3	k	2	sub	None	None	None	None	None	None	None
+4	struct	3	k	None	None	sub	None	None	None	None
+5	Y	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	Y	None	None	None	None	None	None	None

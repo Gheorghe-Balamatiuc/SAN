@@ -1,0 +1,13 @@
+1	\cos	0	<sos>	None	None	None	None	None	None	None
+2	2	1	\cos	None	None	None	None	None	None	None
+3	\phi	2	2	None	None	None	None	None	None	None
+4	=	3	\phi	None	None	None	None	None	None	None
+5	2	4	=	None	None	None	None	None	None	None
+6	\cos	5	2	None	None	None	None	None	None	None
+7	struct	6	\cos	None	None	None	sup	None	None	right
+8	2	7	sup	None	None	None	None	None	None	None
+9	<eos>	8	2	None	None	None	None	None	None	None
+10	\phi	7	right	None	None	None	None	None	None	None
+11	-	10	\phi	None	None	None	None	None	None	None
+12	1	11	-	None	None	None	None	None	None	None
+13	<eos>	12	1	None	None	None	None	None	None	None

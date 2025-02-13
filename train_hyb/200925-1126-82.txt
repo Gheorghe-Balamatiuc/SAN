@@ -1,0 +1,6 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	\theta	1	-	None	None	None	None	None	None	None
+3	n	2	\theta	None	None	None	None	None	None	None
+4	struct	3	n	None	None	sub	None	None	None	None
+5	Y	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	Y	None	None	None	None	None	None	None

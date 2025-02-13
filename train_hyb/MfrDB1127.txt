@@ -1,0 +1,12 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	=	1	x	None	None	None	None	None	None	None
+3	\sin	2	=	None	None	None	None	None	None	None
+4	(	3	\sin	None	None	None	None	None	None	None
+5	\frac	4	(	None	None	None	None	None	None	None
+6	struct	5	\frac	above	below	None	None	None	None	right
+7	\alpha	6	above	None	None	None	None	None	None	None
+8	<eos>	7	\alpha	None	None	None	None	None	None	None
+9	2	6	below	None	None	None	None	None	None	None
+10	<eos>	9	2	None	None	None	None	None	None	None
+11	)	6	right	None	None	None	None	None	None	None
+12	<eos>	11	)	None	None	None	None	None	None	None

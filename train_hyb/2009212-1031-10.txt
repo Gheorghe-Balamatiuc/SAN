@@ -1,0 +1,9 @@
+1	\cos	0	<sos>	None	None	None	None	None	None	None
+2	\frac	1	\cos	None	None	None	None	None	None	None
+3	struct	2	\frac	above	below	None	None	None	None	None
+4	7	3	above	None	None	None	None	None	None	None
+5	<eos>	4	7	None	None	None	None	None	None	None
+6	h	3	below	None	None	None	None	None	None	None
+7	struct	6	h	None	None	None	sup	None	None	None
+8	F	7	sup	None	None	None	None	None	None	None
+9	<eos>	8	F	None	None	None	None	None	None	None

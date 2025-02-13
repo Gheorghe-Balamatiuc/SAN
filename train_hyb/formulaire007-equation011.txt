@@ -1,0 +1,4 @@
+1	n	0	<sos>	None	None	None	None	None	None	None
+2	\times	1	n	None	None	None	None	None	None	None
+3	d	2	\times	None	None	None	None	None	None	None
+4	<eos>	3	d	None	None	None	None	None	None	None

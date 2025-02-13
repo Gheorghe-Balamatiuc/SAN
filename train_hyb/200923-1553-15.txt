@@ -1,0 +1,7 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	\Delta	1	\int	None	None	None	None	None	None	None
+3	d	2	\Delta	None	None	None	None	None	None	None
+4	M	3	d	None	None	None	None	None	None	None
+5	struct	4	M	None	None	sub	None	None	None	None
+6	H	5	sub	None	None	None	None	None	None	None
+7	<eos>	6	H	None	None	None	None	None	None	None

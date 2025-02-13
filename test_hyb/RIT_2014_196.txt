@@ -1,0 +1,9 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	\sin	1	\int	None	None	None	None	None	None	None
+3	struct	2	\sin	None	None	None	sup	None	None	right
+4	2	3	sup	None	None	None	None	None	None	None
+5	<eos>	4	2	None	None	None	None	None	None	None
+6	x	3	right	None	None	None	None	None	None	None
+7	d	6	x	None	None	None	None	None	None	None
+8	x	7	d	None	None	None	None	None	None	None
+9	<eos>	8	x	None	None	None	None	None	None	None

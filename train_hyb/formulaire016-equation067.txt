@@ -1,0 +1,8 @@
+1	y	0	<sos>	None	None	None	None	None	None	None
+2	=	1	y	None	None	None	None	None	None	None
+3	v	2	=	None	None	None	None	None	None	None
+4	\sin	3	v	None	None	None	None	None	None	None
+5	(	4	\sin	None	None	None	None	None	None	None
+6	u	5	(	None	None	None	None	None	None	None
+7	)	6	u	None	None	None	None	None	None	None
+8	<eos>	7	)	None	None	None	None	None	None	None

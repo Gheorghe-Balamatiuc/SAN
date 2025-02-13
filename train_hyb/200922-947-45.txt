@@ -1,0 +1,7 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	M	1	\int	None	None	None	None	None	None	None
+3	-	2	M	None	None	None	None	None	None	None
+4	d	3	-	None	None	None	None	None	None	None
+5	d	4	d	None	None	None	None	None	None	None
+6	T	5	d	None	None	None	None	None	None	None
+7	<eos>	6	T	None	None	None	None	None	None	None

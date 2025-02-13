@@ -1,0 +1,17 @@
+1	y	0	<sos>	None	None	None	None	None	None	None
+2	=	1	y	None	None	None	None	None	None	None
+3	y	2	=	None	None	None	None	None	None	None
+4	struct	3	y	None	None	sub	None	None	None	right
+5	o	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	o	None	None	None	None	None	None	None
+7	+	4	right	None	None	None	None	None	None	None
+8	m	7	+	None	None	None	None	None	None	None
+9	(	8	m	None	None	None	None	None	None	None
+10	x	9	(	None	None	None	None	None	None	None
+11	-	10	x	None	None	None	None	None	None	None
+12	x	11	-	None	None	None	None	None	None	None
+13	struct	12	x	None	None	sub	None	None	None	right
+14	o	13	sub	None	None	None	None	None	None	None
+15	<eos>	14	o	None	None	None	None	None	None	None
+16	)	13	right	None	None	None	None	None	None	None
+17	<eos>	16	)	None	None	None	None	None	None	None

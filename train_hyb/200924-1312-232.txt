@@ -1,0 +1,14 @@
+1	[	0	<sos>	None	None	None	None	None	None	None
+2	E	1	[	None	None	None	None	None	None	None
+3	-	2	E	None	None	None	None	None	None	None
+4	\sqrt	3	-	None	None	None	None	None	None	None
+5	struct	4	\sqrt	None	None	None	None	None	inside	right
+6	\frac	5	inside	None	None	None	None	None	None	None
+7	struct	6	\frac	above	below	None	None	None	None	None
+8	i	7	above	None	None	None	None	None	None	None
+9	<eos>	8	i	None	None	None	None	None	None	None
+10	\sum	7	below	None	None	None	None	None	None	None
+11	e	10	\sum	None	None	None	None	None	None	None
+12	<eos>	11	e	None	None	None	None	None	None	None
+13	]	5	right	None	None	None	None	None	None	None
+14	<eos>	13	]	None	None	None	None	None	None	None

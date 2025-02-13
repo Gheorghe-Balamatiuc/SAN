@@ -1,0 +1,10 @@
+1	4	0	<sos>	None	None	None	None	None	None	None
+2	+	1	4	None	None	None	None	None	None	None
+3	4	2	+	None	None	None	None	None	None	None
+4	+	3	4	None	None	None	None	None	None	None
+5	\frac	4	+	None	None	None	None	None	None	None
+6	struct	5	\frac	above	below	None	None	None	None	None
+7	4	6	above	None	None	None	None	None	None	None
+8	<eos>	7	4	None	None	None	None	None	None	None
+9	4	6	below	None	None	None	None	None	None	None
+10	<eos>	9	4	None	None	None	None	None	None	None

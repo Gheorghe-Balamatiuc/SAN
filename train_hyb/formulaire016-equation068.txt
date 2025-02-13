@@ -1,0 +1,7 @@
+1	y	0	<sos>	None	None	None	None	None	None	None
+2	=	1	y	None	None	None	None	None	None	None
+3	a	2	=	None	None	None	None	None	None	None
+4	x	3	a	None	None	None	None	None	None	None
+5	+	4	x	None	None	None	None	None	None	None
+6	b	5	+	None	None	None	None	None	None	None
+7	<eos>	6	b	None	None	None	None	None	None	None

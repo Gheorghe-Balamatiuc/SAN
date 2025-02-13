@@ -1,0 +1,6 @@
+1	i	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	i	None	None	sub	None	None	None	None
+3	e	2	sub	None	None	None	None	None	None	None
+4	struct	3	e	None	None	sub	None	None	None	None
+5	V	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	V	None	None	None	None	None	None	None

@@ -1,0 +1,6 @@
+1	S	0	<sos>	None	None	None	None	None	None	None
+2	i	1	S	None	None	None	None	None	None	None
+3	A	2	i	None	None	None	None	None	None	None
+4	struct	3	A	None	None	sub	None	None	None	None
+5	\sigma	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	\sigma	None	None	None	None	None	None	None

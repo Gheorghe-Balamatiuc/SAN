@@ -1,0 +1,14 @@
+1	u	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	u	None	None	sub	None	None	None	right
+3	n	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	n	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	a	5	=	None	None	None	None	None	None	None
+7	q	6	a	None	None	None	None	None	None	None
+8	struct	7	q	None	None	None	sup	None	None	None
+9	n	8	sup	None	None	None	None	None	None	None
+10	-	9	n	None	None	None	None	None	None	None
+11	n	10	-	None	None	None	None	None	None	None
+12	struct	11	n	None	None	sub	None	None	None	None
+13	0	12	sub	None	None	None	None	None	None	None
+14	<eos>	13	0	None	None	None	None	None	None	None

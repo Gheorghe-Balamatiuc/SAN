@@ -22,8 +22,8 @@ def convert(root: Tree, f):
 
 
 
-label = '../train_latex.txt'
-out = 'train_hyb'
+label = 'data/test_caption.txt'
+out = 'test_hyb'
 
 position = set(['^', '_'])
 math = set(['\\frac','\sqrt'])
@@ -157,7 +157,7 @@ for line in tqdm(lines):
         parent_dict[i+1] = []
         parent_dict[labels[i][2]].append(labels[i][3])
 
-    with open(f'train_hyb/{name}.txt', 'w') as f:
+    with open(f'test_hyb/{name}.txt', 'w') as f:
         for line in labels:
             id, label, parent_id, parent_label = line
             if label != 'struct':

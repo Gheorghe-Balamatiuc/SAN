@@ -1,0 +1,4 @@
+1	\phi	0	<sos>	None	None	None	None	None	None	None
+2	\in	1	\phi	None	None	None	None	None	None	None
+3	S	2	\in	None	None	None	None	None	None	None
+4	<eos>	3	S	None	None	None	None	None	None	None

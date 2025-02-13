@@ -1,0 +1,12 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	9	1	1	None	None	None	None	None	None	None
+3	7	2	9	None	None	None	None	None	None	None
+4	+	3	7	None	None	None	None	None	None	None
+5	1	4	+	None	None	None	None	None	None	None
+6	4	5	1	None	None	None	None	None	None	None
+7	3	6	4	None	None	None	None	None	None	None
+8	\geq	7	3	None	None	None	None	None	None	None
+9	3	8	\geq	None	None	None	None	None	None	None
+10	3	9	3	None	None	None	None	None	None	None
+11	9	10	3	None	None	None	None	None	None	None
+12	<eos>	11	9	None	None	None	None	None	None	None

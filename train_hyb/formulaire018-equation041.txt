@@ -1,0 +1,9 @@
+1	r	0	<sos>	None	None	None	None	None	None	None
+2	(	1	r	None	None	None	None	None	None	None
+3	n	2	(	None	None	None	None	None	None	None
+4	)	3	n	None	None	None	None	None	None	None
+5	=	4	)	None	None	None	None	None	None	None
+6	\sqrt	5	=	None	None	None	None	None	None	None
+7	struct	6	\sqrt	None	None	None	None	None	inside	None
+8	n	7	inside	None	None	None	None	None	None	None
+9	<eos>	8	n	None	None	None	None	None	None	None

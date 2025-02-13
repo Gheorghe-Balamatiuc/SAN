@@ -5,10 +5,10 @@ import cv2
 import pickle as pkl
 
 
-image_path = '/Users/tal/Documents/Tal/myWork/公式识别/code/WAP/data/off_image_train'
-image_out = 'train_image.pkl'
+image_path = 'data/off_image_train'
+image_out = 'data/train_image.pkl'
 laebl_path = 'train_hyb'
-label_out = 'train_label.pkl'
+label_out = 'data/train_label.pkl'
 
 images = glob.glob(os.path.join(image_path, '*.bmp'))
 image_dict = {}

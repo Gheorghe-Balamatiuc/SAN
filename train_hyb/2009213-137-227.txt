@@ -1,0 +1,6 @@
+1	f	0	<sos>	None	None	None	None	None	None	None
+2	+	1	f	None	None	None	None	None	None	None
+3	[	2	+	None	None	None	None	None	None	None
+4	F	3	[	None	None	None	None	None	None	None
+5	]	4	F	None	None	None	None	None	None	None
+6	<eos>	5	]	None	None	None	None	None	None	None

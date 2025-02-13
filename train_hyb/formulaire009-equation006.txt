@@ -1,0 +1,9 @@
+1	\cos	0	<sos>	None	None	None	None	None	None	None
+2	(	1	\cos	None	None	None	None	None	None	None
+3	a	2	(	None	None	None	None	None	None	None
+4	)	3	a	None	None	None	None	None	None	None
+5	\cos	4	)	None	None	None	None	None	None	None
+6	(	5	\cos	None	None	None	None	None	None	None
+7	b	6	(	None	None	None	None	None	None	None
+8	)	7	b	None	None	None	None	None	None	None
+9	<eos>	8	)	None	None	None	None	None	None	None

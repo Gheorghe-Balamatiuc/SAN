@@ -1,0 +1,9 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	\sum	1	-	None	None	None	None	None	None	None
+3	h	2	\sum	None	None	None	None	None	None	None
+4	+	3	h	None	None	None	None	None	None	None
+5	x	4	+	None	None	None	None	None	None	None
+6	8	5	x	None	None	None	None	None	None	None
+7	.	6	8	None	None	None	None	None	None	None
+8	8	7	.	None	None	None	None	None	None	None
+9	<eos>	8	8	None	None	None	None	None	None	None

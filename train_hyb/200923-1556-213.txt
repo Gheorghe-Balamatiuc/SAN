@@ -1,0 +1,6 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	B	1	\sum	None	None	None	None	None	None	None
+3	\neq	2	B	None	None	None	None	None	None	None
+4	\sum	3	\neq	None	None	None	None	None	None	None
+5	2	4	\sum	None	None	None	None	None	None	None
+6	<eos>	5	2	None	None	None	None	None	None	None

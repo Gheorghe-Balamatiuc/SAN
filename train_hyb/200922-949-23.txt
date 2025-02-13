@@ -1,0 +1,9 @@
+1	o	0	<sos>	None	None	None	None	None	None	None
+2	(	1	o	None	None	None	None	None	None	None
+3	\mu	2	(	None	None	None	None	None	None	None
+4	)	3	\mu	None	None	None	None	None	None	None
+5	struct	4	)	None	None	None	sup	None	None	None
+6	w	5	sup	None	None	None	None	None	None	None
+7	-	6	w	None	None	None	None	None	None	None
+8	b	7	-	None	None	None	None	None	None	None
+9	<eos>	8	b	None	None	None	None	None	None	None

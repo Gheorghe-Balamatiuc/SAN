@@ -1,0 +1,14 @@
+1	q	0	<sos>	None	None	None	None	None	None	None
+2	=	1	q	None	None	None	None	None	None	None
+3	a	2	=	None	None	None	None	None	None	None
+4	1	3	a	None	None	None	None	None	None	None
+5	+	4	1	None	None	None	None	None	None	None
+6	b	5	+	None	None	None	None	None	None	None
+7	i	6	b	None	None	None	None	None	None	None
+8	+	7	i	None	None	None	None	None	None	None
+9	c	8	+	None	None	None	None	None	None	None
+10	j	9	c	None	None	None	None	None	None	None
+11	+	10	j	None	None	None	None	None	None	None
+12	d	11	+	None	None	None	None	None	None	None
+13	k	12	d	None	None	None	None	None	None	None
+14	<eos>	13	k	None	None	None	None	None	None	None

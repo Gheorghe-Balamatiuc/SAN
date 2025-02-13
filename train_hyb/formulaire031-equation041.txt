@@ -1,0 +1,7 @@
+1	8	0	<sos>	None	None	None	None	None	None	None
+2	\times	1	8	None	None	None	None	None	None	None
+3	5	2	\times	None	None	None	None	None	None	None
+4	=	3	5	None	None	None	None	None	None	None
+5	4	4	=	None	None	None	None	None	None	None
+6	0	5	4	None	None	None	None	None	None	None
+7	<eos>	6	0	None	None	None	None	None	None	None

@@ -1,0 +1,12 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\sqrt	2	above	None	None	None	None	None	None	None
+4	struct	3	\sqrt	None	None	None	None	None	inside	right
+5	R	4	inside	None	None	None	None	None	None	None
+6	<eos>	5	R	None	None	None	None	None	None	None
+7	+	4	right	None	None	None	None	None	None	None
+8	F	7	+	None	None	None	None	None	None	None
+9	<eos>	8	F	None	None	None	None	None	None	None
+10	\sum	2	below	None	None	None	None	None	None	None
+11	B	10	\sum	None	None	None	None	None	None	None
+12	<eos>	11	B	None	None	None	None	None	None	None

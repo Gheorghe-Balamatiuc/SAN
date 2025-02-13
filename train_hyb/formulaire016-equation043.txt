@@ -1,0 +1,10 @@
+1	f	0	<sos>	None	None	None	None	None	None	None
+2	(	1	f	None	None	None	None	None	None	None
+3	x	2	(	None	None	None	None	None	None	None
+4	)	3	x	None	None	None	None	None	None	None
+5	\leq	4	)	None	None	None	None	None	None	None
+6	g	5	\leq	None	None	None	None	None	None	None
+7	(	6	g	None	None	None	None	None	None	None
+8	x	7	(	None	None	None	None	None	None	None
+9	)	8	x	None	None	None	None	None	None	None
+10	<eos>	9	)	None	None	None	None	None	None	None

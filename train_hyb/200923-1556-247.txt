@@ -1,0 +1,16 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\int	2	above	None	None	None	None	None	None	None
+4	\sqrt	3	\int	None	None	None	None	None	None	None
+5	struct	4	\sqrt	None	None	None	None	None	inside	right
+6	s	5	inside	None	None	None	None	None	None	None
+7	<eos>	6	s	None	None	None	None	None	None	None
+8	d	5	right	None	None	None	None	None	None	None
+9	u	8	d	None	None	None	None	None	None	None
+10	<eos>	9	u	None	None	None	None	None	None	None
+11	\tan	2	below	None	None	None	None	None	None	None
+12	struct	11	\tan	None	None	None	sup	None	None	right
+13	g	12	sup	None	None	None	None	None	None	None
+14	<eos>	13	g	None	None	None	None	None	None	None
+15	q	12	right	None	None	None	None	None	None	None
+16	<eos>	15	q	None	None	None	None	None	None	None

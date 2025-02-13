@@ -1,0 +1,11 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	I	1	-	None	None	None	None	None	None	None
+3	-	2	I	None	None	None	None	None	None	None
+4	S	3	-	None	None	None	None	None	None	None
+5	struct	4	S	None	None	None	sup	None	None	right
+6	s	5	sup	None	None	None	None	None	None	None
+7	<eos>	6	s	None	None	None	None	None	None	None
+8	\geq	5	right	None	None	None	None	None	None	None
+9	-	8	\geq	None	None	None	None	None	None	None
+10	E	9	-	None	None	None	None	None	None	None
+11	<eos>	10	E	None	None	None	None	None	None	None

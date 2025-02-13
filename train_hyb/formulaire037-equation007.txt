@@ -1,0 +1,8 @@
+1	\lim	0	<sos>	None	None	None	None	None	None	None
+2	u	1	\lim	None	None	None	None	None	None	None
+3	struct	2	u	None	None	sub	None	None	None	right
+4	n	3	sub	None	None	None	None	None	None	None
+5	<eos>	4	n	None	None	None	None	None	None	None
+6	=	3	right	None	None	None	None	None	None	None
+7	0	6	=	None	None	None	None	None	None	None
+8	<eos>	7	0	None	None	None	None	None	None	None

@@ -1,0 +1,13 @@
+1	p	0	<sos>	None	None	None	None	None	None	None
+2	(	1	p	None	None	None	None	None	None	None
+3	s	2	(	None	None	None	None	None	None	None
+4	struct	3	s	None	None	sub	None	None	None	right
+5	i	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	i	None	None	None	None	None	None	None
+7	,	4	right	None	None	None	None	None	None	None
+8	s	7	,	None	None	None	None	None	None	None
+9	struct	8	s	None	None	sub	None	None	None	right
+10	j	9	sub	None	None	None	None	None	None	None
+11	<eos>	10	j	None	None	None	None	None	None	None
+12	)	9	right	None	None	None	None	None	None	None
+13	<eos>	12	)	None	None	None	None	None	None	None

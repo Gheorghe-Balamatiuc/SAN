@@ -1,0 +1,6 @@
+1	Y	0	<sos>	None	None	None	None	None	None	None
+2	-	1	Y	None	None	None	None	None	None	None
+3	f	2	-	None	None	None	None	None	None	None
+4	\leq	3	f	None	None	None	None	None	None	None
+5	z	4	\leq	None	None	None	None	None	None	None
+6	<eos>	5	z	None	None	None	None	None	None	None

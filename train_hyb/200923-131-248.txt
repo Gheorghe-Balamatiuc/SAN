@@ -1,0 +1,10 @@
+1	T	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	T	None	None	None	sup	None	None	right
+3	d	2	sup	None	None	None	None	None	None	None
+4	+	3	d	None	None	None	None	None	None	None
+5	v	4	+	None	None	None	None	None	None	None
+6	<eos>	5	v	None	None	None	None	None	None	None
+7	[	2	right	None	None	None	None	None	None	None
+8	\mu	7	[	None	None	None	None	None	None	None
+9	]	8	\mu	None	None	None	None	None	None	None
+10	<eos>	9	]	None	None	None	None	None	None	None

@@ -1,0 +1,9 @@
+1	g	0	<sos>	None	None	None	None	None	None	None
+2	l	1	g	None	None	None	None	None	None	None
+3	struct	2	l	None	None	None	sup	None	None	None
+4	\frac	3	sup	None	None	None	None	None	None	None
+5	struct	4	\frac	above	below	None	None	None	None	None
+6	L	5	above	None	None	None	None	None	None	None
+7	<eos>	6	L	None	None	None	None	None	None	None
+8	c	5	below	None	None	None	None	None	None	None
+9	<eos>	8	c	None	None	None	None	None	None	None

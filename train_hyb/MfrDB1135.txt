@@ -1,0 +1,6 @@
+1	5	0	<sos>	None	None	None	None	None	None	None
+2	+	1	5	None	None	None	None	None	None	None
+3	7	2	+	None	None	None	None	None	None	None
+4	=	3	7	None	None	None	None	None	None	None
+5	x	4	=	None	None	None	None	None	None	None
+6	<eos>	5	x	None	None	None	None	None	None	None

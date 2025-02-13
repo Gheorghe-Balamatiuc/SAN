@@ -1,0 +1,15 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	right
+3	1	2	above	None	None	None	None	None	None	None
+4	<eos>	3	1	None	None	None	None	None	None	None
+5	2	2	below	None	None	None	None	None	None	None
+6	<eos>	5	2	None	None	None	None	None	None	None
+7	t	2	right	None	None	None	None	None	None	None
+8	struct	7	t	None	None	None	sup	None	None	right
+9	2	8	sup	None	None	None	None	None	None	None
+10	<eos>	9	2	None	None	None	None	None	None	None
+11	u	8	right	None	None	None	None	None	None	None
+12	(	11	u	None	None	None	None	None	None	None
+13	t	12	(	None	None	None	None	None	None	None
+14	)	13	t	None	None	None	None	None	None	None
+15	<eos>	14	)	None	None	None	None	None	None	None

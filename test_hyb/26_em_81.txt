@@ -1,0 +1,14 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	2	1	-	None	None	None	None	None	None	None
+3	x	2	2	None	None	None	None	None	None	None
+4	+	3	x	None	None	None	None	None	None	None
+5	\sin	4	+	None	None	None	None	None	None	None
+6	(	5	\sin	None	None	None	None	None	None	None
+7	2	6	(	None	None	None	None	None	None	None
+8	x	7	2	None	None	None	None	None	None	None
+9	+	8	x	None	None	None	None	None	None	None
+10	2	9	+	None	None	None	None	None	None	None
+11	)	10	2	None	None	None	None	None	None	None
+12	-	11	)	None	None	None	None	None	None	None
+13	2	12	-	None	None	None	None	None	None	None
+14	<eos>	13	2	None	None	None	None	None	None	None

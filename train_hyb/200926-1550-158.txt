@@ -1,0 +1,8 @@
+1	\cdots	0	<sos>	None	None	None	None	None	None	None
+2	+	1	\cdots	None	None	None	None	None	None	None
+3	h	2	+	None	None	None	None	None	None	None
+4	\neq	3	h	None	None	None	None	None	None	None
+5	S	4	\neq	None	None	None	None	None	None	None
+6	struct	5	S	None	None	sub	None	None	None	None
+7	\phi	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	\phi	None	None	None	None	None	None	None

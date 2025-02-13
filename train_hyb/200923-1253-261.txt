@@ -1,0 +1,8 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	[	1	\int	None	None	None	None	None	None	None
+3	M	2	[	None	None	None	None	None	None	None
+4	e	3	M	None	None	None	None	None	None	None
+5	]	4	e	None	None	None	None	None	None	None
+6	d	5	]	None	None	None	None	None	None	None
+7	h	6	d	None	None	None	None	None	None	None
+8	<eos>	7	h	None	None	None	None	None	None	None

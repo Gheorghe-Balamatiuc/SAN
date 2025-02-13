@@ -1,0 +1,6 @@
+1	n	0	<sos>	None	None	None	None	None	None	None
+2	(	1	n	None	None	None	None	None	None	None
+3	p	2	(	None	None	None	None	None	None	None
+4	N	3	p	None	None	None	None	None	None	None
+5	)	4	N	None	None	None	None	None	None	None
+6	<eos>	5	)	None	None	None	None	None	None	None

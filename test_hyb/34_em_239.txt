@@ -1,0 +1,9 @@
+1	\Delta	0	<sos>	None	None	None	None	None	None	None
+2	x	1	\Delta	None	None	None	None	None	None	None
+3	\Delta	2	x	None	None	None	None	None	None	None
+4	k	3	\Delta	None	None	None	None	None	None	None
+5	\geq	4	k	None	None	None	None	None	None	None
+6	1	5	\geq	None	None	None	None	None	None	None
+7	/	6	1	None	None	None	None	None	None	None
+8	2	7	/	None	None	None	None	None	None	None
+9	<eos>	8	2	None	None	None	None	None	None	None

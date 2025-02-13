@@ -1,0 +1,10 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sum	None	below	None	None	None	None	right
+3	h	2	below	None	None	None	None	None	None	None
+4	>	3	h	None	None	None	None	None	None	None
+5	\pi	4	>	None	None	None	None	None	None	None
+6	<eos>	5	\pi	None	None	None	None	None	None	None
+7	I	2	right	None	None	None	None	None	None	None
+8	-	7	I	None	None	None	None	None	None	None
+9	q	8	-	None	None	None	None	None	None	None
+10	<eos>	9	q	None	None	None	None	None	None	None

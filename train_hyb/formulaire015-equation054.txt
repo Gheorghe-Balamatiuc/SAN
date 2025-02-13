@@ -1,0 +1,7 @@
+1	\exists	0	<sos>	None	None	None	None	None	None	None
+2	k	1	\exists	None	None	None	None	None	None	None
+3	,	2	k	None	None	None	None	None	None	None
+4	x	3	,	None	None	None	None	None	None	None
+5	struct	4	x	None	None	sub	None	None	None	None
+6	k	5	sub	None	None	None	None	None	None	None
+7	<eos>	6	k	None	None	None	None	None	None	None

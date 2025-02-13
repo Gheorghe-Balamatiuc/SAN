@@ -1,0 +1,4 @@
+1	\sigma	0	<sos>	None	None	None	None	None	None	None
+2	\in	1	\sigma	None	None	None	None	None	None	None
+3	X	2	\in	None	None	None	None	None	None	None
+4	<eos>	3	X	None	None	None	None	None	None	None

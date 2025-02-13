@@ -1,0 +1,6 @@
+1	u	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	u	None	None	sub	None	None	None	None
+3	c	2	sub	None	None	None	None	None	None	None
+4	struct	3	c	None	None	sub	None	None	None	None
+5	\mu	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	\mu	None	None	None	None	None	None	None

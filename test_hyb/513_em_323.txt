@@ -1,0 +1,13 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	\pi	1	\sum	None	None	None	None	None	None	None
+3	r	2	\pi	None	None	None	None	None	None	None
+4	struct	3	r	None	None	None	sup	None	None	right
+5	2	4	sup	None	None	None	None	None	None	None
+6	<eos>	5	2	None	None	None	None	None	None	None
+7	=	4	right	None	None	None	None	None	None	None
+8	\pi	7	=	None	None	None	None	None	None	None
+9	\sum	8	\pi	None	None	None	None	None	None	None
+10	r	9	\sum	None	None	None	None	None	None	None
+11	struct	10	r	None	None	None	sup	None	None	None
+12	2	11	sup	None	None	None	None	None	None	None
+13	<eos>	12	2	None	None	None	None	None	None	None

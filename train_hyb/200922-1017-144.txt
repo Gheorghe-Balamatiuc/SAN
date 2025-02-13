@@ -1,0 +1,17 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\int	above	None	None	sup	None	None	right
+3	H	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	H	None	None	None	None	None	None	None
+5	\sqrt	2	above	None	None	None	None	None	None	None
+6	struct	5	\sqrt	None	None	None	None	None	inside	None
+7	L	6	inside	None	None	None	None	None	None	None
+8	<eos>	7	L	None	None	None	None	None	None	None
+9	\frac	2	right	None	None	None	None	None	None	None
+10	struct	9	\frac	above	below	None	None	None	None	right
+11	z	10	above	None	None	None	None	None	None	None
+12	<eos>	11	z	None	None	None	None	None	None	None
+13	z	10	below	None	None	None	None	None	None	None
+14	<eos>	13	z	None	None	None	None	None	None	None
+15	d	10	right	None	None	None	None	None	None	None
+16	N	15	d	None	None	None	None	None	None	None
+17	<eos>	16	N	None	None	None	None	None	None	None

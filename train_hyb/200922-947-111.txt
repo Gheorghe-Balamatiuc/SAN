@@ -1,0 +1,6 @@
+1	b	0	<sos>	None	None	None	None	None	None	None
+2	\neq	1	b	None	None	None	None	None	None	None
+3	h	2	\neq	None	None	None	None	None	None	None
+4	-	3	h	None	None	None	None	None	None	None
+5	i	4	-	None	None	None	None	None	None	None
+6	<eos>	5	i	None	None	None	None	None	None	None

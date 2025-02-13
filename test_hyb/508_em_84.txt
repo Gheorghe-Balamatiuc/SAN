@@ -1,0 +1,7 @@
+1	z	0	<sos>	None	None	None	None	None	None	None
+2	=	1	z	None	None	None	None	None	None	None
+3	a	2	=	None	None	None	None	None	None	None
+4	+	3	a	None	None	None	None	None	None	None
+5	b	4	+	None	None	None	None	None	None	None
+6	j	5	b	None	None	None	None	None	None	None
+7	<eos>	6	j	None	None	None	None	None	None	None

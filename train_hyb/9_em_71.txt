@@ -1,0 +1,6 @@
+1	T	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	T	above	None	None	sup	None	None	None
+3	\mu	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	\mu	None	None	None	None	None	None	None
+5	\mu	2	above	None	None	None	None	None	None	None
+6	<eos>	5	\mu	None	None	None	None	None	None	None

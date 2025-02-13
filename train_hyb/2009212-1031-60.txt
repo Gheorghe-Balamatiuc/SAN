@@ -1,0 +1,4 @@
+1	\Delta	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\Delta	None	None	sub	None	None	None	None
+3	v	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	v	None	None	None	None	None	None	None

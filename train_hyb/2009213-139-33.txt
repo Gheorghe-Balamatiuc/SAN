@@ -1,0 +1,8 @@
+1	V	0	<sos>	None	None	None	None	None	None	None
+2	(	1	V	None	None	None	None	None	None	None
+3	\int	2	(	None	None	None	None	None	None	None
+4	T	3	\int	None	None	None	None	None	None	None
+5	d	4	T	None	None	None	None	None	None	None
+6	z	5	d	None	None	None	None	None	None	None
+7	)	6	z	None	None	None	None	None	None	None
+8	<eos>	7	)	None	None	None	None	None	None	None

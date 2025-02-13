@@ -1,0 +1,9 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	h	2	above	None	None	None	None	None	None	None
+4	<eos>	3	h	None	None	None	None	None	None	None
+5	k	2	below	None	None	None	None	None	None	None
+6	(	5	k	None	None	None	None	None	None	None
+7	y	6	(	None	None	None	None	None	None	None
+8	)	7	y	None	None	None	None	None	None	None
+9	<eos>	8	)	None	None	None	None	None	None	None

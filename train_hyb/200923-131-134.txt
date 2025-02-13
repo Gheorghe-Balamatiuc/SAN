@@ -1,0 +1,8 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	4	1	\sum	None	None	None	None	None	None	None
+3	-	2	4	None	None	None	None	None	None	None
+4	\int	3	-	None	None	None	None	None	None	None
+5	E	4	\int	None	None	None	None	None	None	None
+6	d	5	E	None	None	None	None	None	None	None
+7	V	6	d	None	None	None	None	None	None	None
+8	<eos>	7	V	None	None	None	None	None	None	None

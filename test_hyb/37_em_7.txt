@@ -1,0 +1,4 @@
+1	\cos	0	<sos>	None	None	None	None	None	None	None
+2	6	1	\cos	None	None	None	None	None	None	None
+3	\theta	2	6	None	None	None	None	None	None	None
+4	<eos>	3	\theta	None	None	None	None	None	None	None

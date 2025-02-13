@@ -1,0 +1,11 @@
+1	\tan	0	<sos>	None	None	None	None	None	None	None
+2	z	1	\tan	None	None	None	None	None	None	None
+3	=	2	z	None	None	None	None	None	None	None
+4	\frac	3	=	None	None	None	None	None	None	None
+5	struct	4	\frac	above	below	None	None	None	None	None
+6	\sin	5	above	None	None	None	None	None	None	None
+7	z	6	\sin	None	None	None	None	None	None	None
+8	<eos>	7	z	None	None	None	None	None	None	None
+9	\cos	5	below	None	None	None	None	None	None	None
+10	z	9	\cos	None	None	None	None	None	None	None
+11	<eos>	10	z	None	None	None	None	None	None	None

@@ -1,0 +1,8 @@
+1	l	0	<sos>	None	None	None	None	None	None	None
+2	f	1	l	None	None	None	None	None	None	None
+3	=	2	f	None	None	None	None	None	None	None
+4	i	3	=	None	None	None	None	None	None	None
+5	d	4	i	None	None	None	None	None	None	None
+6	struct	5	d	None	None	sub	None	None	None	None
+7	X	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	X	None	None	None	None	None	None	None

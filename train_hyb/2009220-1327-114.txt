@@ -1,0 +1,4 @@
+1	d	0	<sos>	None	None	None	None	None	None	None
+2	\sum	1	d	None	None	None	None	None	None	None
+3	h	2	\sum	None	None	None	None	None	None	None
+4	<eos>	3	h	None	None	None	None	None	None	None

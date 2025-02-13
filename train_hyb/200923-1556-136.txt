@@ -1,0 +1,6 @@
+1	T	0	<sos>	None	None	None	None	None	None	None
+2	\int	1	T	None	None	None	None	None	None	None
+3	\Delta	2	\int	None	None	None	None	None	None	None
+4	d	3	\Delta	None	None	None	None	None	None	None
+5	l	4	d	None	None	None	None	None	None	None
+6	<eos>	5	l	None	None	None	None	None	None	None

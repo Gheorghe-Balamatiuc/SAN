@@ -1,0 +1,7 @@
+1	\cos	0	<sos>	None	None	None	None	None	None	None
+2	\alpha	1	\cos	None	None	None	None	None	None	None
+3	+	2	\alpha	None	None	None	None	None	None	None
+4	i	3	+	None	None	None	None	None	None	None
+5	\sin	4	i	None	None	None	None	None	None	None
+6	\alpha	5	\sin	None	None	None	None	None	None	None
+7	<eos>	6	\alpha	None	None	None	None	None	None	None

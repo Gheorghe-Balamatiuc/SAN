@@ -1,0 +1,13 @@
+1	T	0	<sos>	None	None	None	None	None	None	None
+2	+	1	T	None	None	None	None	None	None	None
+3	\sin	2	+	None	None	None	None	None	None	None
+4	a	3	\sin	None	None	None	None	None	None	None
+5	struct	4	a	None	None	None	sup	None	None	right
+6	M	5	sup	None	None	None	None	None	None	None
+7	<eos>	6	M	None	None	None	None	None	None	None
+8	\leq	5	right	None	None	None	None	None	None	None
+9	4	8	\leq	None	None	None	None	None	None	None
+10	.	9	4	None	None	None	None	None	None	None
+11	4	10	.	None	None	None	None	None	None	None
+12	5	11	4	None	None	None	None	None	None	None
+13	<eos>	12	5	None	None	None	None	None	None	None

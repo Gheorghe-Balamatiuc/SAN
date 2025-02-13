@@ -1,0 +1,9 @@
+1	g	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	g	None	None	sub	None	None	None	right
+3	\theta	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	\theta	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	g	5	=	None	None	None	None	None	None	None
+7	\sin	6	g	None	None	None	None	None	None	None
+8	\theta	7	\sin	None	None	None	None	None	None	None
+9	<eos>	8	\theta	None	None	None	None	None	None	None

@@ -1,0 +1,4 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	q	1	-	None	None	None	None	None	None	None
+3	l	2	q	None	None	None	None	None	None	None
+4	<eos>	3	l	None	None	None	None	None	None	None

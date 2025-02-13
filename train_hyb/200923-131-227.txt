@@ -1,0 +1,4 @@
+1	y	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	y	None	None	sub	None	None	None	None
+3	\phi	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	\phi	None	None	None	None	None	None	None

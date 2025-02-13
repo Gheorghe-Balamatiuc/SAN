@@ -1,0 +1,10 @@
+1	\theta	0	<sos>	None	None	None	None	None	None	None
+2	\leq	1	\theta	None	None	None	None	None	None	None
+3	f	2	\leq	None	None	None	None	None	None	None
+4	+	3	f	None	None	None	None	None	None	None
+5	\frac	4	+	None	None	None	None	None	None	None
+6	struct	5	\frac	above	below	None	None	None	None	None
+7	\beta	6	above	None	None	None	None	None	None	None
+8	<eos>	7	\beta	None	None	None	None	None	None	None
+9	7	6	below	None	None	None	None	None	None	None
+10	<eos>	9	7	None	None	None	None	None	None	None

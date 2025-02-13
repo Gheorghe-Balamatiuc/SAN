@@ -1,0 +1,9 @@
+1	\phi	0	<sos>	None	None	None	None	None	None	None
+2	=	1	\phi	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	\pi	4	above	None	None	None	None	None	None	None
+6	<eos>	5	\pi	None	None	None	None	None	None	None
+7	2	4	below	None	None	None	None	None	None	None
+8	p	7	2	None	None	None	None	None	None	None
+9	<eos>	8	p	None	None	None	None	None	None	None

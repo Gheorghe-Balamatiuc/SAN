@@ -1,0 +1,12 @@
+1	7	0	<sos>	None	None	None	None	None	None	None
+2	\times	1	7	None	None	None	None	None	None	None
+3	1	2	\times	None	None	None	None	None	None	None
+4	5	3	1	None	None	None	None	None	None	None
+5	4	4	5	None	None	None	None	None	None	None
+6	\neq	5	4	None	None	None	None	None	None	None
+7	-	6	\neq	None	None	None	None	None	None	None
+8	1	7	-	None	None	None	None	None	None	None
+9	3	8	1	None	None	None	None	None	None	None
+10	6	9	3	None	None	None	None	None	None	None
+11	2	10	6	None	None	None	None	None	None	None
+12	<eos>	11	2	None	None	None	None	None	None	None

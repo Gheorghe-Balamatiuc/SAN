@@ -1,0 +1,15 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	x	None	None	sub	None	None	None	right
+3	1	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	1	None	None	None	None	None	None	None
+5	x	2	right	None	None	None	None	None	None	None
+6	struct	5	x	None	None	sub	None	None	None	right
+7	2	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	2	None	None	None	None	None	None	None
+9	=	6	right	None	None	None	None	None	None	None
+10	\frac	9	=	None	None	None	None	None	None	None
+11	struct	10	\frac	above	below	None	None	None	None	None
+12	c	11	above	None	None	None	None	None	None	None
+13	<eos>	12	c	None	None	None	None	None	None	None
+14	a	11	below	None	None	None	None	None	None	None
+15	<eos>	14	a	None	None	None	None	None	None	None

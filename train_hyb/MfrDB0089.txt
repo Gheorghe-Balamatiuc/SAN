@@ -1,0 +1,10 @@
+1	\cos	0	<sos>	None	None	None	None	None	None	None
+2	x	1	\cos	None	None	None	None	None	None	None
+3	\leq	2	x	None	None	None	None	None	None	None
+4	\frac	3	\leq	None	None	None	None	None	None	None
+5	struct	4	\frac	above	below	None	None	None	None	None
+6	\sin	5	above	None	None	None	None	None	None	None
+7	x	6	\sin	None	None	None	None	None	None	None
+8	<eos>	7	x	None	None	None	None	None	None	None
+9	x	5	below	None	None	None	None	None	None	None
+10	<eos>	9	x	None	None	None	None	None	None	None

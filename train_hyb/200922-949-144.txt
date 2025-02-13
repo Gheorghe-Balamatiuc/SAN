@@ -1,0 +1,6 @@
+1	6	0	<sos>	None	None	None	None	None	None	None
+2	.	1	6	None	None	None	None	None	None	None
+3	1	2	.	None	None	None	None	None	None	None
+4	\sum	3	1	None	None	None	None	None	None	None
+5	e	4	\sum	None	None	None	None	None	None	None
+6	<eos>	5	e	None	None	None	None	None	None	None

@@ -1,0 +1,8 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\sqrt	2	above	None	None	None	None	None	None	None
+4	struct	3	\sqrt	None	None	None	None	None	inside	None
+5	V	4	inside	None	None	None	None	None	None	None
+6	<eos>	5	V	None	None	None	None	None	None	None
+7	h	2	below	None	None	None	None	None	None	None
+8	<eos>	7	h	None	None	None	None	None	None	None

@@ -1,0 +1,6 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	\sum	1	-	None	None	None	None	None	None	None
+3	m	2	\sum	None	None	None	None	None	None	None
+4	-	3	m	None	None	None	None	None	None	None
+5	T	4	-	None	None	None	None	None	None	None
+6	<eos>	5	T	None	None	None	None	None	None	None

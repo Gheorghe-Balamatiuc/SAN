@@ -1,0 +1,17 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\sin	2	above	None	None	None	None	None	None	None
+4	\theta	3	\sin	None	None	None	None	None	None	None
+5	+	4	\theta	None	None	None	None	None	None	None
+6	\cos	5	+	None	None	None	None	None	None	None
+7	\theta	6	\cos	None	None	None	None	None	None	None
+8	+	7	\theta	None	None	None	None	None	None	None
+9	\tan	8	+	None	None	None	None	None	None	None
+10	\theta	9	\tan	None	None	None	None	None	None	None
+11	<eos>	10	\theta	None	None	None	None	None	None	None
+12	x	2	below	None	None	None	None	None	None	None
+13	+	12	x	None	None	None	None	None	None	None
+14	y	13	+	None	None	None	None	None	None	None
+15	+	14	y	None	None	None	None	None	None	None
+16	z	15	+	None	None	None	None	None	None	None
+17	<eos>	16	z	None	None	None	None	None	None	None

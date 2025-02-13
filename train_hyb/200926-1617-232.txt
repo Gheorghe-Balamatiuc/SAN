@@ -1,0 +1,12 @@
+1	\cdots	0	<sos>	None	None	None	None	None	None	None
+2	-	1	\cdots	None	None	None	None	None	None	None
+3	\cdots	2	-	None	None	None	None	None	None	None
+4	+	3	\cdots	None	None	None	None	None	None	None
+5	k	4	+	None	None	None	None	None	None	None
+6	struct	5	k	None	None	None	sup	None	None	right
+7	v	6	sup	None	None	None	None	None	None	None
+8	<eos>	7	v	None	None	None	None	None	None	None
+9	(	6	right	None	None	None	None	None	None	None
+10	z	9	(	None	None	None	None	None	None	None
+11	)	10	z	None	None	None	None	None	None	None
+12	<eos>	11	)	None	None	None	None	None	None	None

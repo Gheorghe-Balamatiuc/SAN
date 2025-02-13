@@ -1,0 +1,16 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\sum	2	above	None	None	None	None	None	None	None
+4	struct	3	\sum	above	below	None	None	None	None	right
+5	k	4	below	None	None	None	None	None	None	None
+6	=	5	k	None	None	None	None	None	None	None
+7	1	6	=	None	None	None	None	None	None	None
+8	<eos>	7	1	None	None	None	None	None	None	None
+9	N	4	above	None	None	None	None	None	None	None
+10	<eos>	9	N	None	None	None	None	None	None	None
+11	k	4	right	None	None	None	None	None	None	None
+12	struct	11	k	None	None	None	sup	None	None	None
+13	2	12	sup	None	None	None	None	None	None	None
+14	<eos>	13	2	None	None	None	None	None	None	None
+15	a	2	below	None	None	None	None	None	None	None
+16	<eos>	15	a	None	None	None	None	None	None	None

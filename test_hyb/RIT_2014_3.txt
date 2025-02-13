@@ -1,0 +1,17 @@
+1	d	0	<sos>	None	None	None	None	None	None	None
+2	=	1	d	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	2	4	above	None	None	None	None	None	None	None
+6	r	5	2	None	None	None	None	None	None	None
+7	\tan	6	r	None	None	None	None	None	None	None
+8	a	7	\tan	None	None	None	None	None	None	None
+9	\tan	8	a	None	None	None	None	None	None	None
+10	b	9	\tan	None	None	None	None	None	None	None
+11	<eos>	10	b	None	None	None	None	None	None	None
+12	\tan	4	below	None	None	None	None	None	None	None
+13	a	12	\tan	None	None	None	None	None	None	None
+14	+	13	a	None	None	None	None	None	None	None
+15	\tan	14	+	None	None	None	None	None	None	None
+16	b	15	\tan	None	None	None	None	None	None	None
+17	<eos>	16	b	None	None	None	None	None	None	None

@@ -1,0 +1,15 @@
+1	M	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	M	None	None	None	sup	None	None	right
+3	l	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	l	None	None	None	None	None	None	None
+5	\frac	2	right	None	None	None	None	None	None	None
+6	struct	5	\frac	above	below	None	None	None	None	right
+7	Y	6	above	None	None	None	None	None	None	None
+8	+	7	Y	None	None	None	None	None	None	None
+9	L	8	+	None	None	None	None	None	None	None
+10	<eos>	9	L	None	None	None	None	None	None	None
+11	S	6	below	None	None	None	None	None	None	None
+12	<eos>	11	S	None	None	None	None	None	None	None
+13	S	6	right	None	None	None	None	None	None	None
+14	i	13	S	None	None	None	None	None	None	None
+15	<eos>	14	i	None	None	None	None	None	None	None

@@ -1,0 +1,6 @@
+1	\cos	0	<sos>	None	None	None	None	None	None	None
+2	(	1	\cos	None	None	None	None	None	None	None
+3	n	2	(	None	None	None	None	None	None	None
+4	x	3	n	None	None	None	None	None	None	None
+5	)	4	x	None	None	None	None	None	None	None
+6	<eos>	5	)	None	None	None	None	None	None	None

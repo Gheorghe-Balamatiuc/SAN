@@ -1,0 +1,6 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	b	1	-	None	None	None	None	None	None	None
+3	\neq	2	b	None	None	None	None	None	None	None
+4	\sum	3	\neq	None	None	None	None	None	None	None
+5	V	4	\sum	None	None	None	None	None	None	None
+6	<eos>	5	V	None	None	None	None	None	None	None

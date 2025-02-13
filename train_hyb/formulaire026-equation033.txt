@@ -1,0 +1,8 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	c	1	a	None	None	None	None	None	None	None
+3	x	2	c	None	None	None	None	None	None	None
+4	struct	3	x	None	None	None	sup	None	None	None
+5	c	4	sup	None	None	None	None	None	None	None
+6	-	5	c	None	None	None	None	None	None	None
+7	1	6	-	None	None	None	None	None	None	None
+8	<eos>	7	1	None	None	None	None	None	None	None

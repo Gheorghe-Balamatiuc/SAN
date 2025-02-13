@@ -1,0 +1,5 @@
+1	S	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	S	None	None	None	sup	None	None	None
+3	\sigma	2	sup	None	None	None	None	None	None	None
+4	o	3	\sigma	None	None	None	None	None	None	None
+5	<eos>	4	o	None	None	None	None	None	None	None

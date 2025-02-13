@@ -1,0 +1,4 @@
+1	c	0	<sos>	None	None	None	None	None	None	None
+2	B	1	c	None	None	None	None	None	None	None
+3	t	2	B	None	None	None	None	None	None	None
+4	<eos>	3	t	None	None	None	None	None	None	None

@@ -1,0 +1,8 @@
+1	P	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	P	None	None	None	sup	None	None	right
+3	\mu	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	\mu	None	None	None	None	None	None	None
+5	P	2	right	None	None	None	None	None	None	None
+6	struct	5	P	None	None	sub	None	None	None	None
+7	\mu	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	\mu	None	None	None	None	None	None	None

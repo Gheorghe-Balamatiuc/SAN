@@ -1,0 +1,14 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sum	None	below	None	None	None	None	right
+3	Y	2	below	None	None	None	None	None	None	None
+4	\geq	3	Y	None	None	None	None	None	None	None
+5	x	4	\geq	None	None	None	None	None	None	None
+6	<eos>	5	x	None	None	None	None	None	None	None
+7	[	2	right	None	None	None	None	None	None	None
+8	w	7	[	None	None	None	None	None	None	None
+9	]	8	w	None	None	None	None	None	None	None
+10	+	9	]	None	None	None	None	None	None	None
+11	2	10	+	None	None	None	None	None	None	None
+12	.	11	2	None	None	None	None	None	None	None
+13	0	12	.	None	None	None	None	None	None	None
+14	<eos>	13	0	None	None	None	None	None	None	None

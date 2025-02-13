@@ -1,0 +1,16 @@
+1	\sqrt	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sqrt	None	None	None	None	None	inside	None
+3	-	2	inside	None	None	None	None	None	None	None
+4	\sum	3	-	None	None	None	None	None	None	None
+5	1	4	\sum	None	None	None	None	None	None	None
+6	+	5	1	None	None	None	None	None	None	None
+7	j	6	+	None	None	None	None	None	None	None
+8	-	7	j	None	None	None	None	None	None	None
+9	\frac	8	-	None	None	None	None	None	None	None
+10	struct	9	\frac	above	below	None	None	None	None	None
+11	s	10	above	None	None	None	None	None	None	None
+12	<eos>	11	s	None	None	None	None	None	None	None
+13	\theta	10	below	None	None	None	None	None	None	None
+14	-	13	\theta	None	None	None	None	None	None	None
+15	G	14	-	None	None	None	None	None	None	None
+16	<eos>	15	G	None	None	None	None	None	None	None

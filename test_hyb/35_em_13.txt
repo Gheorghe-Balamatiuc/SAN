@@ -1,0 +1,14 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	x	1	(	None	None	None	None	None	None	None
+3	\times	2	x	None	None	None	None	None	None	None
+4	x	3	\times	None	None	None	None	None	None	None
+5	\times	4	x	None	None	None	None	None	None	None
+6	x	5	\times	None	None	None	None	None	None	None
+7	)	6	x	None	None	None	None	None	None	None
+8	\times	7	)	None	None	None	None	None	None	None
+9	(	8	\times	None	None	None	None	None	None	None
+10	x	9	(	None	None	None	None	None	None	None
+11	\times	10	x	None	None	None	None	None	None	None
+12	x	11	\times	None	None	None	None	None	None	None
+13	)	12	x	None	None	None	None	None	None	None
+14	<eos>	13	)	None	None	None	None	None	None	None

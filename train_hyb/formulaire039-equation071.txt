@@ -1,0 +1,13 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	(	1	x	None	None	None	None	None	None	None
+3	y	2	(	None	None	None	None	None	None	None
+4	+	3	y	None	None	None	None	None	None	None
+5	z	4	+	None	None	None	None	None	None	None
+6	)	5	z	None	None	None	None	None	None	None
+7	=	6	)	None	None	None	None	None	None	None
+8	x	7	=	None	None	None	None	None	None	None
+9	y	8	x	None	None	None	None	None	None	None
+10	+	9	y	None	None	None	None	None	None	None
+11	x	10	+	None	None	None	None	None	None	None
+12	z	11	x	None	None	None	None	None	None	None
+13	<eos>	12	z	None	None	None	None	None	None	None

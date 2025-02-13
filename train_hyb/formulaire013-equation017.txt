@@ -1,0 +1,4 @@
+1	\alpha	0	<sos>	None	None	None	None	None	None	None
+2	,	1	\alpha	None	None	None	None	None	None	None
+3	\beta	2	,	None	None	None	None	None	None	None
+4	<eos>	3	\beta	None	None	None	None	None	None	None

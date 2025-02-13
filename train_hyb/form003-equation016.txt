@@ -1,0 +1,12 @@
+1	\forall	0	<sos>	None	None	None	None	None	None	None
+2	x	1	\forall	None	None	None	None	None	None	None
+3	\in	2	x	None	None	None	None	None	None	None
+4	E	3	\in	None	None	None	None	None	None	None
+5	\exists	4	E	None	None	None	None	None	None	None
+6	y	5	\exists	None	None	None	None	None	None	None
+7	\in	6	y	None	None	None	None	None	None	None
+8	E	7	\in	None	None	None	None	None	None	None
+9	x	8	E	None	None	None	None	None	None	None
+10	R	9	x	None	None	None	None	None	None	None
+11	y	10	R	None	None	None	None	None	None	None
+12	<eos>	11	y	None	None	None	None	None	None	None

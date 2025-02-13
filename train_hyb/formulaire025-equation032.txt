@@ -1,0 +1,15 @@
+1	w	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	w	None	None	sub	None	None	None	right
+3	n	2	sub	None	None	None	None	None	None	None
+4	+	3	n	None	None	None	None	None	None	None
+5	1	4	+	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None
+7	=	2	right	None	None	None	None	None	None	None
+8	x	7	=	None	None	None	None	None	None	None
+9	e	8	x	None	None	None	None	None	None	None
+10	struct	9	e	None	None	None	sup	None	None	None
+11	-	10	sup	None	None	None	None	None	None	None
+12	w	11	-	None	None	None	None	None	None	None
+13	struct	12	w	None	None	sub	None	None	None	None
+14	n	13	sub	None	None	None	None	None	None	None
+15	<eos>	14	n	None	None	None	None	None	None	None

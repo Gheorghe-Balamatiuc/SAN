@@ -1,0 +1,15 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	=	1	a	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	\pm	4	above	None	None	None	None	None	None	None
+6	1	5	\pm	None	None	None	None	None	None	None
+7	<eos>	6	1	None	None	None	None	None	None	None
+8	\sqrt	4	below	None	None	None	None	None	None	None
+9	struct	8	\sqrt	None	None	None	None	None	inside	None
+10	1	9	inside	None	None	None	None	None	None	None
+11	-	10	1	None	None	None	None	None	None	None
+12	\beta	11	-	None	None	None	None	None	None	None
+13	struct	12	\beta	None	None	None	sup	None	None	None
+14	2	13	sup	None	None	None	None	None	None	None
+15	<eos>	14	2	None	None	None	None	None	None	None

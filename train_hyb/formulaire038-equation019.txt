@@ -1,0 +1,10 @@
+1	\theta	0	<sos>	None	None	None	None	None	None	None
+2	=	1	\theta	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	2	4	above	None	None	None	None	None	None	None
+6	k	5	2	None	None	None	None	None	None	None
+7	\pi	6	k	None	None	None	None	None	None	None
+8	<eos>	7	\pi	None	None	None	None	None	None	None
+9	q	4	below	None	None	None	None	None	None	None
+10	<eos>	9	q	None	None	None	None	None	None	None

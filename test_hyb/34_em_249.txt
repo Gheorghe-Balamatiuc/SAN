@@ -1,0 +1,17 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	right
+3	2	2	above	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None
+5	n	2	below	None	None	None	None	None	None	None
+6	\pi	5	n	None	None	None	None	None	None	None
+7	<eos>	6	\pi	None	None	None	None	None	None	None
+8	(	2	right	None	None	None	None	None	None	None
+9	1	8	(	None	None	None	None	None	None	None
+10	-	9	1	None	None	None	None	None	None	None
+11	\cos	10	-	None	None	None	None	None	None	None
+12	(	11	\cos	None	None	None	None	None	None	None
+13	n	12	(	None	None	None	None	None	None	None
+14	\pi	13	n	None	None	None	None	None	None	None
+15	)	14	\pi	None	None	None	None	None	None	None
+16	)	15	)	None	None	None	None	None	None	None
+17	<eos>	16	)	None	None	None	None	None	None	None

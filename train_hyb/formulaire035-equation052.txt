@@ -1,0 +1,7 @@
+1	n	0	<sos>	None	None	None	None	None	None	None
+2	o	1	n	None	None	None	None	None	None	None
+3	n	2	o	None	None	None	None	None	None	None
+4	(	3	n	None	None	None	None	None	None	None
+5	\phi	4	(	None	None	None	None	None	None	None
+6	)	5	\phi	None	None	None	None	None	None	None
+7	<eos>	6	)	None	None	None	None	None	None	None

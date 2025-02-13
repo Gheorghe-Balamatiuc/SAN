@@ -1,0 +1,11 @@
+1	\sqrt	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sqrt	None	None	None	None	None	inside	None
+3	\sqrt	2	inside	None	None	None	None	None	None	None
+4	struct	3	\sqrt	None	None	None	None	None	inside	None
+5	\sqrt	4	inside	None	None	None	None	None	None	None
+6	struct	5	\sqrt	None	None	None	None	None	inside	None
+7	4	6	inside	None	None	None	None	None	None	None
+8	struct	7	4	None	None	None	sup	None	None	None
+9	4	8	sup	None	None	None	None	None	None	None
+10	!	9	4	None	None	None	None	None	None	None
+11	<eos>	10	!	None	None	None	None	None	None	None

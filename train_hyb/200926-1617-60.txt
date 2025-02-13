@@ -1,0 +1,8 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\beta	2	above	None	None	None	None	None	None	None
+4	+	3	\beta	None	None	None	None	None	None	None
+5	\gamma	4	+	None	None	None	None	None	None	None
+6	<eos>	5	\gamma	None	None	None	None	None	None	None
+7	\theta	2	below	None	None	None	None	None	None	None
+8	<eos>	7	\theta	None	None	None	None	None	None	None

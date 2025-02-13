@@ -1,0 +1,11 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	b	2	above	None	None	None	None	None	None	None
+4	struct	3	b	None	None	None	sup	None	None	None
+5	2	4	sup	None	None	None	None	None	None	None
+6	x	5	2	None	None	None	None	None	None	None
+7	<eos>	6	x	None	None	None	None	None	None	None
+8	b	2	below	None	None	None	None	None	None	None
+9	struct	8	b	None	None	None	sup	None	None	None
+10	y	9	sup	None	None	None	None	None	None	None
+11	<eos>	10	y	None	None	None	None	None	None	None

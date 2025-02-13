@@ -1,0 +1,8 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	0	1	1	None	None	None	None	None	None	None
+3	0	2	0	None	None	None	None	None	None	None
+4	,	3	0	None	None	None	None	None	None	None
+5	0	4	,	None	None	None	None	None	None	None
+6	0	5	0	None	None	None	None	None	None	None
+7	0	6	0	None	None	None	None	None	None	None
+8	<eos>	7	0	None	None	None	None	None	None	None

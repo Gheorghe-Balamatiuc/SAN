@@ -1,0 +1,7 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	=	1	x	None	None	None	None	None	None	None
+3	z	2	=	None	None	None	None	None	None	None
+4	\sqrt	3	z	None	None	None	None	None	None	None
+5	struct	4	\sqrt	None	None	None	None	None	inside	None
+6	b	5	inside	None	None	None	None	None	None	None
+7	<eos>	6	b	None	None	None	None	None	None	None

@@ -1,0 +1,5 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	l	1	a	None	None	None	None	None	None	None
+3	l	2	l	None	None	None	None	None	None	None
+4	z	3	l	None	None	None	None	None	None	None
+5	<eos>	4	z	None	None	None	None	None	None	None

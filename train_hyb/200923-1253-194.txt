@@ -1,0 +1,10 @@
+1	G	0	<sos>	None	None	None	None	None	None	None
+2	-	1	G	None	None	None	None	None	None	None
+3	M	2	-	None	None	None	None	None	None	None
+4	\leq	3	M	None	None	None	None	None	None	None
+5	\frac	4	\leq	None	None	None	None	None	None	None
+6	struct	5	\frac	above	below	None	None	None	None	None
+7	I	6	above	None	None	None	None	None	None	None
+8	<eos>	7	I	None	None	None	None	None	None	None
+9	\pi	6	below	None	None	None	None	None	None	None
+10	<eos>	9	\pi	None	None	None	None	None	None	None

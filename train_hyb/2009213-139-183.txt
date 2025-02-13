@@ -1,0 +1,4 @@
+1	R	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	R	None	None	None	sup	None	None	None
+3	l	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	l	None	None	None	None	None	None	None

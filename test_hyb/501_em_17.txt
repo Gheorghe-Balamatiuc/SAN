@@ -1,0 +1,4 @@
+1	\mu	0	<sos>	None	None	None	None	None	None	None
+2	\pm	1	\mu	None	None	None	None	None	None	None
+3	\sigma	2	\pm	None	None	None	None	None	None	None
+4	<eos>	3	\sigma	None	None	None	None	None	None	None

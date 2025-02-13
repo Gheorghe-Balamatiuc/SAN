@@ -1,0 +1,7 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	6	1	\sum	None	None	None	None	None	None	None
+3	.	2	6	None	None	None	None	None	None	None
+4	7	3	.	None	None	None	None	None	None	None
+5	-	4	7	None	None	None	None	None	None	None
+6	\Delta	5	-	None	None	None	None	None	None	None
+7	<eos>	6	\Delta	None	None	None	None	None	None	None

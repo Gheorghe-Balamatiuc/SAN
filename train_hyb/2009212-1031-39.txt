@@ -1,0 +1,7 @@
+1	i	0	<sos>	None	None	None	None	None	None	None
+2	(	1	i	None	None	None	None	None	None	None
+3	[	2	(	None	None	None	None	None	None	None
+4	0	3	[	None	None	None	None	None	None	None
+5	]	4	0	None	None	None	None	None	None	None
+6	)	5	]	None	None	None	None	None	None	None
+7	<eos>	6	)	None	None	None	None	None	None	None

@@ -1,0 +1,6 @@
+1	\cdots	0	<sos>	None	None	None	None	None	None	None
+2	+	1	\cdots	None	None	None	None	None	None	None
+3	g	2	+	None	None	None	None	None	None	None
+4	-	3	g	None	None	None	None	None	None	None
+5	w	4	-	None	None	None	None	None	None	None
+6	<eos>	5	w	None	None	None	None	None	None	None

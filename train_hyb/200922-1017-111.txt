@@ -1,0 +1,12 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	2	1	-	None	None	None	None	None	None	None
+3	0	2	2	None	None	None	None	None	None	None
+4	9	3	0	None	None	None	None	None	None	None
+5	.	4	9	None	None	None	None	None	None	None
+6	4	5	.	None	None	None	None	None	None	None
+7	\frac	6	4	None	None	None	None	None	None	None
+8	struct	7	\frac	above	below	None	None	None	None	None
+9	c	8	above	None	None	None	None	None	None	None
+10	<eos>	9	c	None	None	None	None	None	None	None
+11	u	8	below	None	None	None	None	None	None	None
+12	<eos>	11	u	None	None	None	None	None	None	None

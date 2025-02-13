@@ -1,0 +1,6 @@
+1	G	0	<sos>	None	None	None	None	None	None	None
+2	+	1	G	None	None	None	None	None	None	None
+3	N	2	+	None	None	None	None	None	None	None
+4	+	3	N	None	None	None	None	None	None	None
+5	\Delta	4	+	None	None	None	None	None	None	None
+6	<eos>	5	\Delta	None	None	None	None	None	None	None

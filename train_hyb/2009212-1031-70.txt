@@ -1,0 +1,9 @@
+1	L	0	<sos>	None	None	None	None	None	None	None
+2	\sum	1	L	None	None	None	None	None	None	None
+3	struct	2	\sum	None	below	None	None	None	None	right
+4	m	3	below	None	None	None	None	None	None	None
+5	>	4	m	None	None	None	None	None	None	None
+6	S	5	>	None	None	None	None	None	None	None
+7	<eos>	6	S	None	None	None	None	None	None	None
+8	\sigma	3	right	None	None	None	None	None	None	None
+9	<eos>	8	\sigma	None	None	None	None	None	None	None

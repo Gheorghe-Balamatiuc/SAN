@@ -1,0 +1,10 @@
+1	S	0	<sos>	None	None	None	None	None	None	None
+2	u	1	S	None	None	None	None	None	None	None
+3	p	2	u	None	None	None	None	None	None	None
+4	E	3	p	None	None	None	None	None	None	None
+5	\leq	4	E	None	None	None	None	None	None	None
+6	S	5	\leq	None	None	None	None	None	None	None
+7	u	6	S	None	None	None	None	None	None	None
+8	p	7	u	None	None	None	None	None	None	None
+9	F	8	p	None	None	None	None	None	None	None
+10	<eos>	9	F	None	None	None	None	None	None	None

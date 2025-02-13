@@ -1,0 +1,6 @@
+1	C	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	C	None	None	sub	None	None	None	right
+3	q	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	q	None	None	None	None	None	None	None
+5	s	2	right	None	None	None	None	None	None	None
+6	<eos>	5	s	None	None	None	None	None	None	None

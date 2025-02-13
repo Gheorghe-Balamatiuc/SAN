@@ -1,0 +1,16 @@
+1	9	0	<sos>	None	None	None	None	None	None	None
+2	6	1	9	None	None	None	None	None	None	None
+3	\times	2	6	None	None	None	None	None	None	None
+4	(	3	\times	None	None	None	None	None	None	None
+5	0	4	(	None	None	None	None	None	None	None
+6	-	5	0	None	None	None	None	None	None	None
+7	5	6	-	None	None	None	None	None	None	None
+8	3	7	5	None	None	None	None	None	None	None
+9	)	8	3	None	None	None	None	None	None	None
+10	\geq	9	)	None	None	None	None	None	None	None
+11	-	10	\geq	None	None	None	None	None	None	None
+12	5	11	-	None	None	None	None	None	None	None
+13	0	12	5	None	None	None	None	None	None	None
+14	8	13	0	None	None	None	None	None	None	None
+15	8	14	8	None	None	None	None	None	None	None
+16	<eos>	15	8	None	None	None	None	None	None	None

@@ -1,0 +1,6 @@
+1	2	0	<sos>	None	None	None	None	None	None	None
+2	\times	1	2	None	None	None	None	None	None	None
+3	2	2	\times	None	None	None	None	None	None	None
+4	struct	3	2	None	None	None	sup	None	None	None
+5	8	4	sup	None	None	None	None	None	None	None
+6	<eos>	5	8	None	None	None	None	None	None	None

@@ -1,0 +1,13 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sum	None	below	None	None	None	None	right
+3	u	2	below	None	None	None	None	None	None	None
+4	>	3	u	None	None	None	None	None	None	None
+5	v	4	>	None	None	None	None	None	None	None
+6	<eos>	5	v	None	None	None	None	None	None	None
+7	-	2	right	None	None	None	None	None	None	None
+8	\sigma	7	-	None	None	None	None	None	None	None
+9	+	8	\sigma	None	None	None	None	None	None	None
+10	(	9	+	None	None	None	None	None	None	None
+11	a	10	(	None	None	None	None	None	None	None
+12	)	11	a	None	None	None	None	None	None	None
+13	<eos>	12	)	None	None	None	None	None	None	None

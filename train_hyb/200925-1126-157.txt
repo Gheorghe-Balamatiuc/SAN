@@ -1,0 +1,16 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	H	2	above	None	None	None	None	None	None	None
+4	-	3	H	None	None	None	None	None	None	None
+5	[	4	-	None	None	None	None	None	None	None
+6	x	5	[	None	None	None	None	None	None	None
+7	]	6	x	None	None	None	None	None	None	None
+8	<eos>	7	]	None	None	None	None	None	None	None
+9	I	2	below	None	None	None	None	None	None	None
+10	struct	9	I	None	None	None	sup	None	None	right
+11	G	10	sup	None	None	None	None	None	None	None
+12	<eos>	11	G	None	None	None	None	None	None	None
+13	(	10	right	None	None	None	None	None	None	None
+14	N	13	(	None	None	None	None	None	None	None
+15	)	14	N	None	None	None	None	None	None	None
+16	<eos>	15	)	None	None	None	None	None	None	None

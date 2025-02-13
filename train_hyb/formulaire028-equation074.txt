@@ -1,0 +1,14 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	=	1	a	None	None	None	None	None	None	None
+3	m	2	=	None	None	None	None	None	None	None
+4	=	3	m	None	None	None	None	None	None	None
+5	\frac	4	=	None	None	None	None	None	None	None
+6	struct	5	\frac	above	below	None	None	None	None	None
+7	n	6	above	None	None	None	None	None	None	None
+8	struct	7	n	None	None	sub	None	None	None	None
+9	2	8	sub	None	None	None	None	None	None	None
+10	<eos>	9	2	None	None	None	None	None	None	None
+11	n	6	below	None	None	None	None	None	None	None
+12	struct	11	n	None	None	sub	None	None	None	None
+13	1	12	sub	None	None	None	None	None	None	None
+14	<eos>	13	1	None	None	None	None	None	None	None

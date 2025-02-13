@@ -1,0 +1,14 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	g	1	\int	None	None	None	None	None	None	None
+3	=	2	g	None	None	None	None	None	None	None
+4	\lim	3	=	None	None	None	None	None	None	None
+5	struct	4	\lim	None	None	sub	None	None	None	right
+6	n	5	sub	None	None	None	None	None	None	None
+7	\rightarrow	6	n	None	None	None	None	None	None	None
+8	\infty	7	\rightarrow	None	None	None	None	None	None	None
+9	<eos>	8	\infty	None	None	None	None	None	None	None
+10	\int	5	right	None	None	None	None	None	None	None
+11	g	10	\int	None	None	None	None	None	None	None
+12	struct	11	g	None	None	sub	None	None	None	None
+13	n	12	sub	None	None	None	None	None	None	None
+14	<eos>	13	n	None	None	None	None	None	None	None

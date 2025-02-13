@@ -1,0 +1,16 @@
+1	\phi	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\phi	None	None	sub	None	None	None	right
+3	1	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	1	None	None	None	None	None	None	None
+5	(	2	right	None	None	None	None	None	None	None
+6	p	5	(	None	None	None	None	None	None	None
+7	)	6	p	None	None	None	None	None	None	None
+8	+	7	)	None	None	None	None	None	None	None
+9	\phi	8	+	None	None	None	None	None	None	None
+10	struct	9	\phi	None	None	sub	None	None	None	right
+11	2	10	sub	None	None	None	None	None	None	None
+12	<eos>	11	2	None	None	None	None	None	None	None
+13	(	10	right	None	None	None	None	None	None	None
+14	p	13	(	None	None	None	None	None	None	None
+15	)	14	p	None	None	None	None	None	None	None
+16	<eos>	15	)	None	None	None	None	None	None	None

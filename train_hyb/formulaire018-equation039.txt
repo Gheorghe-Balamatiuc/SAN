@@ -1,0 +1,12 @@
+1	p	0	<sos>	None	None	None	None	None	None	None
+2	=	1	p	None	None	None	None	None	None	None
+3	a	2	=	None	None	None	None	None	None	None
+4	(	3	a	None	None	None	None	None	None	None
+5	1	4	(	None	None	None	None	None	None	None
+6	-	5	1	None	None	None	None	None	None	None
+7	e	6	-	None	None	None	None	None	None	None
+8	struct	7	e	None	None	None	sup	None	None	right
+9	2	8	sup	None	None	None	None	None	None	None
+10	<eos>	9	2	None	None	None	None	None	None	None
+11	)	8	right	None	None	None	None	None	None	None
+12	<eos>	11	)	None	None	None	None	None	None	None

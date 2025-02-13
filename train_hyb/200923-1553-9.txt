@@ -1,0 +1,6 @@
+1	M	0	<sos>	None	None	None	None	None	None	None
+2	\geq	1	M	None	None	None	None	None	None	None
+3	V	2	\geq	None	None	None	None	None	None	None
+4	+	3	V	None	None	None	None	None	None	None
+5	X	4	+	None	None	None	None	None	None	None
+6	<eos>	5	X	None	None	None	None	None	None	None

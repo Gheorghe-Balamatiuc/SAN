@@ -1,0 +1,6 @@
+1	w	0	<sos>	None	None	None	None	None	None	None
+2	=	1	w	None	None	None	None	None	None	None
+3	x	2	=	None	None	None	None	None	None	None
+4	y	3	x	None	None	None	None	None	None	None
+5	z	4	y	None	None	None	None	None	None	None
+6	<eos>	5	z	None	None	None	None	None	None	None

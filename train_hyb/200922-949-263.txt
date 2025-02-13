@@ -1,0 +1,8 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	a	None	None	None	sup	None	None	right
+3	P	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	P	None	None	None	None	None	None	None
+5	(	2	right	None	None	None	None	None	None	None
+6	h	5	(	None	None	None	None	None	None	None
+7	)	6	h	None	None	None	None	None	None	None
+8	<eos>	7	)	None	None	None	None	None	None	None

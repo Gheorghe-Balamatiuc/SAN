@@ -1,0 +1,2 @@
+1	\gamma	0	<sos>	None	None	None	None	None	None	None
+2	<eos>	1	\gamma	None	None	None	None	None	None	None

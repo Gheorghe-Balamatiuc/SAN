@@ -1,0 +1,12 @@
+1	e	0	<sos>	None	None	None	None	None	None	None
+2	=	1	e	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	(	4	above	None	None	None	None	None	None	None
+6	1	5	(	None	None	None	None	None	None	None
+7	-	6	1	None	None	None	None	None	None	None
+8	j	7	-	None	None	None	None	None	None	None
+9	)	8	j	None	None	None	None	None	None	None
+10	<eos>	9	)	None	None	None	None	None	None	None
+11	2	4	below	None	None	None	None	None	None	None
+12	<eos>	11	2	None	None	None	None	None	None	None

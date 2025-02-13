@@ -1,0 +1,15 @@
+1	\sqrt	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sqrt	None	None	None	sup	None	inside	right
+3	I	2	inside	None	None	None	None	None	None	None
+4	<eos>	3	I	None	None	None	None	None	None	None
+5	[	2	sup	None	None	None	None	None	None	None
+6	7	5	[	None	None	None	None	None	None	None
+7	<eos>	6	7	None	None	None	None	None	None	None
+8	<eos>	6	7	None	None	None	None	None	None	None
+9	(	2	right	None	None	None	None	None	None	None
+10	R	9	(	None	None	None	None	None	None	None
+11	struct	10	R	None	None	None	sup	None	None	right
+12	j	11	sup	None	None	None	None	None	None	None
+13	<eos>	12	j	None	None	None	None	None	None	None
+14	)	11	right	None	None	None	None	None	None	None
+15	<eos>	14	)	None	None	None	None	None	None	None

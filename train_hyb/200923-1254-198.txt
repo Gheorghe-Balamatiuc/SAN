@@ -1,0 +1,6 @@
+1	\cdots	0	<sos>	None	None	None	None	None	None	None
+2	-	1	\cdots	None	None	None	None	None	None	None
+3	z	2	-	None	None	None	None	None	None	None
+4	-	3	z	None	None	None	None	None	None	None
+5	\Delta	4	-	None	None	None	None	None	None	None
+6	<eos>	5	\Delta	None	None	None	None	None	None	None

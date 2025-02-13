@@ -1,0 +1,7 @@
+1	d	0	<sos>	None	None	None	None	None	None	None
+2	L	1	d	None	None	None	None	None	None	None
+3	struct	2	L	None	None	sub	None	None	None	None
+4	x	3	sub	None	None	None	None	None	None	None
+5	struct	4	x	None	None	sub	None	None	None	None
+6	\mu	5	sub	None	None	None	None	None	None	None
+7	<eos>	6	\mu	None	None	None	None	None	None	None

@@ -1,0 +1,15 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	right
+3	5	2	above	None	None	None	None	None	None	None
+4	x	3	5	None	None	None	None	None	None	None
+5	-	4	x	None	None	None	None	None	None	None
+6	7	5	-	None	None	None	None	None	None	None
+7	<eos>	6	7	None	None	None	None	None	None	None
+8	3	2	below	None	None	None	None	None	None	None
+9	<eos>	8	3	None	None	None	None	None	None	None
+10	\leq	2	right	None	None	None	None	None	None	None
+11	2	10	\leq	None	None	None	None	None	None	None
+12	x	11	2	None	None	None	None	None	None	None
+13	+	12	x	None	None	None	None	None	None	None
+14	5	13	+	None	None	None	None	None	None	None
+15	<eos>	14	5	None	None	None	None	None	None	None

@@ -1,0 +1,16 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	1	1	(	None	None	None	None	None	None	None
+3	9	2	1	None	None	None	None	None	None	None
+4	6	3	9	None	None	None	None	None	None	None
+5	-	4	6	None	None	None	None	None	None	None
+6	1	5	-	None	None	None	None	None	None	None
+7	2	6	1	None	None	None	None	None	None	None
+8	2	7	2	None	None	None	None	None	None	None
+9	)	8	2	None	None	None	None	None	None	None
+10	/	9	)	None	None	None	None	None	None	None
+11	1	10	/	None	None	None	None	None	None	None
+12	0	11	1	None	None	None	None	None	None	None
+13	2	12	0	None	None	None	None	None	None	None
+14	\leq	13	2	None	None	None	None	None	None	None
+15	1	14	\leq	None	None	None	None	None	None	None
+16	<eos>	15	1	None	None	None	None	None	None	None

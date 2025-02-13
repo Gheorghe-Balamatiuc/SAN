@@ -1,0 +1,17 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	right
+3	\cos	2	above	None	None	None	None	None	None	None
+4	x	3	\cos	None	None	None	None	None	None	None
+5	+	4	x	None	None	None	None	None	None	None
+6	i	5	+	None	None	None	None	None	None	None
+7	\sin	6	i	None	None	None	None	None	None	None
+8	x	7	\sin	None	None	None	None	None	None	None
+9	<eos>	8	x	None	None	None	None	None	None	None
+10	e	2	below	None	None	None	None	None	None	None
+11	struct	10	e	None	None	None	sup	None	None	None
+12	i	11	sup	None	None	None	None	None	None	None
+13	x	12	i	None	None	None	None	None	None	None
+14	<eos>	13	x	None	None	None	None	None	None	None
+15	=	2	right	None	None	None	None	None	None	None
+16	1	15	=	None	None	None	None	None	None	None
+17	<eos>	16	1	None	None	None	None	None	None	None

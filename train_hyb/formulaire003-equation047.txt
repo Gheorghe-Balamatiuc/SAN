@@ -1,0 +1,11 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	g	1	(	None	None	None	None	None	None	None
+3	struct	2	g	None	None	None	sup	None	None	right
+4	-	3	sup	None	None	None	None	None	None	None
+5	1	4	-	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None
+7	)	3	right	None	None	None	None	None	None	None
+8	struct	7	)	None	None	None	sup	None	None	None
+9	i	8	sup	None	None	None	None	None	None	None
+10	j	9	i	None	None	None	None	None	None	None
+11	<eos>	10	j	None	None	None	None	None	None	None

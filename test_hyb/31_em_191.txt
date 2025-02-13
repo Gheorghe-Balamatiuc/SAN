@@ -1,0 +1,16 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sum	above	below	None	None	None	None	right
+3	j	2	below	None	None	None	None	None	None	None
+4	=	3	j	None	None	None	None	None	None	None
+5	1	4	=	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None
+7	m	2	above	None	None	None	None	None	None	None
+8	<eos>	7	m	None	None	None	None	None	None	None
+9	a	2	right	None	None	None	None	None	None	None
+10	struct	9	a	None	None	sub	None	None	None	right
+11	j	10	sub	None	None	None	None	None	None	None
+12	<eos>	11	j	None	None	None	None	None	None	None
+13	e	10	right	None	None	None	None	None	None	None
+14	struct	13	e	None	None	sub	None	None	None	None
+15	j	14	sub	None	None	None	None	None	None	None
+16	<eos>	15	j	None	None	None	None	None	None	None

@@ -1,0 +1,9 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	h	1	-	None	None	None	None	None	None	None
+3	-	2	h	None	None	None	None	None	None	None
+4	\frac	3	-	None	None	None	None	None	None	None
+5	struct	4	\frac	above	below	None	None	None	None	None
+6	E	5	above	None	None	None	None	None	None	None
+7	<eos>	6	E	None	None	None	None	None	None	None
+8	x	5	below	None	None	None	None	None	None	None
+9	<eos>	8	x	None	None	None	None	None	None	None

@@ -1,0 +1,13 @@
+1	y	0	<sos>	None	None	None	None	None	None	None
+2	=	1	y	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	1	4	above	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None
+7	x	4	below	None	None	None	None	None	None	None
+8	struct	7	x	None	None	None	sup	None	None	right
+9	2	8	sup	None	None	None	None	None	None	None
+10	<eos>	9	2	None	None	None	None	None	None	None
+11	+	8	right	None	None	None	None	None	None	None
+12	1	11	+	None	None	None	None	None	None	None
+13	<eos>	12	1	None	None	None	None	None	None	None

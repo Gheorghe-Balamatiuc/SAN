@@ -1,0 +1,13 @@
+1	v	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	v	None	None	sub	None	None	None	right
+3	\phi	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	\phi	None	None	None	None	None	None	None
+5	v	2	right	None	None	None	None	None	None	None
+6	struct	5	v	None	None	sub	None	None	None	right
+7	g	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	g	None	None	None	None	None	None	None
+9	\leq	6	right	None	None	None	None	None	None	None
+10	c	9	\leq	None	None	None	None	None	None	None
+11	struct	10	c	None	None	None	sup	None	None	None
+12	2	11	sup	None	None	None	None	None	None	None
+13	<eos>	12	2	None	None	None	None	None	None	None

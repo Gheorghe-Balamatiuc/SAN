@@ -1,0 +1,13 @@
+1	\log	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\log	None	None	sub	None	None	None	right
+3	2	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None
+5	(	2	right	None	None	None	None	None	None	None
+6	2	5	(	None	None	None	None	None	None	None
+7	struct	6	2	None	None	None	sup	None	None	right
+8	5	7	sup	None	None	None	None	None	None	None
+9	<eos>	8	5	None	None	None	None	None	None	None
+10	)	7	right	None	None	None	None	None	None	None
+11	=	10	)	None	None	None	None	None	None	None
+12	5	11	=	None	None	None	None	None	None	None
+13	<eos>	12	5	None	None	None	None	None	None	None

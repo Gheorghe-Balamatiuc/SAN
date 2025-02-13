@@ -1,0 +1,4 @@
+1	u	0	<sos>	None	None	None	None	None	None	None
+2	\times	1	u	None	None	None	None	None	None	None
+3	v	2	\times	None	None	None	None	None	None	None
+4	<eos>	3	v	None	None	None	None	None	None	None

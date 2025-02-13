@@ -1,0 +1,8 @@
+1	z	0	<sos>	None	None	None	None	None	None	None
+2	-	1	z	None	None	None	None	None	None	None
+3	w	2	-	None	None	None	None	None	None	None
+4	\neq	3	w	None	None	None	None	None	None	None
+5	w	4	\neq	None	None	None	None	None	None	None
+6	-	5	w	None	None	None	None	None	None	None
+7	z	6	-	None	None	None	None	None	None	None
+8	<eos>	7	z	None	None	None	None	None	None	None

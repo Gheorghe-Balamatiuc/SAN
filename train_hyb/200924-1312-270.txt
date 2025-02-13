@@ -1,0 +1,9 @@
+1	\log	0	<sos>	None	None	None	None	None	None	None
+2	\frac	1	\log	None	None	None	None	None	None	None
+3	struct	2	\frac	above	below	None	None	None	None	None
+4	Y	3	above	None	None	None	None	None	None	None
+5	<eos>	4	Y	None	None	None	None	None	None	None
+6	o	3	below	None	None	None	None	None	None	None
+7	-	6	o	None	None	None	None	None	None	None
+8	y	7	-	None	None	None	None	None	None	None
+9	<eos>	8	y	None	None	None	None	None	None	None

@@ -1,0 +1,15 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	\frac	1	-	None	None	None	None	None	None	None
+3	struct	2	\frac	above	below	None	None	None	None	None
+4	\sum	3	above	None	None	None	None	None	None	None
+5	\gamma	4	\sum	None	None	None	None	None	None	None
+6	-	5	\gamma	None	None	None	None	None	None	None
+7	\int	6	-	None	None	None	None	None	None	None
+8	X	7	\int	None	None	None	None	None	None	None
+9	d	8	X	None	None	None	None	None	None	None
+10	\beta	9	d	None	None	None	None	None	None	None
+11	<eos>	10	\beta	None	None	None	None	None	None	None
+12	\sqrt	3	below	None	None	None	None	None	None	None
+13	struct	12	\sqrt	None	None	None	None	None	inside	None
+14	z	13	inside	None	None	None	None	None	None	None
+15	<eos>	14	z	None	None	None	None	None	None	None

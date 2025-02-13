@@ -1,0 +1,17 @@
+1	\beta	0	<sos>	None	None	None	None	None	None	None
+2	=	1	\beta	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	\beta	4	above	None	None	None	None	None	None	None
+6	struct	5	\beta	None	None	sub	None	None	None	right
+7	1	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	1	None	None	None	None	None	None	None
+9	-	6	right	None	None	None	None	None	None	None
+10	\beta	9	-	None	None	None	None	None	None	None
+11	struct	10	\beta	None	None	sub	None	None	None	None
+12	2	11	sub	None	None	None	None	None	None	None
+13	<eos>	12	2	None	None	None	None	None	None	None
+14	\sqrt	4	below	None	None	None	None	None	None	None
+15	struct	14	\sqrt	None	None	None	None	None	inside	None
+16	3	15	inside	None	None	None	None	None	None	None
+17	<eos>	16	3	None	None	None	None	None	None	None

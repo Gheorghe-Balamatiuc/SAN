@@ -1,0 +1,12 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	0	1	1	None	None	None	None	None	None	None
+3	0	2	0	None	None	None	None	None	None	None
+4	-	3	0	None	None	None	None	None	None	None
+5	X	4	-	None	None	None	None	None	None	None
+6	struct	5	X	None	None	None	sup	None	None	right
+7	2	6	sup	None	None	None	None	None	None	None
+8	<eos>	7	2	None	None	None	None	None	None	None
+9	=	6	right	None	None	None	None	None	None	None
+10	9	9	=	None	None	None	None	None	None	None
+11	6	10	9	None	None	None	None	None	None	None
+12	<eos>	11	6	None	None	None	None	None	None	None

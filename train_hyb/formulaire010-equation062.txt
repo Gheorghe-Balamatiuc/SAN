@@ -1,0 +1,13 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	-	1	(	None	None	None	None	None	None	None
+3	\sin	2	-	None	None	None	None	None	None	None
+4	(	3	\sin	None	None	None	None	None	None	None
+5	a	4	(	None	None	None	None	None	None	None
+6	)	5	a	None	None	None	None	None	None	None
+7	,	6	)	None	None	None	None	None	None	None
+8	\cos	7	,	None	None	None	None	None	None	None
+9	(	8	\cos	None	None	None	None	None	None	None
+10	a	9	(	None	None	None	None	None	None	None
+11	)	10	a	None	None	None	None	None	None	None
+12	)	11	)	None	None	None	None	None	None	None
+13	<eos>	12	)	None	None	None	None	None	None	None

@@ -1,0 +1,7 @@
+1	8	0	<sos>	None	None	None	None	None	None	None
+2	y	1	8	None	None	None	None	None	None	None
+3	struct	2	y	None	None	sub	None	None	None	None
+4	i	3	sub	None	None	None	None	None	None	None
+5	+	4	i	None	None	None	None	None	None	None
+6	1	5	+	None	None	None	None	None	None	None
+7	<eos>	6	1	None	None	None	None	None	None	None

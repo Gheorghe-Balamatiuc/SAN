@@ -1,0 +1,5 @@
+1	\forall	0	<sos>	None	None	None	None	None	None	None
+2	\gamma	1	\forall	None	None	None	None	None	None	None
+3	\in	2	\gamma	None	None	None	None	None	None	None
+4	X	3	\in	None	None	None	None	None	None	None
+5	<eos>	4	X	None	None	None	None	None	None	None

@@ -1,0 +1,6 @@
+1	2	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	2	None	None	None	sup	None	None	right
+3	d	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	d	None	None	None	None	None	None	None
+5	\alpha	2	right	None	None	None	None	None	None	None
+6	<eos>	5	\alpha	None	None	None	None	None	None	None

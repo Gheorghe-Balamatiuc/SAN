@@ -1,0 +1,11 @@
+1	\lim	0	<sos>	None	None	None	None	None	None	None
+2	(	1	\lim	None	None	None	None	None	None	None
+3	u	2	(	None	None	None	None	None	None	None
+4	struct	3	u	None	None	sub	None	None	None	right
+5	n	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	n	None	None	None	None	None	None	None
+7	)	4	right	None	None	None	None	None	None	None
+8	=	7	)	None	None	None	None	None	None	None
+9	+	8	=	None	None	None	None	None	None	None
+10	\infty	9	+	None	None	None	None	None	None	None
+11	<eos>	10	\infty	None	None	None	None	None	None	None

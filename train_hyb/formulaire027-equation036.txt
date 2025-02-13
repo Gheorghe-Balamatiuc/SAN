@@ -1,0 +1,14 @@
+1	2	0	<sos>	None	None	None	None	None	None	None
+2	\cos	1	2	None	None	None	None	None	None	None
+3	struct	2	\cos	None	None	None	sup	None	None	right
+4	2	3	sup	None	None	None	None	None	None	None
+5	<eos>	4	2	None	None	None	None	None	None	None
+6	(	3	right	None	None	None	None	None	None	None
+7	\frac	6	(	None	None	None	None	None	None	None
+8	struct	7	\frac	above	below	None	None	None	None	right
+9	x	8	above	None	None	None	None	None	None	None
+10	<eos>	9	x	None	None	None	None	None	None	None
+11	2	8	below	None	None	None	None	None	None	None
+12	<eos>	11	2	None	None	None	None	None	None	None
+13	)	8	right	None	None	None	None	None	None	None
+14	<eos>	13	)	None	None	None	None	None	None	None

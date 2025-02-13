@@ -1,0 +1,11 @@
+1	\beta	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\beta	None	None	sub	None	None	None	right
+3	n	2	sub	None	None	None	None	None	None	None
+4	+	3	n	None	None	None	None	None	None	None
+5	1	4	+	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None
+7	=	2	right	None	None	None	None	None	None	None
+8	\beta	7	=	None	None	None	None	None	None	None
+9	struct	8	\beta	None	None	sub	None	None	None	None
+10	n	9	sub	None	None	None	None	None	None	None
+11	<eos>	10	n	None	None	None	None	None	None	None

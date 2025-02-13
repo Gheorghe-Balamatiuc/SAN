@@ -1,0 +1,4 @@
+1	M	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	M	None	None	sub	None	None	None	None
+3	2	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None

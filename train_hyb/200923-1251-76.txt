@@ -1,0 +1,6 @@
+1	V	0	<sos>	None	None	None	None	None	None	None
+2	+	1	V	None	None	None	None	None	None	None
+3	V	2	+	None	None	None	None	None	None	None
+4	struct	3	V	None	None	sub	None	None	None	None
+5	b	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	b	None	None	None	None	None	None	None

@@ -1,0 +1,12 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sum	None	below	None	None	None	None	right
+3	p	2	below	None	None	None	None	None	None	None
+4	<eos>	3	p	None	None	None	None	None	None	None
+5	\frac	2	right	None	None	None	None	None	None	None
+6	struct	5	\frac	above	below	None	None	None	None	None
+7	1	6	above	None	None	None	None	None	None	None
+8	<eos>	7	1	None	None	None	None	None	None	None
+9	p	6	below	None	None	None	None	None	None	None
+10	struct	9	p	None	None	None	sup	None	None	None
+11	s	10	sup	None	None	None	None	None	None	None
+12	<eos>	11	s	None	None	None	None	None	None	None

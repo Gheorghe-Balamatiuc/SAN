@@ -1,0 +1,7 @@
+1	r	0	<sos>	None	None	None	None	None	None	None
+2	(	1	r	None	None	None	None	None	None	None
+3	u	2	(	None	None	None	None	None	None	None
+4	,	3	u	None	None	None	None	None	None	None
+5	v	4	,	None	None	None	None	None	None	None
+6	)	5	v	None	None	None	None	None	None	None
+7	<eos>	6	)	None	None	None	None	None	None	None

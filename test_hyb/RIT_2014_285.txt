@@ -1,0 +1,6 @@
+1	m	0	<sos>	None	None	None	None	None	None	None
+2	i	1	m	None	None	None	None	None	None	None
+3	l	2	i	None	None	None	None	None	None	None
+4	l	3	l	None	None	None	None	None	None	None
+5	i	4	l	None	None	None	None	None	None	None
+6	<eos>	5	i	None	None	None	None	None	None	None

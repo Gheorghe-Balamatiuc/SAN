@@ -1,0 +1,11 @@
+1	b	0	<sos>	None	None	None	None	None	None	None
+2	=	1	b	None	None	None	None	None	None	None
+3	a	2	=	None	None	None	None	None	None	None
+4	\sqrt	3	a	None	None	None	None	None	None	None
+5	struct	4	\sqrt	None	None	None	None	None	inside	None
+6	1	5	inside	None	None	None	None	None	None	None
+7	-	6	1	None	None	None	None	None	None	None
+8	e	7	-	None	None	None	None	None	None	None
+9	struct	8	e	None	None	None	sup	None	None	None
+10	2	9	sup	None	None	None	None	None	None	None
+11	<eos>	10	2	None	None	None	None	None	None	None

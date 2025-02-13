@@ -1,0 +1,16 @@
+1	e	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	e	None	None	None	sup	None	None	right
+3	-	2	sup	None	None	None	None	None	None	None
+4	z	3	-	None	None	None	None	None	None	None
+5	<eos>	4	z	None	None	None	None	None	None	None
+6	=	2	right	None	None	None	None	None	None	None
+7	\cos	6	=	None	None	None	None	None	None	None
+8	(	7	\cos	None	None	None	None	None	None	None
+9	z	8	(	None	None	None	None	None	None	None
+10	)	9	z	None	None	None	None	None	None	None
+11	-	10	)	None	None	None	None	None	None	None
+12	\sin	11	-	None	None	None	None	None	None	None
+13	(	12	\sin	None	None	None	None	None	None	None
+14	z	13	(	None	None	None	None	None	None	None
+15	)	14	z	None	None	None	None	None	None	None
+16	<eos>	15	)	None	None	None	None	None	None	None

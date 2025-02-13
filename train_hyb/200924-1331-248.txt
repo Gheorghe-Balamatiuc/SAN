@@ -1,0 +1,2 @@
+1	\Delta	0	<sos>	None	None	None	None	None	None	None
+2	<eos>	1	\Delta	None	None	None	None	None	None	None

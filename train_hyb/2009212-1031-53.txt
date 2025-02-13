@@ -1,0 +1,4 @@
+1	X	0	<sos>	None	None	None	None	None	None	None
+2	\neq	1	X	None	None	None	None	None	None	None
+3	F	2	\neq	None	None	None	None	None	None	None
+4	<eos>	3	F	None	None	None	None	None	None	None

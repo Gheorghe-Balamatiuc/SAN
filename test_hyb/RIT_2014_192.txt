@@ -1,0 +1,14 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\log	2	above	None	None	None	None	None	None	None
+4	struct	3	\log	None	None	sub	None	None	None	right
+5	b	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	b	None	None	None	None	None	None	None
+7	x	4	right	None	None	None	None	None	None	None
+8	<eos>	7	x	None	None	None	None	None	None	None
+9	\log	2	below	None	None	None	None	None	None	None
+10	struct	9	\log	None	None	sub	None	None	None	right
+11	b	10	sub	None	None	None	None	None	None	None
+12	<eos>	11	b	None	None	None	None	None	None	None
+13	a	10	right	None	None	None	None	None	None	None
+14	<eos>	13	a	None	None	None	None	None	None	None

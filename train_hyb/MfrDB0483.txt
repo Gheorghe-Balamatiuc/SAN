@@ -1,0 +1,6 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	+	1	x	None	None	None	None	None	None	None
+3	y	2	+	None	None	None	None	None	None	None
+4	=	3	y	None	None	None	None	None	None	None
+5	3	4	=	None	None	None	None	None	None	None
+6	<eos>	5	3	None	None	None	None	None	None	None

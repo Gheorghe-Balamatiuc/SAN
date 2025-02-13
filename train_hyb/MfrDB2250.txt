@@ -1,0 +1,16 @@
+1	P	0	<sos>	None	None	None	None	None	None	None
+2	(	1	P	None	None	None	None	None	None	None
+3	t	2	(	None	None	None	None	None	None	None
+4	)	3	t	None	None	None	None	None	None	None
+5	=	4	)	None	None	None	None	None	None	None
+6	\frac	5	=	None	None	None	None	None	None	None
+7	struct	6	\frac	above	below	None	None	None	None	None
+8	1	7	above	None	None	None	None	None	None	None
+9	<eos>	8	1	None	None	None	None	None	None	None
+10	1	7	below	None	None	None	None	None	None	None
+11	+	10	1	None	None	None	None	None	None	None
+12	e	11	+	None	None	None	None	None	None	None
+13	struct	12	e	None	None	None	sup	None	None	None
+14	-	13	sup	None	None	None	None	None	None	None
+15	t	14	-	None	None	None	None	None	None	None
+16	<eos>	15	t	None	None	None	None	None	None	None

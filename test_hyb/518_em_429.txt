@@ -1,0 +1,6 @@
+1	\infty	0	<sos>	None	None	None	None	None	None	None
+2	\times	1	\infty	None	None	None	None	None	None	None
+3	\infty	2	\times	None	None	None	None	None	None	None
+4	=	3	\infty	None	None	None	None	None	None	None
+5	\infty	4	=	None	None	None	None	None	None	None
+6	<eos>	5	\infty	None	None	None	None	None	None	None

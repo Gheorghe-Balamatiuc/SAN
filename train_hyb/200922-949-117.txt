@@ -1,0 +1,7 @@
+1	5	0	<sos>	None	None	None	None	None	None	None
+2	.	1	5	None	None	None	None	None	None	None
+3	3	2	.	None	None	None	None	None	None	None
+4	P	3	3	None	None	None	None	None	None	None
+5	struct	4	P	None	None	sub	None	None	None	None
+6	x	5	sub	None	None	None	None	None	None	None
+7	<eos>	6	x	None	None	None	None	None	None	None

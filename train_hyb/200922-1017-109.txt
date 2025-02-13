@@ -1,0 +1,7 @@
+1	\cdots	0	<sos>	None	None	None	None	None	None	None
+2	+	1	\cdots	None	None	None	None	None	None	None
+3	r	2	+	None	None	None	None	None	None	None
+4	B	3	r	None	None	None	None	None	None	None
+5	-	4	B	None	None	None	None	None	None	None
+6	N	5	-	None	None	None	None	None	None	None
+7	<eos>	6	N	None	None	None	None	None	None	None

@@ -1,0 +1,11 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	(	1	(	None	None	None	None	None	None	None
+3	\int	2	(	None	None	None	None	None	None	None
+4	[	3	\int	None	None	None	None	None	None	None
+5	o	4	[	None	None	None	None	None	None	None
+6	]	5	o	None	None	None	None	None	None	None
+7	d	6	]	None	None	None	None	None	None	None
+8	G	7	d	None	None	None	None	None	None	None
+9	)	8	G	None	None	None	None	None	None	None
+10	)	9	)	None	None	None	None	None	None	None
+11	<eos>	10	)	None	None	None	None	None	None	None

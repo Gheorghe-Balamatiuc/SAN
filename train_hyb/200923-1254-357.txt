@@ -1,0 +1,7 @@
+1	r	0	<sos>	None	None	None	None	None	None	None
+2	<	1	r	None	None	None	None	None	None	None
+3	\int	2	<	None	None	None	None	None	None	None
+4	\gamma	3	\int	None	None	None	None	None	None	None
+5	d	4	\gamma	None	None	None	None	None	None	None
+6	B	5	d	None	None	None	None	None	None	None
+7	<eos>	6	B	None	None	None	None	None	None	None

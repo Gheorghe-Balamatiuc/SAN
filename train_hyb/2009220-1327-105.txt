@@ -1,0 +1,14 @@
+1	3	0	<sos>	None	None	None	None	None	None	None
+2	.	1	3	None	None	None	None	None	None	None
+3	8	2	.	None	None	None	None	None	None	None
+4	\sum	3	8	None	None	None	None	None	None	None
+5	P	4	\sum	None	None	None	None	None	None	None
+6	struct	5	P	None	None	sub	None	None	None	right
+7	A	6	sub	None	None	None	None	None	None	None
+8	struct	7	A	None	None	sub	None	None	None	None
+9	N	8	sub	None	None	None	None	None	None	None
+10	<eos>	9	N	None	None	None	None	None	None	None
+11	+	6	right	None	None	None	None	None	None	None
+12	8	11	+	None	None	None	None	None	None	None
+13	5	12	8	None	None	None	None	None	None	None
+14	<eos>	13	5	None	None	None	None	None	None	None

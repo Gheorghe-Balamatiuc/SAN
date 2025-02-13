@@ -1,0 +1,4 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	\rightarrow	1	x	None	None	None	None	None	None	None
+3	a	2	\rightarrow	None	None	None	None	None	None	None
+4	<eos>	3	a	None	None	None	None	None	None	None

@@ -1,0 +1,6 @@
+1	\sin	0	<sos>	None	None	None	None	None	None	None
+2	(	1	\sin	None	None	None	None	None	None	None
+3	\pi	2	(	None	None	None	None	None	None	None
+4	z	3	\pi	None	None	None	None	None	None	None
+5	)	4	z	None	None	None	None	None	None	None
+6	<eos>	5	)	None	None	None	None	None	None	None

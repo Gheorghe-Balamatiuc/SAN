@@ -1,0 +1,8 @@
+1	\theta	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\theta	None	None	None	sup	None	None	right
+3	\infty	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	\infty	None	None	None	None	None	None	None
+5	(	2	right	None	None	None	None	None	None	None
+6	n	5	(	None	None	None	None	None	None	None
+7	)	6	n	None	None	None	None	None	None	None
+8	<eos>	7	)	None	None	None	None	None	None	None

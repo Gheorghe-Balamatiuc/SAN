@@ -1,0 +1,12 @@
+1	y	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	y	None	None	None	sup	None	None	right
+3	2	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	x	5	=	None	None	None	None	None	None	None
+7	struct	6	x	None	None	None	sup	None	None	right
+8	3	7	sup	None	None	None	None	None	None	None
+9	<eos>	8	3	None	None	None	None	None	None	None
+10	-	7	right	None	None	None	None	None	None	None
+11	x	10	-	None	None	None	None	None	None	None
+12	<eos>	11	x	None	None	None	None	None	None	None

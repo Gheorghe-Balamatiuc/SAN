@@ -1,0 +1,2 @@
+1	k	0	<sos>	None	None	None	None	None	None	None
+2	<eos>	1	k	None	None	None	None	None	None	None

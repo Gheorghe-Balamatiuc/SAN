@@ -1,0 +1,9 @@
+1	g	0	<sos>	None	None	None	None	None	None	None
+2	(	1	g	None	None	None	None	None	None	None
+3	n	2	(	None	None	None	None	None	None	None
+4	,	3	n	None	None	None	None	None	None	None
+5	v	4	,	None	None	None	None	None	None	None
+6	)	5	v	None	None	None	None	None	None	None
+7	=	6	)	None	None	None	None	None	None	None
+8	0	7	=	None	None	None	None	None	None	None
+9	<eos>	8	0	None	None	None	None	None	None	None

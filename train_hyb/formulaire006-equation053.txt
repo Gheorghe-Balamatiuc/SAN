@@ -1,0 +1,7 @@
+1	b	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	b	None	None	sub	None	None	None	right
+3	0	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	0	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	1	5	=	None	None	None	None	None	None	None
+7	<eos>	6	1	None	None	None	None	None	None	None

@@ -1,0 +1,11 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	=	1	x	None	None	None	None	None	None	None
+3	\phi	2	=	None	None	None	None	None	None	None
+4	struct	3	\phi	None	None	sub	None	None	None	right
+5	k	4	sub	None	None	None	None	None	None	None
+6	i	5	k	None	None	None	None	None	None	None
+7	<eos>	6	i	None	None	None	None	None	None	None
+8	(	4	right	None	None	None	None	None	None	None
+9	z	8	(	None	None	None	None	None	None	None
+10	)	9	z	None	None	None	None	None	None	None
+11	<eos>	10	)	None	None	None	None	None	None	None

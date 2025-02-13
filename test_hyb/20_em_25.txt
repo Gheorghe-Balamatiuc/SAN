@@ -1,0 +1,17 @@
+1	\sin	0	<sos>	None	None	None	None	None	None	None
+2	(	1	\sin	None	None	None	None	None	None	None
+3	x	2	(	None	None	None	None	None	None	None
+4	+	3	x	None	None	None	None	None	None	None
+5	y	4	+	None	None	None	None	None	None	None
+6	)	5	y	None	None	None	None	None	None	None
+7	=	6	)	None	None	None	None	None	None	None
+8	\sin	7	=	None	None	None	None	None	None	None
+9	x	8	\sin	None	None	None	None	None	None	None
+10	\cos	9	x	None	None	None	None	None	None	None
+11	y	10	\cos	None	None	None	None	None	None	None
+12	+	11	y	None	None	None	None	None	None	None
+13	\cos	12	+	None	None	None	None	None	None	None
+14	x	13	\cos	None	None	None	None	None	None	None
+15	\sin	14	x	None	None	None	None	None	None	None
+16	y	15	\sin	None	None	None	None	None	None	None
+17	<eos>	16	y	None	None	None	None	None	None	None

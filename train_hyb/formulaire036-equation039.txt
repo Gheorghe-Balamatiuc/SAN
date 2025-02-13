@@ -1,0 +1,8 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	r	1	(	None	None	None	None	None	None	None
+3	,	2	r	None	None	None	None	None	None	None
+4	\theta	3	,	None	None	None	None	None	None	None
+5	,	4	\theta	None	None	None	None	None	None	None
+6	\phi	5	,	None	None	None	None	None	None	None
+7	)	6	\phi	None	None	None	None	None	None	None
+8	<eos>	7	)	None	None	None	None	None	None	None

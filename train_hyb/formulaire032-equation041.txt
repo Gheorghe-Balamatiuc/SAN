@@ -1,0 +1,8 @@
+1	r	0	<sos>	None	None	None	None	None	None	None
+2	=	1	r	None	None	None	None	None	None	None
+3	x	2	=	None	None	None	None	None	None	None
+4	-	3	x	None	None	None	None	None	None	None
+5	y	4	-	None	None	None	None	None	None	None
+6	struct	5	y	None	None	None	sup	None	None	None
+7	n	6	sup	None	None	None	None	None	None	None
+8	<eos>	7	n	None	None	None	None	None	None	None

@@ -1,0 +1,7 @@
+1	\alpha	0	<sos>	None	None	None	None	None	None	None
+2	\rightarrow	1	\alpha	None	None	None	None	None	None	None
+3	f	2	\rightarrow	None	None	None	None	None	None	None
+4	(	3	f	None	None	None	None	None	None	None
+5	\alpha	4	(	None	None	None	None	None	None	None
+6	)	5	\alpha	None	None	None	None	None	None	None
+7	<eos>	6	)	None	None	None	None	None	None	None

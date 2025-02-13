@@ -1,0 +1,5 @@
+1	8	0	<sos>	None	None	None	None	None	None	None
+2	\Delta	1	8	None	None	None	None	None	None	None
+3	\sum	2	\Delta	None	None	None	None	None	None	None
+4	a	3	\sum	None	None	None	None	None	None	None
+5	<eos>	4	a	None	None	None	None	None	None	None

@@ -1,0 +1,10 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	\frac	1	\int	None	None	None	None	None	None	None
+3	struct	2	\frac	above	below	None	None	None	None	right
+4	i	3	above	None	None	None	None	None	None	None
+5	<eos>	4	i	None	None	None	None	None	None	None
+6	\sigma	3	below	None	None	None	None	None	None	None
+7	<eos>	6	\sigma	None	None	None	None	None	None	None
+8	d	3	right	None	None	None	None	None	None	None
+9	I	8	d	None	None	None	None	None	None	None
+10	<eos>	9	I	None	None	None	None	None	None	None

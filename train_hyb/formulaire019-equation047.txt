@@ -1,0 +1,8 @@
+1	d	0	<sos>	None	None	None	None	None	None	None
+2	t	1	d	None	None	None	None	None	None	None
+3	=	2	t	None	None	None	None	None	None	None
+4	d	3	=	None	None	None	None	None	None	None
+5	t	4	d	None	None	None	None	None	None	None
+6	struct	5	t	None	None	sub	None	None	None	None
+7	0	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	0	None	None	None	None	None	None	None

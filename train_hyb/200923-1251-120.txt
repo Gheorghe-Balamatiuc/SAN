@@ -1,0 +1,13 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	8	2	above	None	None	None	None	None	None	None
+4	+	3	8	None	None	None	None	None	None	None
+5	E	4	+	None	None	None	None	None	None	None
+6	<eos>	5	E	None	None	None	None	None	None	None
+7	\frac	2	below	None	None	None	None	None	None	None
+8	struct	7	\frac	above	below	None	None	None	None	None
+9	v	8	above	None	None	None	None	None	None	None
+10	<eos>	9	v	None	None	None	None	None	None	None
+11	4	8	below	None	None	None	None	None	None	None
+12	\Delta	11	4	None	None	None	None	None	None	None
+13	<eos>	12	\Delta	None	None	None	None	None	None	None

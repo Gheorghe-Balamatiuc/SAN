@@ -1,0 +1,13 @@
+1	v	0	<sos>	None	None	None	None	None	None	None
+2	=	1	v	None	None	None	None	None	None	None
+3	v	2	=	None	None	None	None	None	None	None
+4	struct	3	v	None	None	sub	None	None	None	right
+5	0	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	0	None	None	None	None	None	None	None
+7	t	4	right	None	None	None	None	None	None	None
+8	-	7	t	None	None	None	None	None	None	None
+9	g	8	-	None	None	None	None	None	None	None
+10	t	9	g	None	None	None	None	None	None	None
+11	struct	10	t	None	None	None	sup	None	None	None
+12	2	11	sup	None	None	None	None	None	None	None
+13	<eos>	12	2	None	None	None	None	None	None	None

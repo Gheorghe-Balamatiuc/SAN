@@ -1,0 +1,7 @@
+1	f	0	<sos>	None	None	None	None	None	None	None
+2	-	1	f	None	None	None	None	None	None	None
+3	R	2	-	None	None	None	None	None	None	None
+4	=	3	R	None	None	None	None	None	None	None
+5	\sum	4	=	None	None	None	None	None	None	None
+6	z	5	\sum	None	None	None	None	None	None	None
+7	<eos>	6	z	None	None	None	None	None	None	None

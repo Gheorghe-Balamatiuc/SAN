@@ -1,0 +1,15 @@
+1	0	0	<sos>	None	None	None	None	None	None	None
+2	=	1	0	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	d	4	above	None	None	None	None	None	None	None
+6	struct	5	d	None	None	None	sup	None	None	right
+7	2	6	sup	None	None	None	None	None	None	None
+8	<eos>	7	2	None	None	None	None	None	None	None
+9	y	6	right	None	None	None	None	None	None	None
+10	<eos>	9	y	None	None	None	None	None	None	None
+11	d	4	below	None	None	None	None	None	None	None
+12	x	11	d	None	None	None	None	None	None	None
+13	struct	12	x	None	None	None	sup	None	None	None
+14	2	13	sup	None	None	None	None	None	None	None
+15	<eos>	14	2	None	None	None	None	None	None	None

@@ -1,0 +1,17 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	a	1	-	None	None	None	None	None	None	None
+3	struct	2	a	None	None	None	sup	None	None	right
+4	n	3	sup	None	None	None	None	None	None	None
+5	<eos>	4	n	None	None	None	None	None	None	None
+6	=	3	right	None	None	None	None	None	None	None
+7	-	6	=	None	None	None	None	None	None	None
+8	a	7	-	None	None	None	None	None	None	None
+9	\times	8	a	None	None	None	None	None	None	None
+10	a	9	\times	None	None	None	None	None	None	None
+11	\times	10	a	None	None	None	None	None	None	None
+12	a	11	\times	None	None	None	None	None	None	None
+13	\times	12	a	None	None	None	None	None	None	None
+14	\ldots	13	\times	None	None	None	None	None	None	None
+15	\times	14	\ldots	None	None	None	None	None	None	None
+16	a	15	\times	None	None	None	None	None	None	None
+17	<eos>	16	a	None	None	None	None	None	None	None

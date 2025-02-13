@@ -1,0 +1,14 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	2	2	above	None	None	None	None	None	None	None
+4	\tan	3	2	None	None	None	None	None	None	None
+5	\alpha	4	\tan	None	None	None	None	None	None	None
+6	<eos>	5	\alpha	None	None	None	None	None	None	None
+7	1	2	below	None	None	None	None	None	None	None
+8	-	7	1	None	None	None	None	None	None	None
+9	\tan	8	-	None	None	None	None	None	None	None
+10	struct	9	\tan	None	None	None	sup	None	None	right
+11	2	10	sup	None	None	None	None	None	None	None
+12	<eos>	11	2	None	None	None	None	None	None	None
+13	\alpha	10	right	None	None	None	None	None	None	None
+14	<eos>	13	\alpha	None	None	None	None	None	None	None

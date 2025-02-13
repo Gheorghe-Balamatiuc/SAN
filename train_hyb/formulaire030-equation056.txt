@@ -1,0 +1,5 @@
+1	d	0	<sos>	None	None	None	None	None	None	None
+2	=	1	d	None	None	None	None	None	None	None
+3	k	2	=	None	None	None	None	None	None	None
+4	b	3	k	None	None	None	None	None	None	None
+5	<eos>	4	b	None	None	None	None	None	None	None

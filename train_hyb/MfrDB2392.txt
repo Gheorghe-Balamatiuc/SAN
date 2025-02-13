@@ -1,0 +1,4 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	x	None	None	None	sup	None	None	None
+3	2	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None

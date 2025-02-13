@@ -1,0 +1,9 @@
+1	w	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	w	None	None	None	sup	None	None	right
+3	5	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	5	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	1	5	=	None	None	None	None	None	None	None
+7	-	6	1	None	None	None	None	None	None	None
+8	w	7	-	None	None	None	None	None	None	None
+9	<eos>	8	w	None	None	None	None	None	None	None

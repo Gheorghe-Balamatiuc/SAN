@@ -1,0 +1,9 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	x	None	None	None	sup	None	None	right
+3	2	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None
+5	-	2	right	None	None	None	None	None	None	None
+6	r	5	-	None	None	None	None	None	None	None
+7	=	6	r	None	None	None	None	None	None	None
+8	0	7	=	None	None	None	None	None	None	None
+9	<eos>	8	0	None	None	None	None	None	None	None

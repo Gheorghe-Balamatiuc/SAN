@@ -1,0 +1,8 @@
+1	s	0	<sos>	None	None	None	None	None	None	None
+2	=	1	s	None	None	None	None	None	None	None
+3	2	2	=	None	None	None	None	None	None	None
+4	5	3	2	None	None	None	None	None	None	None
+5	8	4	5	None	None	None	None	None	None	None
+6	5	5	8	None	None	None	None	None	None	None
+7	7	6	5	None	None	None	None	None	None	None
+8	<eos>	7	7	None	None	None	None	None	None	None

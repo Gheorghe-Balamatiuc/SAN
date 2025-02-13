@@ -1,0 +1,5 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	u	1	\sum	None	None	None	None	None	None	None
+3	struct	2	u	None	None	sub	None	None	None	None
+4	n	3	sub	None	None	None	None	None	None	None
+5	<eos>	4	n	None	None	None	None	None	None	None

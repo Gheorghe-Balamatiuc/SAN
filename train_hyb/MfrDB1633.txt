@@ -1,0 +1,14 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	(	2	above	None	None	None	None	None	None	None
+4	z	3	(	None	None	None	None	None	None	None
+5	-	4	z	None	None	None	None	None	None	None
+6	2	5	-	None	None	None	None	None	None	None
+7	)	6	2	None	None	None	None	None	None	None
+8	<eos>	7	)	None	None	None	None	None	None	None
+9	(	2	below	None	None	None	None	None	None	None
+10	7	9	(	None	None	None	None	None	None	None
+11	-	10	7	None	None	None	None	None	None	None
+12	z	11	-	None	None	None	None	None	None	None
+13	)	12	z	None	None	None	None	None	None	None
+14	<eos>	13	)	None	None	None	None	None	None	None

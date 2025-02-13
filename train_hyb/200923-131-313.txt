@@ -1,0 +1,9 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	q	1	\int	None	None	None	None	None	None	None
+3	d	2	q	None	None	None	None	None	None	None
+4	\sigma	3	d	None	None	None	None	None	None	None
+5	+	4	\sigma	None	None	None	None	None	None	None
+6	a	5	+	None	None	None	None	None	None	None
+7	struct	6	a	None	None	None	sup	None	None	None
+8	q	7	sup	None	None	None	None	None	None	None
+9	<eos>	8	q	None	None	None	None	None	None	None

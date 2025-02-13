@@ -1,0 +1,16 @@
+1	q	0	<sos>	None	None	None	None	None	None	None
+2	(	1	q	None	None	None	None	None	None	None
+3	x	2	(	None	None	None	None	None	None	None
+4	)	3	x	None	None	None	None	None	None	None
+5	=	4	)	None	None	None	None	None	None	None
+6	a	5	=	None	None	None	None	None	None	None
+7	struct	6	a	None	None	sub	None	None	None	right
+8	1	7	sub	None	None	None	None	None	None	None
+9	1	8	1	None	None	None	None	None	None	None
+10	<eos>	9	1	None	None	None	None	None	None	None
+11	x	7	right	None	None	None	None	None	None	None
+12	struct	11	x	None	None	sub	sup	None	None	None
+13	1	12	sub	None	None	None	None	None	None	None
+14	<eos>	13	1	None	None	None	None	None	None	None
+15	2	12	sup	None	None	None	None	None	None	None
+16	<eos>	15	2	None	None	None	None	None	None	None

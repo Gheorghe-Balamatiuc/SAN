@@ -1,0 +1,12 @@
+1	g	0	<sos>	None	None	None	None	None	None	None
+2	(	1	g	None	None	None	None	None	None	None
+3	x	2	(	None	None	None	None	None	None	None
+4	+	3	x	None	None	None	None	None	None	None
+5	4	4	+	None	None	None	None	None	None	None
+6	)	5	4	None	None	None	None	None	None	None
+7	=	6	)	None	None	None	None	None	None	None
+8	g	7	=	None	None	None	None	None	None	None
+9	(	8	g	None	None	None	None	None	None	None
+10	x	9	(	None	None	None	None	None	None	None
+11	)	10	x	None	None	None	None	None	None	None
+12	<eos>	11	)	None	None	None	None	None	None	None

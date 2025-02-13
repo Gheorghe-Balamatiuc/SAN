@@ -1,0 +1,6 @@
+1	B	0	<sos>	None	None	None	None	None	None	None
+2	B	1	B	None	None	None	None	None	None	None
+3	struct	2	B	None	None	None	sup	None	None	None
+4	-	3	sup	None	None	None	None	None	None	None
+5	1	4	-	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None

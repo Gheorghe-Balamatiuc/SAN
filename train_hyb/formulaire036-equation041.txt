@@ -1,0 +1,16 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	x	1	a	None	None	None	None	None	None	None
+3	struct	2	x	None	None	None	sup	None	None	right
+4	2	3	sup	None	None	None	None	None	None	None
+5	<eos>	4	2	None	None	None	None	None	None	None
+6	+	3	right	None	None	None	None	None	None	None
+7	2	6	+	None	None	None	None	None	None	None
+8	b	7	2	None	None	None	None	None	None	None
+9	x	8	b	None	None	None	None	None	None	None
+10	y	9	x	None	None	None	None	None	None	None
+11	+	10	y	None	None	None	None	None	None	None
+12	c	11	+	None	None	None	None	None	None	None
+13	y	12	c	None	None	None	None	None	None	None
+14	struct	13	y	None	None	None	sup	None	None	None
+15	2	14	sup	None	None	None	None	None	None	None
+16	<eos>	15	2	None	None	None	None	None	None	None

@@ -1,0 +1,13 @@
+1	l	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	l	None	None	sub	None	None	None	right
+3	i	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	i	None	None	None	None	None	None	None
+5	(	2	right	None	None	None	None	None	None	None
+6	x	5	(	None	None	None	None	None	None	None
+7	struct	6	x	None	None	sub	None	None	None	right
+8	i	7	sub	None	None	None	None	None	None	None
+9	<eos>	8	i	None	None	None	None	None	None	None
+10	)	7	right	None	None	None	None	None	None	None
+11	=	10	)	None	None	None	None	None	None	None
+12	1	11	=	None	None	None	None	None	None	None
+13	<eos>	12	1	None	None	None	None	None	None	None

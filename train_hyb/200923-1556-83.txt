@@ -1,0 +1,12 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\cdots	2	above	None	None	None	None	None	None	None
+4	+	3	\cdots	None	None	None	None	None	None	None
+5	Y	4	+	None	None	None	None	None	None	None
+6	struct	5	Y	None	None	sub	None	None	None	None
+7	P	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	P	None	None	None	None	None	None	None
+9	p	2	below	None	None	None	None	None	None	None
+10	struct	9	p	None	None	None	sup	None	None	None
+11	I	10	sup	None	None	None	None	None	None	None
+12	<eos>	11	I	None	None	None	None	None	None	None

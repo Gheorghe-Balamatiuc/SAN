@@ -1,0 +1,10 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	h	2	above	None	None	None	None	None	None	None
+4	+	3	h	None	None	None	None	None	None	None
+5	8	4	+	None	None	None	None	None	None	None
+6	<eos>	5	8	None	None	None	None	None	None	None
+7	P	2	below	None	None	None	None	None	None	None
+8	-	7	P	None	None	None	None	None	None	None
+9	\phi	8	-	None	None	None	None	None	None	None
+10	<eos>	9	\phi	None	None	None	None	None	None	None

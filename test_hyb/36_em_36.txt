@@ -1,0 +1,12 @@
+1	L	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	L	None	None	sub	None	None	None	right
+3	t	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	t	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	L	5	=	None	None	None	None	None	None	None
+7	+	6	L	None	None	None	None	None	None	None
+8	L	7	+	None	None	None	None	None	None	None
+9	=	8	L	None	None	None	None	None	None	None
+10	2	9	=	None	None	None	None	None	None	None
+11	L	10	2	None	None	None	None	None	None	None
+12	<eos>	11	L	None	None	None	None	None	None	None

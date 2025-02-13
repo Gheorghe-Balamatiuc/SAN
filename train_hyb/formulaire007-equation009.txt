@@ -1,0 +1,16 @@
+1	\lim	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\lim	None	None	sub	None	None	None	right
+3	t	2	sub	None	None	None	None	None	None	None
+4	\rightarrow	3	t	None	None	None	None	None	None	None
+5	t	4	\rightarrow	None	None	None	None	None	None	None
+6	struct	5	t	None	None	sub	None	None	None	None
+7	0	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	0	None	None	None	None	None	None	None
+9	y	2	right	None	None	None	None	None	None	None
+10	(	9	y	None	None	None	None	None	None	None
+11	t	10	(	None	None	None	None	None	None	None
+12	)	11	t	None	None	None	None	None	None	None
+13	=	12	)	None	None	None	None	None	None	None
+14	+	13	=	None	None	None	None	None	None	None
+15	\infty	14	+	None	None	None	None	None	None	None
+16	<eos>	15	\infty	None	None	None	None	None	None	None

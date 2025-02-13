@@ -1,0 +1,17 @@
+1	v	0	<sos>	None	None	None	None	None	None	None
+2	(	1	v	None	None	None	None	None	None	None
+3	a	2	(	None	None	None	None	None	None	None
+4	+	3	a	None	None	None	None	None	None	None
+5	i	4	+	None	None	None	None	None	None	None
+6	b	5	i	None	None	None	None	None	None	None
+7	)	6	b	None	None	None	None	None	None	None
+8	=	7	)	None	None	None	None	None	None	None
+9	a	8	=	None	None	None	None	None	None	None
+10	struct	9	a	None	None	None	sup	None	None	right
+11	2	10	sup	None	None	None	None	None	None	None
+12	<eos>	11	2	None	None	None	None	None	None	None
+13	+	10	right	None	None	None	None	None	None	None
+14	b	13	+	None	None	None	None	None	None	None
+15	struct	14	b	None	None	None	sup	None	None	None
+16	2	15	sup	None	None	None	None	None	None	None
+17	<eos>	16	2	None	None	None	None	None	None	None

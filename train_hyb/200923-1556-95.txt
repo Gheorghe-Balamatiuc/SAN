@@ -1,0 +1,8 @@
+1	M	0	<sos>	None	None	None	None	None	None	None
+2	-	1	M	None	None	None	None	None	None	None
+3	\gamma	2	-	None	None	None	None	None	None	None
+4	\neq	3	\gamma	None	None	None	None	None	None	None
+5	b	4	\neq	None	None	None	None	None	None	None
+6	-	5	b	None	None	None	None	None	None	None
+7	p	6	-	None	None	None	None	None	None	None
+8	<eos>	7	p	None	None	None	None	None	None	None

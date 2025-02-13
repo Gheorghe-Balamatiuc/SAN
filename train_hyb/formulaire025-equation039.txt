@@ -1,0 +1,12 @@
+1	t	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	t	None	None	sub	None	None	None	right
+3	0	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	0	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	r	5	=	None	None	None	None	None	None	None
+7	struct	6	r	None	None	sub	None	None	None	right
+8	0	7	sub	None	None	None	None	None	None	None
+9	<eos>	8	0	None	None	None	None	None	None	None
+10	-	7	right	None	None	None	None	None	None	None
+11	0	10	-	None	None	None	None	None	None	None
+12	<eos>	11	0	None	None	None	None	None	None	None

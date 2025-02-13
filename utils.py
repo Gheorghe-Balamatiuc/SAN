@@ -73,7 +73,7 @@ def save_checkpoint(model, optimizer, word_score, struct_score, ExpRate_score, e
 
 def load_checkpoint(model, optimizer, path):
 
-    state = torch.load(path, map_location='cpu')
+    state = torch.load(path, map_location='cpu', weights_only=True)
 
     if 'optimizer' in state:
         optimizer.load_state_dict(state['optimizer'])

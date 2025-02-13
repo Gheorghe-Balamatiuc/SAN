@@ -1,0 +1,9 @@
+1	t	0	<sos>	None	None	None	None	None	None	None
+2	\int	1	t	None	None	None	None	None	None	None
+3	z	2	\int	None	None	None	None	None	None	None
+4	(	3	z	None	None	None	None	None	None	None
+5	P	4	(	None	None	None	None	None	None	None
+6	)	5	P	None	None	None	None	None	None	None
+7	d	6	)	None	None	None	None	None	None	None
+8	l	7	d	None	None	None	None	None	None	None
+9	<eos>	8	l	None	None	None	None	None	None	None

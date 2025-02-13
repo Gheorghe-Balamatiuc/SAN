@@ -1,0 +1,14 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	4	1	1	None	None	None	None	None	None	None
+3	4	2	4	None	None	None	None	None	None	None
+4	\div	3	4	None	None	None	None	None	None	None
+5	(	4	\div	None	None	None	None	None	None	None
+6	6	5	(	None	None	None	None	None	None	None
+7	\times	6	6	None	None	None	None	None	None	None
+8	1	7	\times	None	None	None	None	None	None	None
+9	2	8	1	None	None	None	None	None	None	None
+10	4	9	2	None	None	None	None	None	None	None
+11	)	10	4	None	None	None	None	None	None	None
+12	\geq	11	)	None	None	None	None	None	None	None
+13	0	12	\geq	None	None	None	None	None	None	None
+14	<eos>	13	0	None	None	None	None	None	None	None

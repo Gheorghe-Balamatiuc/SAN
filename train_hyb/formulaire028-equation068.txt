@@ -1,0 +1,4 @@
+1	r	0	<sos>	None	None	None	None	None	None	None
+2	\rightarrow	1	r	None	None	None	None	None	None	None
+3	0	2	\rightarrow	None	None	None	None	None	None	None
+4	<eos>	3	0	None	None	None	None	None	None	None

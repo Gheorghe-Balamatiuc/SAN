@@ -1,0 +1,8 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	2	1	1	None	None	None	None	None	None	None
+3	\div	2	2	None	None	None	None	None	None	None
+4	7	3	\div	None	None	None	None	None	None	None
+5	5	4	7	None	None	None	None	None	None	None
+6	\geq	5	5	None	None	None	None	None	None	None
+7	0	6	\geq	None	None	None	None	None	None	None
+8	<eos>	7	0	None	None	None	None	None	None	None

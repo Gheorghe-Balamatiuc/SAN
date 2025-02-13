@@ -1,0 +1,6 @@
+1	2	0	<sos>	None	None	None	None	None	None	None
+2	\leq	1	2	None	None	None	None	None	None	None
+3	A	2	\leq	None	None	None	None	None	None	None
+4	\leq	3	A	None	None	None	None	None	None	None
+5	4	4	\leq	None	None	None	None	None	None	None
+6	<eos>	5	4	None	None	None	None	None	None	None

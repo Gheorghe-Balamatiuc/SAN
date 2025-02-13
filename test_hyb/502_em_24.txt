@@ -1,0 +1,8 @@
+1	6	0	<sos>	None	None	None	None	None	None	None
+2	1	1	6	None	None	None	None	None	None	None
+3	\leq	2	1	None	None	None	None	None	None	None
+4	x	3	\leq	None	None	None	None	None	None	None
+5	\leq	4	x	None	None	None	None	None	None	None
+6	6	5	\leq	None	None	None	None	None	None	None
+7	9	6	6	None	None	None	None	None	None	None
+8	<eos>	7	9	None	None	None	None	None	None	None

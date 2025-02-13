@@ -1,0 +1,12 @@
+1	z	0	<sos>	None	None	None	None	None	None	None
+2	=	1	z	None	None	None	None	None	None	None
+3	r	2	=	None	None	None	None	None	None	None
+4	(	3	r	None	None	None	None	None	None	None
+5	\cos	4	(	None	None	None	None	None	None	None
+6	\theta	5	\cos	None	None	None	None	None	None	None
+7	+	6	\theta	None	None	None	None	None	None	None
+8	i	7	+	None	None	None	None	None	None	None
+9	\sin	8	i	None	None	None	None	None	None	None
+10	\theta	9	\sin	None	None	None	None	None	None	None
+11	)	10	\theta	None	None	None	None	None	None	None
+12	<eos>	11	)	None	None	None	None	None	None	None

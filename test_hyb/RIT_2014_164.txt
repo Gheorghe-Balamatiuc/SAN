@@ -1,0 +1,16 @@
+1	n	0	<sos>	None	None	None	None	None	None	None
+2	-	1	n	None	None	None	None	None	None	None
+3	n	2	-	None	None	None	None	None	None	None
+4	struct	3	n	None	None	sub	None	None	None	right
+5	1	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None
+7	-	4	right	None	None	None	None	None	None	None
+8	\ldots	7	-	None	None	None	None	None	None	None
+9	-	8	\ldots	None	None	None	None	None	None	None
+10	n	9	-	None	None	None	None	None	None	None
+11	struct	10	n	None	None	sub	None	None	None	None
+12	p	11	sub	None	None	None	None	None	None	None
+13	struct	12	p	None	None	sub	None	None	None	None
+14	-	13	sub	None	None	None	None	None	None	None
+15	1	14	-	None	None	None	None	None	None	None
+16	<eos>	15	1	None	None	None	None	None	None	None

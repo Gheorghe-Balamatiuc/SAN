@@ -1,0 +1,10 @@
+1	g	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	g	None	None	sub	None	None	None	right
+3	u	2	sub	None	None	None	None	None	None	None
+4	u	3	u	None	None	None	None	None	None	None
+5	<eos>	4	u	None	None	None	None	None	None	None
+6	g	2	right	None	None	None	None	None	None	None
+7	struct	6	g	None	None	sub	None	None	None	None
+8	v	7	sub	None	None	None	None	None	None	None
+9	v	8	v	None	None	None	None	None	None	None
+10	<eos>	9	v	None	None	None	None	None	None	None

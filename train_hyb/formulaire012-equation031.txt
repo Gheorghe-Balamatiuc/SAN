@@ -1,0 +1,10 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	\times	1	a	None	None	None	None	None	None	None
+3	0	2	\times	None	None	None	None	None	None	None
+4	=	3	0	None	None	None	None	None	None	None
+5	0	4	=	None	None	None	None	None	None	None
+6	\times	5	0	None	None	None	None	None	None	None
+7	a	6	\times	None	None	None	None	None	None	None
+8	=	7	a	None	None	None	None	None	None	None
+9	0	8	=	None	None	None	None	None	None	None
+10	<eos>	9	0	None	None	None	None	None	None	None

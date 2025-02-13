@@ -1,0 +1,14 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sum	above	below	None	None	None	None	right
+3	0	2	below	None	None	None	None	None	None	None
+4	<eos>	3	0	None	None	None	None	None	None	None
+5	\infty	2	above	None	None	None	None	None	None	None
+6	<eos>	5	\infty	None	None	None	None	None	None	None
+7	\frac	2	right	None	None	None	None	None	None	None
+8	struct	7	\frac	above	below	None	None	None	None	None
+9	1	8	above	None	None	None	None	None	None	None
+10	<eos>	9	1	None	None	None	None	None	None	None
+11	n	8	below	None	None	None	None	None	None	None
+12	struct	11	n	None	None	None	sup	None	None	None
+13	2	12	sup	None	None	None	None	None	None	None
+14	<eos>	13	2	None	None	None	None	None	None	None

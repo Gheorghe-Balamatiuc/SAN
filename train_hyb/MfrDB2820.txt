@@ -1,0 +1,13 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	right
+3	\sin	2	above	None	None	None	None	None	None	None
+4	x	3	\sin	None	None	None	None	None	None	None
+5	<eos>	4	x	None	None	None	None	None	None	None
+6	\cos	2	below	None	None	None	None	None	None	None
+7	x	6	\cos	None	None	None	None	None	None	None
+8	<eos>	7	x	None	None	None	None	None	None	None
+9	=	2	right	None	None	None	None	None	None	None
+10	t	9	=	None	None	None	None	None	None	None
+11	g	10	t	None	None	None	None	None	None	None
+12	x	11	g	None	None	None	None	None	None	None
+13	<eos>	12	x	None	None	None	None	None	None	None

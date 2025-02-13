@@ -1,0 +1,16 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	d	1	a	None	None	None	None	None	None	None
+3	struct	2	d	None	None	sub	None	None	None	right
+4	1	3	sub	None	None	None	None	None	None	None
+5	<eos>	4	1	None	None	None	None	None	None	None
+6	\leq	3	right	None	None	None	None	None	None	None
+7	d	6	\leq	None	None	None	None	None	None	None
+8	struct	7	d	None	None	sub	None	None	None	right
+9	2	8	sub	None	None	None	None	None	None	None
+10	<eos>	9	2	None	None	None	None	None	None	None
+11	\leq	8	right	None	None	None	None	None	None	None
+12	b	11	\leq	None	None	None	None	None	None	None
+13	d	12	b	None	None	None	None	None	None	None
+14	struct	13	d	None	None	sub	None	None	None	None
+15	1	14	sub	None	None	None	None	None	None	None
+16	<eos>	15	1	None	None	None	None	None	None	None

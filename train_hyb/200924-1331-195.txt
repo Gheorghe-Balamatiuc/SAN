@@ -1,0 +1,12 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	p	2	above	None	None	None	None	None	None	None
+4	-	3	p	None	None	None	None	None	None	None
+5	e	4	-	None	None	None	None	None	None	None
+6	+	5	e	None	None	None	None	None	None	None
+7	k	6	+	None	None	None	None	None	None	None
+8	<eos>	7	k	None	None	None	None	None	None	None
+9	(	2	below	None	None	None	None	None	None	None
+10	\sigma	9	(	None	None	None	None	None	None	None
+11	)	10	\sigma	None	None	None	None	None	None	None
+12	<eos>	11	)	None	None	None	None	None	None	None

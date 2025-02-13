@@ -1,0 +1,6 @@
+1	C	0	<sos>	None	None	None	None	None	None	None
+2	-	1	C	None	None	None	None	None	None	None
+3	H	2	-	None	None	None	None	None	None	None
+4	-	3	H	None	None	None	None	None	None	None
+5	q	4	-	None	None	None	None	None	None	None
+6	<eos>	5	q	None	None	None	None	None	None	None

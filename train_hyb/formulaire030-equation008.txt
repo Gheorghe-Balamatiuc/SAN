@@ -1,0 +1,14 @@
+1	\gamma	0	<sos>	None	None	None	None	None	None	None
+2	=	1	\gamma	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	1	4	above	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None
+7	\sqrt	4	below	None	None	None	None	None	None	None
+8	struct	7	\sqrt	None	None	None	None	None	inside	None
+9	1	8	inside	None	None	None	None	None	None	None
+10	-	9	1	None	None	None	None	None	None	None
+11	\beta	10	-	None	None	None	None	None	None	None
+12	struct	11	\beta	None	None	None	sup	None	None	None
+13	2	12	sup	None	None	None	None	None	None	None
+14	<eos>	13	2	None	None	None	None	None	None	None

@@ -1,0 +1,15 @@
+1	p	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	p	None	None	sub	None	None	None	right
+3	x	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	x	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	a	5	=	None	None	None	None	None	None	None
+7	p	6	a	None	None	None	None	None	None	None
+8	struct	7	p	None	None	sub	None	None	None	right
+9	x	8	sub	None	None	None	None	None	None	None
+10	-	9	x	None	None	None	None	None	None	None
+11	1	10	-	None	None	None	None	None	None	None
+12	<eos>	11	1	None	None	None	None	None	None	None
+13	+	8	right	None	None	None	None	None	None	None
+14	b	13	+	None	None	None	None	None	None	None
+15	<eos>	14	b	None	None	None	None	None	None	None

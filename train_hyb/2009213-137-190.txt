@@ -1,0 +1,8 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	-	1	\int	None	None	None	None	None	None	None
+3	a	2	-	None	None	None	None	None	None	None
+4	d	3	a	None	None	None	None	None	None	None
+5	H	4	d	None	None	None	None	None	None	None
+6	struct	5	H	None	None	sub	None	None	None	None
+7	\gamma	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	\gamma	None	None	None	None	None	None	None

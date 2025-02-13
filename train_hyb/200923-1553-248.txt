@@ -1,0 +1,14 @@
+1	G	0	<sos>	None	None	None	None	None	None	None
+2	\int	1	G	None	None	None	None	None	None	None
+3	struct	2	\int	None	None	sub	sup	None	None	right
+4	Y	3	sub	None	None	None	None	None	None	None
+5	<eos>	4	Y	None	None	None	None	None	None	None
+6	\int	3	sup	None	None	None	None	None	None	None
+7	N	6	\int	None	None	None	None	None	None	None
+8	d	7	N	None	None	None	None	None	None	None
+9	o	8	d	None	None	None	None	None	None	None
+10	<eos>	9	o	None	None	None	None	None	None	None
+11	E	3	right	None	None	None	None	None	None	None
+12	d	11	E	None	None	None	None	None	None	None
+13	\Delta	12	d	None	None	None	None	None	None	None
+14	<eos>	13	\Delta	None	None	None	None	None	None	None

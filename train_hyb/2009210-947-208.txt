@@ -1,0 +1,7 @@
+1	e	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	e	None	None	sub	sup	None	None	None
+3	G	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	G	None	None	None	None	None	None	None
+5	\sum	2	sup	None	None	None	None	None	None	None
+6	h	5	\sum	None	None	None	None	None	None	None
+7	<eos>	6	h	None	None	None	None	None	None	None

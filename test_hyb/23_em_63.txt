@@ -1,0 +1,17 @@
+1	F	0	<sos>	None	None	None	None	None	None	None
+2	=	1	F	None	None	None	None	None	None	None
+3	\sqrt	2	=	None	None	None	None	None	None	None
+4	struct	3	\sqrt	None	None	None	None	None	inside	None
+5	F	4	inside	None	None	None	None	None	None	None
+6	struct	5	F	None	None	sub	sup	None	None	right
+7	x	6	sub	None	None	None	None	None	None	None
+8	<eos>	7	x	None	None	None	None	None	None	None
+9	2	6	sup	None	None	None	None	None	None	None
+10	<eos>	9	2	None	None	None	None	None	None	None
+11	+	6	right	None	None	None	None	None	None	None
+12	F	11	+	None	None	None	None	None	None	None
+13	struct	12	F	None	None	sub	sup	None	None	None
+14	y	13	sub	None	None	None	None	None	None	None
+15	<eos>	14	y	None	None	None	None	None	None	None
+16	2	13	sup	None	None	None	None	None	None	None
+17	<eos>	16	2	None	None	None	None	None	None	None

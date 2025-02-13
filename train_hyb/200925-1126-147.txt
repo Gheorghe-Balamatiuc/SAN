@@ -1,0 +1,9 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\sigma	2	above	None	None	None	None	None	None	None
+4	+	3	\sigma	None	None	None	None	None	None	None
+5	Y	4	+	None	None	None	None	None	None	None
+6	<eos>	5	Y	None	None	None	None	None	None	None
+7	n	2	below	None	None	None	None	None	None	None
+8	j	7	n	None	None	None	None	None	None	None
+9	<eos>	8	j	None	None	None	None	None	None	None

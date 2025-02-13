@@ -1,0 +1,10 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	2	1	1	None	None	None	None	None	None	None
+3	5	2	2	None	None	None	None	None	None	None
+4	-	3	5	None	None	None	None	None	None	None
+5	8	4	-	None	None	None	None	None	None	None
+6	6	5	8	None	None	None	None	None	None	None
+7	\neq	6	6	None	None	None	None	None	None	None
+8	3	7	\neq	None	None	None	None	None	None	None
+9	8	8	3	None	None	None	None	None	None	None
+10	<eos>	9	8	None	None	None	None	None	None	None

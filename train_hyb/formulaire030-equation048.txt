@@ -1,0 +1,13 @@
+1	y	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	y	None	None	sub	None	None	None	right
+3	4	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	4	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	-	5	=	None	None	None	None	None	None	None
+7	\frac	6	-	None	None	None	None	None	None	None
+8	struct	7	\frac	above	below	None	None	None	None	None
+9	7	8	above	None	None	None	None	None	None	None
+10	i	9	7	None	None	None	None	None	None	None
+11	<eos>	10	i	None	None	None	None	None	None	None
+12	2	8	below	None	None	None	None	None	None	None
+13	<eos>	12	2	None	None	None	None	None	None	None

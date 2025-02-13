@@ -1,0 +1,16 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	-	1	(	None	None	None	None	None	None	None
+3	1	2	-	None	None	None	None	None	None	None
+4	)	3	1	None	None	None	None	None	None	None
+5	struct	4	)	None	None	None	sup	None	None	right
+6	\frac	5	sup	None	None	None	None	None	None	None
+7	struct	6	\frac	above	below	None	None	None	None	None
+8	p	7	above	None	None	None	None	None	None	None
+9	-	8	p	None	None	None	None	None	None	None
+10	1	9	-	None	None	None	None	None	None	None
+11	<eos>	10	1	None	None	None	None	None	None	None
+12	2	7	below	None	None	None	None	None	None	None
+13	<eos>	12	2	None	None	None	None	None	None	None
+14	=	5	right	None	None	None	None	None	None	None
+15	1	14	=	None	None	None	None	None	None	None
+16	<eos>	15	1	None	None	None	None	None	None	None

@@ -1,0 +1,4 @@
+1	8	0	<sos>	None	None	None	None	None	None	None
+2	c	1	8	None	None	None	None	None	None	None
+3	m	2	c	None	None	None	None	None	None	None
+4	<eos>	3	m	None	None	None	None	None	None	None

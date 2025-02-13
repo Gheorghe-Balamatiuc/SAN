@@ -1,0 +1,10 @@
+1	\theta	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\theta	None	None	sub	None	None	None	right
+3	2	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	-	5	=	None	None	None	None	None	None	None
+7	\theta	6	-	None	None	None	None	None	None	None
+8	struct	7	\theta	None	None	sub	None	None	None	None
+9	1	8	sub	None	None	None	None	None	None	None
+10	<eos>	9	1	None	None	None	None	None	None	None

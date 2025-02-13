@@ -1,0 +1,14 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\int	above	None	None	sup	None	None	right
+3	e	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	e	None	None	None	None	None	None	None
+5	a	2	above	None	None	None	None	None	None	None
+6	struct	5	a	None	None	None	sup	None	None	None
+7	\sigma	6	sup	None	None	None	None	None	None	None
+8	<eos>	7	\sigma	None	None	None	None	None	None	None
+9	L	2	right	None	None	None	None	None	None	None
+10	+	9	L	None	None	None	None	None	None	None
+11	w	10	+	None	None	None	None	None	None	None
+12	d	11	w	None	None	None	None	None	None	None
+13	q	12	d	None	None	None	None	None	None	None
+14	<eos>	13	q	None	None	None	None	None	None	None

@@ -1,0 +1,12 @@
+1	f	0	<sos>	None	None	None	None	None	None	None
+2	(	1	f	None	None	None	None	None	None	None
+3	\alpha	2	(	None	None	None	None	None	None	None
+4	)	3	\alpha	None	None	None	None	None	None	None
+5	=	4	)	None	None	None	None	None	None	None
+6	\frac	5	=	None	None	None	None	None	None	None
+7	struct	6	\frac	above	below	None	None	None	None	None
+8	1	7	above	None	None	None	None	None	None	None
+9	<eos>	8	1	None	None	None	None	None	None	None
+10	2	7	below	None	None	None	None	None	None	None
+11	\pi	10	2	None	None	None	None	None	None	None
+12	<eos>	11	\pi	None	None	None	None	None	None	None

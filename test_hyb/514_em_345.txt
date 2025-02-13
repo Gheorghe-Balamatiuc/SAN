@@ -1,0 +1,8 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\pm	2	above	None	None	None	None	None	None	None
+4	\infty	3	\pm	None	None	None	None	None	None	None
+5	<eos>	4	\infty	None	None	None	None	None	None	None
+6	\pm	2	below	None	None	None	None	None	None	None
+7	\infty	6	\pm	None	None	None	None	None	None	None
+8	<eos>	7	\infty	None	None	None	None	None	None	None

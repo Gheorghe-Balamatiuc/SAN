@@ -1,0 +1,7 @@
+1	M	0	<sos>	None	None	None	None	None	None	None
+2	-	1	M	None	None	None	None	None	None	None
+3	q	2	-	None	None	None	None	None	None	None
+4	=	3	q	None	None	None	None	None	None	None
+5	-	4	=	None	None	None	None	None	None	None
+6	\sigma	5	-	None	None	None	None	None	None	None
+7	<eos>	6	\sigma	None	None	None	None	None	None	None

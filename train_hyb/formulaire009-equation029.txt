@@ -1,0 +1,12 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	x	None	None	sub	None	None	None	right
+3	i	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	i	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	i	5	=	None	None	None	None	None	None	None
+7	h	6	i	None	None	None	None	None	None	None
+8	+	7	h	None	None	None	None	None	None	None
+9	x	8	+	None	None	None	None	None	None	None
+10	struct	9	x	None	None	sub	None	None	None	None
+11	0	10	sub	None	None	None	None	None	None	None
+12	<eos>	11	0	None	None	None	None	None	None	None

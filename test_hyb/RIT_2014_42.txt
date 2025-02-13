@@ -1,0 +1,13 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	\alpha	1	\sum	None	None	None	None	None	None	None
+3	\beta	2	\alpha	None	None	None	None	None	None	None
+4	=	3	\beta	None	None	None	None	None	None	None
+5	\alpha	4	=	None	None	None	None	None	None	None
+6	\beta	5	\alpha	None	None	None	None	None	None	None
+7	+	6	\beta	None	None	None	None	None	None	None
+8	\alpha	7	+	None	None	None	None	None	None	None
+9	\gamma	8	\alpha	None	None	None	None	None	None	None
+10	+	9	\gamma	None	None	None	None	None	None	None
+11	\beta	10	+	None	None	None	None	None	None	None
+12	\gamma	11	\beta	None	None	None	None	None	None	None
+13	<eos>	12	\gamma	None	None	None	None	None	None	None

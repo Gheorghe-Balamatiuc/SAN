@@ -1,0 +1,8 @@
+1	\sin	0	<sos>	None	None	None	None	None	None	None
+2	(	1	\sin	None	None	None	None	None	None	None
+3	n	2	(	None	None	None	None	None	None	None
+4	x	3	n	None	None	None	None	None	None	None
+5	)	4	x	None	None	None	None	None	None	None
+6	=	5	)	None	None	None	None	None	None	None
+7	0	6	=	None	None	None	None	None	None	None
+8	<eos>	7	0	None	None	None	None	None	None	None

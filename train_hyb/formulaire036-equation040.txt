@@ -1,0 +1,17 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	1	1	1	None	None	None	None	None	None	None
+3	6	2	1	None	None	None	None	None	None	None
+4	\pm	3	6	None	None	None	None	None	None	None
+5	(	4	\pm	None	None	None	None	None	None	None
+6	1	5	(	None	None	None	None	None	None	None
+7	1	6	1	None	None	None	None	None	None	None
+8	4	7	1	None	None	None	None	None	None	None
+9	\div	8	4	None	None	None	None	None	None	None
+10	1	9	\div	None	None	None	None	None	None	None
+11	9	10	1	None	None	None	None	None	None	None
+12	6	11	9	None	None	None	None	None	None	None
+13	)	12	6	None	None	None	None	None	None	None
+14	-	13	)	None	None	None	None	None	None	None
+15	1	14	-	None	None	None	None	None	None	None
+16	9	15	1	None	None	None	None	None	None	None
+17	<eos>	16	9	None	None	None	None	None	None	None

@@ -1,0 +1,15 @@
+1	\lim	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\lim	None	None	sub	None	None	None	None
+3	y	2	sub	None	None	None	None	None	None	None
+4	\rightarrow	3	y	None	None	None	None	None	None	None
+5	x	4	\rightarrow	None	None	None	None	None	None	None
+6	f	5	x	None	None	None	None	None	None	None
+7	(	6	f	None	None	None	None	None	None	None
+8	y	7	(	None	None	None	None	None	None	None
+9	)	8	y	None	None	None	None	None	None	None
+10	=	9	)	None	None	None	None	None	None	None
+11	f	10	=	None	None	None	None	None	None	None
+12	(	11	f	None	None	None	None	None	None	None
+13	x	12	(	None	None	None	None	None	None	None
+14	)	13	x	None	None	None	None	None	None	None
+15	<eos>	14	)	None	None	None	None	None	None	None

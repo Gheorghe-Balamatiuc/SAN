@@ -1,0 +1,17 @@
+1	e	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	e	None	None	None	sup	None	None	right
+3	\phi	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	\phi	None	None	None	None	None	None	None
+5	+	2	right	None	None	None	None	None	None	None
+6	\frac	5	+	None	None	None	None	None	None	None
+7	struct	6	\frac	above	below	None	None	None	None	right
+8	2	7	above	None	None	None	None	None	None	None
+9	<eos>	8	2	None	None	None	None	None	None	None
+10	\phi	7	below	None	None	None	None	None	None	None
+11	struct	10	\phi	None	None	None	sup	None	None	None
+12	3	11	sup	None	None	None	None	None	None	None
+13	<eos>	12	3	None	None	None	None	None	None	None
+14	-	7	right	None	None	None	None	None	None	None
+15	3	14	-	None	None	None	None	None	None	None
+16	\phi	15	3	None	None	None	None	None	None	None
+17	<eos>	16	\phi	None	None	None	None	None	None	None

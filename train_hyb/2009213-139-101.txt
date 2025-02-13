@@ -1,0 +1,8 @@
+1	k	0	<sos>	None	None	None	None	None	None	None
+2	-	1	k	None	None	None	None	None	None	None
+3	a	2	-	None	None	None	None	None	None	None
+4	=	3	a	None	None	None	None	None	None	None
+5	h	4	=	None	None	None	None	None	None	None
+6	-	5	h	None	None	None	None	None	None	None
+7	f	6	-	None	None	None	None	None	None	None
+8	<eos>	7	f	None	None	None	None	None	None	None

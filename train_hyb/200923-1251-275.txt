@@ -1,0 +1,6 @@
+1	f	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	f	None	None	None	sup	None	None	None
+3	P	2	sup	None	None	None	None	None	None	None
+4	-	3	P	None	None	None	None	None	None	None
+5	5	4	-	None	None	None	None	None	None	None
+6	<eos>	5	5	None	None	None	None	None	None	None

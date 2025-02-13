@@ -1,0 +1,6 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	\int	1	-	None	None	None	None	None	None	None
+3	V	2	\int	None	None	None	None	None	None	None
+4	d	3	V	None	None	None	None	None	None	None
+5	t	4	d	None	None	None	None	None	None	None
+6	<eos>	5	t	None	None	None	None	None	None	None

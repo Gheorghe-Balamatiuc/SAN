@@ -1,0 +1,6 @@
+1	v	0	<sos>	None	None	None	None	None	None	None
+2	=	1	v	None	None	None	None	None	None	None
+3	-	2	=	None	None	None	None	None	None	None
+4	e	3	-	None	None	None	None	None	None	None
+5	u	4	e	None	None	None	None	None	None	None
+6	<eos>	5	u	None	None	None	None	None	None	None

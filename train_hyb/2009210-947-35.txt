@@ -1,0 +1,8 @@
+1	T	0	<sos>	None	None	None	None	None	None	None
+2	+	1	T	None	None	None	None	None	None	None
+3	q	2	+	None	None	None	None	None	None	None
+4	\int	3	q	None	None	None	None	None	None	None
+5	S	4	\int	None	None	None	None	None	None	None
+6	d	5	S	None	None	None	None	None	None	None
+7	x	6	d	None	None	None	None	None	None	None
+8	<eos>	7	x	None	None	None	None	None	None	None

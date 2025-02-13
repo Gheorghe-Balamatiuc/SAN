@@ -1,0 +1,10 @@
+1	\cdots	0	<sos>	None	None	None	None	None	None	None
+2	+	1	\cdots	None	None	None	None	None	None	None
+3	f	2	+	None	None	None	None	None	None	None
+4	struct	3	f	None	None	None	sup	None	None	right
+5	j	4	sup	None	None	None	None	None	None	None
+6	<eos>	5	j	None	None	None	None	None	None	None
+7	(	4	right	None	None	None	None	None	None	None
+8	j	7	(	None	None	None	None	None	None	None
+9	)	8	j	None	None	None	None	None	None	None
+10	<eos>	9	)	None	None	None	None	None	None	None

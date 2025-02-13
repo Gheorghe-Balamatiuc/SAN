@@ -1,0 +1,16 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	f	2	above	None	None	None	None	None	None	None
+4	(	3	f	None	None	None	None	None	None	None
+5	b	4	(	None	None	None	None	None	None	None
+6	)	5	b	None	None	None	None	None	None	None
+7	-	6	)	None	None	None	None	None	None	None
+8	f	7	-	None	None	None	None	None	None	None
+9	(	8	f	None	None	None	None	None	None	None
+10	a	9	(	None	None	None	None	None	None	None
+11	)	10	a	None	None	None	None	None	None	None
+12	<eos>	11	)	None	None	None	None	None	None	None
+13	b	2	below	None	None	None	None	None	None	None
+14	-	13	b	None	None	None	None	None	None	None
+15	a	14	-	None	None	None	None	None	None	None
+16	<eos>	15	a	None	None	None	None	None	None	None

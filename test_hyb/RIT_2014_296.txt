@@ -1,0 +1,5 @@
+1	\theta	0	<sos>	None	None	None	None	None	None	None
+2	+	1	\theta	None	None	None	None	None	None	None
+3	e	2	+	None	None	None	None	None	None	None
+4	\alpha	3	e	None	None	None	None	None	None	None
+5	<eos>	4	\alpha	None	None	None	None	None	None	None

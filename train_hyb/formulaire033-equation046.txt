@@ -1,0 +1,15 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	x	None	None	None	sup	None	None	right
+3	2	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None
+5	-	2	right	None	None	None	None	None	None	None
+6	\beta	5	-	None	None	None	None	None	None	None
+7	struct	6	\beta	None	None	sub	None	None	None	right
+8	g	7	sub	None	None	None	None	None	None	None
+9	<eos>	8	g	None	None	None	None	None	None	None
+10	x	7	right	None	None	None	None	None	None	None
+11	+	10	x	None	None	None	None	None	None	None
+12	\gamma	11	+	None	None	None	None	None	None	None
+13	struct	12	\gamma	None	None	sub	None	None	None	None
+14	g	13	sub	None	None	None	None	None	None	None
+15	<eos>	14	g	None	None	None	None	None	None	None

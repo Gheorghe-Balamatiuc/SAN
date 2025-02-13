@@ -1,0 +1,5 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	b	1	a	None	None	None	None	None	None	None
+3	\sin	2	b	None	None	None	None	None	None	None
+4	\alpha	3	\sin	None	None	None	None	None	None	None
+5	<eos>	4	\alpha	None	None	None	None	None	None	None

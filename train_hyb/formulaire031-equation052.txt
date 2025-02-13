@@ -1,0 +1,17 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	+	1	1	None	None	None	None	None	None	None
+3	\log	2	+	None	None	None	None	None	None	None
+4	struct	3	\log	None	None	sub	None	None	None	right
+5	k	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	k	None	None	None	None	None	None	None
+7	(	4	right	None	None	None	None	None	None	None
+8	\frac	7	(	None	None	None	None	None	None	None
+9	struct	8	\frac	above	below	None	None	None	None	right
+10	k	9	above	None	None	None	None	None	None	None
+11	+	10	k	None	None	None	None	None	None	None
+12	1	11	+	None	None	None	None	None	None	None
+13	<eos>	12	1	None	None	None	None	None	None	None
+14	2	9	below	None	None	None	None	None	None	None
+15	<eos>	14	2	None	None	None	None	None	None	None
+16	)	9	right	None	None	None	None	None	None	None
+17	<eos>	16	)	None	None	None	None	None	None	None

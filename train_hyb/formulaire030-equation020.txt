@@ -1,0 +1,17 @@
+1	5	0	<sos>	None	None	None	None	None	None	None
+2	/	1	5	None	None	None	None	None	None	None
+3	(	2	/	None	None	None	None	None	None	None
+4	3	3	(	None	None	None	None	None	None	None
+5	7	4	3	None	None	None	None	None	None	None
+6	+	5	7	None	None	None	None	None	None	None
+7	3	6	+	None	None	None	None	None	None	None
+8	6	7	3	None	None	None	None	None	None	None
+9	+	8	6	None	None	None	None	None	None	None
+10	8	9	+	None	None	None	None	None	None	None
+11	)	10	8	None	None	None	None	None	None	None
+12	=	11	)	None	None	None	None	None	None	None
+13	0	12	=	None	None	None	None	None	None	None
+14	.	13	0	None	None	None	None	None	None	None
+15	0	14	.	None	None	None	None	None	None	None
+16	6	15	0	None	None	None	None	None	None	None
+17	<eos>	16	6	None	None	None	None	None	None	None

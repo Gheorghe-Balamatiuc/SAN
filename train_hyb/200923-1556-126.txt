@@ -1,0 +1,6 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	s	1	\sum	None	None	None	None	None	None	None
+3	-	2	s	None	None	None	None	None	None	None
+4	\pi	3	-	None	None	None	None	None	None	None
+5	H	4	\pi	None	None	None	None	None	None	None
+6	<eos>	5	H	None	None	None	None	None	None	None

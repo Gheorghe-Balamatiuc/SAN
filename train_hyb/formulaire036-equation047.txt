@@ -1,0 +1,14 @@
+1	y	0	<sos>	None	None	None	None	None	None	None
+2	(	1	y	None	None	None	None	None	None	None
+3	t	2	(	None	None	None	None	None	None	None
+4	)	3	t	None	None	None	None	None	None	None
+5	=	4	)	None	None	None	None	None	None	None
+6	t	5	=	None	None	None	None	None	None	None
+7	x	6	t	None	None	None	None	None	None	None
+8	struct	7	x	None	None	sub	None	None	None	right
+9	d	8	sub	None	None	None	None	None	None	None
+10	<eos>	9	d	None	None	None	None	None	None	None
+11	(	8	right	None	None	None	None	None	None	None
+12	t	11	(	None	None	None	None	None	None	None
+13	)	12	t	None	None	None	None	None	None	None
+14	<eos>	13	)	None	None	None	None	None	None	None

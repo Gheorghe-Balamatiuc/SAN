@@ -1,0 +1,15 @@
+1	4	0	<sos>	None	None	None	None	None	None	None
+2	x	1	4	None	None	None	None	None	None	None
+3	struct	2	x	None	None	None	sup	None	None	right
+4	3	3	sup	None	None	None	None	None	None	None
+5	<eos>	4	3	None	None	None	None	None	None	None
+6	\sin	3	right	None	None	None	None	None	None	None
+7	x	6	\sin	None	None	None	None	None	None	None
+8	+	7	x	None	None	None	None	None	None	None
+9	x	8	+	None	None	None	None	None	None	None
+10	struct	9	x	None	None	None	sup	None	None	right
+11	4	10	sup	None	None	None	None	None	None	None
+12	<eos>	11	4	None	None	None	None	None	None	None
+13	\cos	10	right	None	None	None	None	None	None	None
+14	x	13	\cos	None	None	None	None	None	None	None
+15	<eos>	14	x	None	None	None	None	None	None	None

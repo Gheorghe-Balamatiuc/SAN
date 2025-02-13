@@ -1,0 +1,8 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	3	1	1	None	None	None	None	None	None	None
+3	+	2	3	None	None	None	None	None	None	None
+4	\pi	3	+	None	None	None	None	None	None	None
+5	r	4	\pi	None	None	None	None	None	None	None
+6	struct	5	r	None	None	None	sup	None	None	None
+7	2	6	sup	None	None	None	None	None	None	None
+8	<eos>	7	2	None	None	None	None	None	None	None

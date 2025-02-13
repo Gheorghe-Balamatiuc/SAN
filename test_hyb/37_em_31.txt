@@ -1,0 +1,8 @@
+1	M	0	<sos>	None	None	None	None	None	None	None
+2	=	1	M	None	None	None	None	None	None	None
+3	E	2	=	None	None	None	None	None	None	None
+4	-	3	E	None	None	None	None	None	None	None
+5	e	4	-	None	None	None	None	None	None	None
+6	\sin	5	e	None	None	None	None	None	None	None
+7	E	6	\sin	None	None	None	None	None	None	None
+8	<eos>	7	E	None	None	None	None	None	None	None

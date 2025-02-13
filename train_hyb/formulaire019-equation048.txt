@@ -1,0 +1,5 @@
+1	\gamma	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\gamma	None	None	sub	None	None	None	None
+3	1	2	sub	None	None	None	None	None	None	None
+4	4	3	1	None	None	None	None	None	None	None
+5	<eos>	4	4	None	None	None	None	None	None	None

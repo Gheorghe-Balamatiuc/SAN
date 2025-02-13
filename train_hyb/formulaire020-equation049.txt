@@ -1,0 +1,10 @@
+1	v	0	<sos>	None	None	None	None	None	None	None
+2	=	1	v	None	None	None	None	None	None	None
+3	v	2	=	None	None	None	None	None	None	None
+4	struct	3	v	None	None	None	sup	None	None	right
+5	i	4	sup	None	None	None	None	None	None	None
+6	<eos>	5	i	None	None	None	None	None	None	None
+7	e	4	right	None	None	None	None	None	None	None
+8	struct	7	e	None	None	sub	None	None	None	None
+9	i	8	sub	None	None	None	None	None	None	None
+10	<eos>	9	i	None	None	None	None	None	None	None

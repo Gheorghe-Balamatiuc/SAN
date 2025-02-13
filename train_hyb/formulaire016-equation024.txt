@@ -1,0 +1,17 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	x	1	(	None	None	None	None	None	None	None
+3	struct	2	x	None	None	sub	None	None	None	right
+4	0	3	sub	None	None	None	None	None	None	None
+5	<eos>	4	0	None	None	None	None	None	None	None
+6	,	3	right	None	None	None	None	None	None	None
+7	y	6	,	None	None	None	None	None	None	None
+8	struct	7	y	None	None	sub	None	None	None	right
+9	0	8	sub	None	None	None	None	None	None	None
+10	<eos>	9	0	None	None	None	None	None	None	None
+11	,	8	right	None	None	None	None	None	None	None
+12	z	11	,	None	None	None	None	None	None	None
+13	struct	12	z	None	None	sub	None	None	None	right
+14	0	13	sub	None	None	None	None	None	None	None
+15	<eos>	14	0	None	None	None	None	None	None	None
+16	)	13	right	None	None	None	None	None	None	None
+17	<eos>	16	)	None	None	None	None	None	None	None

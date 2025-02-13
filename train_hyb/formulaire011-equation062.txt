@@ -1,0 +1,8 @@
+1	\pm	0	<sos>	None	None	None	None	None	None	None
+2	w	1	\pm	None	None	None	None	None	None	None
+3	(	2	w	None	None	None	None	None	None	None
+4	r	3	(	None	None	None	None	None	None	None
+5	,	4	r	None	None	None	None	None	None	None
+6	t	5	,	None	None	None	None	None	None	None
+7	)	6	t	None	None	None	None	None	None	None
+8	<eos>	7	)	None	None	None	None	None	None	None

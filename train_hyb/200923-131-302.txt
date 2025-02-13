@@ -1,0 +1,13 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sum	above	below	None	None	None	None	right
+3	m	2	below	None	None	None	None	None	None	None
+4	=	3	m	None	None	None	None	None	None	None
+5	X	4	=	None	None	None	None	None	None	None
+6	<eos>	5	X	None	None	None	None	None	None	None
+7	9	2	above	None	None	None	None	None	None	None
+8	.	7	9	None	None	None	None	None	None	None
+9	6	8	.	None	None	None	None	None	None	None
+10	<eos>	9	6	None	None	None	None	None	None	None
+11	\tan	2	right	None	None	None	None	None	None	None
+12	g	11	\tan	None	None	None	None	None	None	None
+13	<eos>	12	g	None	None	None	None	None	None	None

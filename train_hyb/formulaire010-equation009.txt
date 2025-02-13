@@ -1,0 +1,10 @@
+1	h	0	<sos>	None	None	None	None	None	None	None
+2	(	1	h	None	None	None	None	None	None	None
+3	a	2	(	None	None	None	None	None	None	None
+4	)	3	a	None	None	None	None	None	None	None
+5	=	4	)	None	None	None	None	None	None	None
+6	h	5	=	None	None	None	None	None	None	None
+7	(	6	h	None	None	None	None	None	None	None
+8	b	7	(	None	None	None	None	None	None	None
+9	)	8	b	None	None	None	None	None	None	None
+10	<eos>	9	)	None	None	None	None	None	None	None

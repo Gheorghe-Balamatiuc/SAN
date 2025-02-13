@@ -1,0 +1,12 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	l	2	above	None	None	None	None	None	None	None
+4	+	3	l	None	None	None	None	None	None	None
+5	\sum	4	+	None	None	None	None	None	None	None
+6	h	5	\sum	None	None	None	None	None	None	None
+7	<eos>	6	h	None	None	None	None	None	None	None
+8	z	2	below	None	None	None	None	None	None	None
+9	(	8	z	None	None	None	None	None	None	None
+10	b	9	(	None	None	None	None	None	None	None
+11	)	10	b	None	None	None	None	None	None	None
+12	<eos>	11	)	None	None	None	None	None	None	None

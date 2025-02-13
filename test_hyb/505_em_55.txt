@@ -1,0 +1,14 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	\frac	1	\int	None	None	None	None	None	None	None
+3	struct	2	\frac	above	below	None	None	None	None	right
+4	d	3	above	None	None	None	None	None	None	None
+5	v	4	d	None	None	None	None	None	None	None
+6	<eos>	5	v	None	None	None	None	None	None	None
+7	v	3	below	None	None	None	None	None	None	None
+8	<eos>	7	v	None	None	None	None	None	None	None
+9	=	3	right	None	None	None	None	None	None	None
+10	\int	9	=	None	None	None	None	None	None	None
+11	2	10	\int	None	None	None	None	None	None	None
+12	d	11	2	None	None	None	None	None	None	None
+13	x	12	d	None	None	None	None	None	None	None
+14	<eos>	13	x	None	None	None	None	None	None	None

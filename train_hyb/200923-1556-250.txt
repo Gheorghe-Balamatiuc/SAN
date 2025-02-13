@@ -1,0 +1,6 @@
+1	C	0	<sos>	None	None	None	None	None	None	None
+2	=	1	C	None	None	None	None	None	None	None
+3	s	2	=	None	None	None	None	None	None	None
+4	struct	3	s	None	None	None	sup	None	None	None
+5	i	4	sup	None	None	None	None	None	None	None
+6	<eos>	5	i	None	None	None	None	None	None	None

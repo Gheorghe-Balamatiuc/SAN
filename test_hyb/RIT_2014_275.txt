@@ -1,0 +1,4 @@
+1	s	0	<sos>	None	None	None	None	None	None	None
+2	\neq	1	s	None	None	None	None	None	None	None
+3	1	2	\neq	None	None	None	None	None	None	None
+4	<eos>	3	1	None	None	None	None	None	None	None

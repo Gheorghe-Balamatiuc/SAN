@@ -1,0 +1,6 @@
+1	p	0	<sos>	None	None	None	None	None	None	None
+2	=	1	p	None	None	None	None	None	None	None
+3	p	2	=	None	None	None	None	None	None	None
+4	struct	3	p	None	None	sub	None	None	None	None
+5	e	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	e	None	None	None	None	None	None	None

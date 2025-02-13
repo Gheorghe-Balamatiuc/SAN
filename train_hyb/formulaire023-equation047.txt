@@ -1,0 +1,6 @@
+1	m	0	<sos>	None	None	None	None	None	None	None
+2	\leq	1	m	None	None	None	None	None	None	None
+3	m	2	\leq	None	None	None	None	None	None	None
+4	-	3	m	None	None	None	None	None	None	None
+5	r	4	-	None	None	None	None	None	None	None
+6	<eos>	5	r	None	None	None	None	None	None	None

@@ -1,0 +1,11 @@
+1	\pi	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\pi	None	None	sub	None	None	None	right
+3	x	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	x	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	(	5	=	None	None	None	None	None	None	None
+7	y	6	(	None	None	None	None	None	None	None
+8	,	7	y	None	None	None	None	None	None	None
+9	z	8	,	None	None	None	None	None	None	None
+10	)	9	z	None	None	None	None	None	None	None
+11	<eos>	10	)	None	None	None	None	None	None	None

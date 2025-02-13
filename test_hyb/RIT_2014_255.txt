@@ -1,0 +1,16 @@
+1	m	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	m	None	None	sub	None	None	None	right
+3	k	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	k	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	p	5	=	None	None	None	None	None	None	None
+7	struct	6	p	None	None	sub	None	None	None	right
+8	k	7	sub	None	None	None	None	None	None	None
+9	<eos>	8	k	None	None	None	None	None	None	None
+10	-	7	right	None	None	None	None	None	None	None
+11	p	10	-	None	None	None	None	None	None	None
+12	struct	11	p	None	None	sub	None	None	None	None
+13	k	12	sub	None	None	None	None	None	None	None
+14	-	13	k	None	None	None	None	None	None	None
+15	1	14	-	None	None	None	None	None	None	None
+16	<eos>	15	1	None	None	None	None	None	None	None

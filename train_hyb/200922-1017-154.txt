@@ -1,0 +1,8 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	C	1	(	None	None	None	None	None	None	None
+3	)	2	C	None	None	None	None	None	None	None
+4	struct	3	)	None	None	None	sup	None	None	None
+5	9	4	sup	None	None	None	None	None	None	None
+6	+	5	9	None	None	None	None	None	None	None
+7	e	6	+	None	None	None	None	None	None	None
+8	<eos>	7	e	None	None	None	None	None	None	None

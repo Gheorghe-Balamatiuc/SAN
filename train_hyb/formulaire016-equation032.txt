@@ -1,0 +1,15 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	+	1	1	None	None	None	None	None	None	None
+3	z	2	+	None	None	None	None	None	None	None
+4	=	3	z	None	None	None	None	None	None	None
+5	\frac	4	=	None	None	None	None	None	None	None
+6	struct	5	\frac	above	below	None	None	None	None	None
+7	a	6	above	None	None	None	None	None	None	None
+8	struct	7	a	None	None	sub	None	None	None	None
+9	0	8	sub	None	None	None	None	None	None	None
+10	<eos>	9	0	None	None	None	None	None	None	None
+11	a	6	below	None	None	None	None	None	None	None
+12	(	11	a	None	None	None	None	None	None	None
+13	t	12	(	None	None	None	None	None	None	None
+14	)	13	t	None	None	None	None	None	None	None
+15	<eos>	14	)	None	None	None	None	None	None	None

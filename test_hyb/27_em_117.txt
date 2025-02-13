@@ -1,0 +1,11 @@
+1	\cos	0	<sos>	None	None	None	None	None	None	None
+2	\theta	1	\cos	None	None	None	None	None	None	None
+3	\sin	2	\theta	None	None	None	None	None	None	None
+4	\theta	3	\sin	None	None	None	None	None	None	None
+5	+	4	\theta	None	None	None	None	None	None	None
+6	\theta	5	+	None	None	None	None	None	None	None
+7	+	6	\theta	None	None	None	None	None	None	None
+8	\theta	7	+	None	None	None	None	None	None	None
+9	struct	8	\theta	None	None	None	sup	None	None	None
+10	2	9	sup	None	None	None	None	None	None	None
+11	<eos>	10	2	None	None	None	None	None	None	None

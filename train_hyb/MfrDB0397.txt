@@ -1,0 +1,6 @@
+1	A	0	<sos>	None	None	None	None	None	None	None
+2	+	1	A	None	None	None	None	None	None	None
+3	B	2	+	None	None	None	None	None	None	None
+4	=	3	B	None	None	None	None	None	None	None
+5	C	4	=	None	None	None	None	None	None	None
+6	<eos>	5	C	None	None	None	None	None	None	None

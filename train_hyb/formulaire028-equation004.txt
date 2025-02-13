@@ -1,0 +1,14 @@
+1	g	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	g	None	None	sub	None	None	None	right
+3	i	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	i	None	None	None	None	None	None	None
+5	(	2	right	None	None	None	None	None	None	None
+6	x	5	(	None	None	None	None	None	None	None
+7	,	6	x	None	None	None	None	None	None	None
+8	y	7	,	None	None	None	None	None	None	None
+9	,	8	y	None	None	None	None	None	None	None
+10	z	9	,	None	None	None	None	None	None	None
+11	)	10	z	None	None	None	None	None	None	None
+12	=	11	)	None	None	None	None	None	None	None
+13	0	12	=	None	None	None	None	None	None	None
+14	<eos>	13	0	None	None	None	None	None	None	None

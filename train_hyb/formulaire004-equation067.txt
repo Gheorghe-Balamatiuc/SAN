@@ -1,0 +1,17 @@
+1	c	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	c	None	None	None	sup	None	None	right
+3	2	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None
+5	t	2	right	None	None	None	None	None	None	None
+6	struct	5	t	None	None	None	sup	None	None	right
+7	2	6	sup	None	None	None	None	None	None	None
+8	<eos>	7	2	None	None	None	None	None	None	None
+9	-	6	right	None	None	None	None	None	None	None
+10	x	9	-	None	None	None	None	None	None	None
+11	struct	10	x	None	None	None	sup	None	None	right
+12	2	11	sup	None	None	None	None	None	None	None
+13	<eos>	12	2	None	None	None	None	None	None	None
+14	=	11	right	None	None	None	None	None	None	None
+15	-	14	=	None	None	None	None	None	None	None
+16	1	15	-	None	None	None	None	None	None	None
+17	<eos>	16	1	None	None	None	None	None	None	None

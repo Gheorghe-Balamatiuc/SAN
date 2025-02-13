@@ -1,0 +1,9 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	d	1	\sum	None	None	None	None	None	None	None
+3	(	2	d	None	None	None	None	None	None	None
+4	s	3	(	None	None	None	None	None	None	None
+5	)	4	s	None	None	None	None	None	None	None
+6	=	5	)	None	None	None	None	None	None	None
+7	2	6	=	None	None	None	None	None	None	None
+8	a	7	2	None	None	None	None	None	None	None
+9	<eos>	8	a	None	None	None	None	None	None	None

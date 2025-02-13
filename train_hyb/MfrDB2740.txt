@@ -1,0 +1,16 @@
+1	\lim	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\lim	None	None	sub	None	None	None	right
+3	n	2	sub	None	None	None	None	None	None	None
+4	\rightarrow	3	n	None	None	None	None	None	None	None
+5	\infty	4	\rightarrow	None	None	None	None	None	None	None
+6	<eos>	5	\infty	None	None	None	None	None	None	None
+7	n	2	right	None	None	None	None	None	None	None
+8	\frac	7	n	None	None	None	None	None	None	None
+9	struct	8	\frac	above	below	None	None	None	None	right
+10	1	9	above	None	None	None	None	None	None	None
+11	<eos>	10	1	None	None	None	None	None	None	None
+12	n	9	below	None	None	None	None	None	None	None
+13	<eos>	12	n	None	None	None	None	None	None	None
+14	=	9	right	None	None	None	None	None	None	None
+15	1	14	=	None	None	None	None	None	None	None
+16	<eos>	15	1	None	None	None	None	None	None	None

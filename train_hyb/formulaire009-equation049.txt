@@ -1,0 +1,12 @@
+1	r	0	<sos>	None	None	None	None	None	None	None
+2	=	1	r	None	None	None	None	None	None	None
+3	p	2	=	None	None	None	None	None	None	None
+4	g	3	p	None	None	None	None	None	None	None
+5	c	4	g	None	None	None	None	None	None	None
+6	d	5	c	None	None	None	None	None	None	None
+7	(	6	d	None	None	None	None	None	None	None
+8	k	7	(	None	None	None	None	None	None	None
+9	,	8	k	None	None	None	None	None	None	None
+10	n	9	,	None	None	None	None	None	None	None
+11	)	10	n	None	None	None	None	None	None	None
+12	<eos>	11	)	None	None	None	None	None	None	None

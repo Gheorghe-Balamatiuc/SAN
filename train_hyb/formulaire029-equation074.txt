@@ -1,0 +1,10 @@
+1	5	0	<sos>	None	None	None	None	None	None	None
+2	,	1	5	None	None	None	None	None	None	None
+3	1	2	,	None	None	None	None	None	None	None
+4	\times	3	1	None	None	None	None	None	None	None
+5	1	4	\times	None	None	None	None	None	None	None
+6	0	5	1	None	None	None	None	None	None	None
+7	struct	6	0	None	None	None	sup	None	None	None
+8	1	7	sup	None	None	None	None	None	None	None
+9	8	8	1	None	None	None	None	None	None	None
+10	<eos>	9	8	None	None	None	None	None	None	None

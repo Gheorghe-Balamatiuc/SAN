@@ -1,0 +1,9 @@
+1	B	0	<sos>	None	None	None	None	None	None	None
+2	(	1	B	None	None	None	None	None	None	None
+3	p	2	(	None	None	None	None	None	None	None
+4	)	3	p	None	None	None	None	None	None	None
+5	<	4	)	None	None	None	None	None	None	None
+6	q	5	<	None	None	None	None	None	None	None
+7	+	6	q	None	None	None	None	None	None	None
+8	G	7	+	None	None	None	None	None	None	None
+9	<eos>	8	G	None	None	None	None	None	None	None

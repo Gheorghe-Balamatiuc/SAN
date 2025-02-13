@@ -1,0 +1,15 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	(	1	x	None	None	None	None	None	None	None
+3	t	2	(	None	None	None	None	None	None	None
+4	)	3	t	None	None	None	None	None	None	None
+5	=	4	)	None	None	None	None	None	None	None
+6	a	5	=	None	None	None	None	None	None	None
+7	+	6	a	None	None	None	None	None	None	None
+8	r	7	+	None	None	None	None	None	None	None
+9	\cdot	8	r	None	None	None	None	None	None	None
+10	\cos	9	\cdot	None	None	None	None	None	None	None
+11	(	10	\cos	None	None	None	None	None	None	None
+12	v	11	(	None	None	None	None	None	None	None
+13	t	12	v	None	None	None	None	None	None	None
+14	)	13	t	None	None	None	None	None	None	None
+15	<eos>	14	)	None	None	None	None	None	None	None

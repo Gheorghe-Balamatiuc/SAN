@@ -1,0 +1,12 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sum	above	below	None	None	None	None	right
+3	w	2	below	None	None	None	None	None	None	None
+4	=	3	w	None	None	None	None	None	None	None
+5	F	4	=	None	None	None	None	None	None	None
+6	<eos>	5	F	None	None	None	None	None	None	None
+7	G	2	above	None	None	None	None	None	None	None
+8	<eos>	7	G	None	None	None	None	None	None	None
+9	V	2	right	None	None	None	None	None	None	None
+10	+	9	V	None	None	None	None	None	None	None
+11	o	10	+	None	None	None	None	None	None	None
+12	<eos>	11	o	None	None	None	None	None	None	None

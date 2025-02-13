@@ -1,0 +1,7 @@
+1	2	0	<sos>	None	None	None	None	None	None	None
+2	\geq	1	2	None	None	None	None	None	None	None
+3	\int	2	\geq	None	None	None	None	None	None	None
+4	w	3	\int	None	None	None	None	None	None	None
+5	d	4	w	None	None	None	None	None	None	None
+6	V	5	d	None	None	None	None	None	None	None
+7	<eos>	6	V	None	None	None	None	None	None	None

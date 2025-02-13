@@ -1,0 +1,6 @@
+1	\sqrt	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sqrt	None	None	None	None	None	inside	None
+3	c	2	inside	None	None	None	None	None	None	None
+4	-	3	c	None	None	None	None	None	None	None
+5	0	4	-	None	None	None	None	None	None	None
+6	<eos>	5	0	None	None	None	None	None	None	None

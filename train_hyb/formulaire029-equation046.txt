@@ -1,0 +1,7 @@
+1	y	0	<sos>	None	None	None	None	None	None	None
+2	=	1	y	None	None	None	None	None	None	None
+3	z	2	=	None	None	None	None	None	None	None
+4	y	3	z	None	None	None	None	None	None	None
+5	struct	4	y	None	None	sub	None	None	None	None
+6	1	5	sub	None	None	None	None	None	None	None
+7	<eos>	6	1	None	None	None	None	None	None	None

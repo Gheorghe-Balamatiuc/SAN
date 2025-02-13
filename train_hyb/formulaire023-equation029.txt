@@ -1,0 +1,7 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	\rightarrow	1	x	None	None	None	None	None	None	None
+3	e	2	\rightarrow	None	None	None	None	None	None	None
+4	struct	3	e	None	None	None	sup	None	None	None
+5	s	4	sup	None	None	None	None	None	None	None
+6	x	5	s	None	None	None	None	None	None	None
+7	<eos>	6	x	None	None	None	None	None	None	None

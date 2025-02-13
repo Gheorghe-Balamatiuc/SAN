@@ -1,0 +1,15 @@
+1	o	0	<sos>	None	None	None	None	None	None	None
+2	(	1	o	None	None	None	None	None	None	None
+3	(	2	(	None	None	None	None	None	None	None
+4	x	3	(	None	None	None	None	None	None	None
+5	-	4	x	None	None	None	None	None	None	None
+6	x	5	-	None	None	None	None	None	None	None
+7	struct	6	x	None	None	sub	None	None	None	right
+8	0	7	sub	None	None	None	None	None	None	None
+9	<eos>	8	0	None	None	None	None	None	None	None
+10	)	7	right	None	None	None	None	None	None	None
+11	struct	10	)	None	None	None	sup	None	None	right
+12	n	11	sup	None	None	None	None	None	None	None
+13	<eos>	12	n	None	None	None	None	None	None	None
+14	)	11	right	None	None	None	None	None	None	None
+15	<eos>	14	)	None	None	None	None	None	None	None

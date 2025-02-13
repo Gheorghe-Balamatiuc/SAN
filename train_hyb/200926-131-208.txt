@@ -1,0 +1,16 @@
+1	\sin	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sin	None	None	None	sup	None	None	right
+3	F	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	F	None	None	None	None	None	None	None
+5	\frac	2	right	None	None	None	None	None	None	None
+6	struct	5	\frac	above	below	None	sup	None	None	None
+7	V	6	above	None	None	None	None	None	None	None
+8	<eos>	7	V	None	None	None	None	None	None	None
+9	\mu	6	below	None	None	None	None	None	None	None
+10	i	9	\mu	None	None	None	None	None	None	None
+11	<eos>	10	i	None	None	None	None	None	None	None
+12	v	6	sup	None	None	None	None	None	None	None
+13	(	12	v	None	None	None	None	None	None	None
+14	E	13	(	None	None	None	None	None	None	None
+15	)	14	E	None	None	None	None	None	None	None
+16	<eos>	15	)	None	None	None	None	None	None	None

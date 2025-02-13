@@ -1,0 +1,14 @@
+1	\cos	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\cos	None	None	None	sup	None	None	right
+3	2	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None
+5	a	2	right	None	None	None	None	None	None	None
+6	+	5	a	None	None	None	None	None	None	None
+7	\sin	6	+	None	None	None	None	None	None	None
+8	struct	7	\sin	None	None	None	sup	None	None	right
+9	2	8	sup	None	None	None	None	None	None	None
+10	<eos>	9	2	None	None	None	None	None	None	None
+11	a	8	right	None	None	None	None	None	None	None
+12	=	11	a	None	None	None	None	None	None	None
+13	1	12	=	None	None	None	None	None	None	None
+14	<eos>	13	1	None	None	None	None	None	None	None

@@ -1,0 +1,4 @@
+1	n	0	<sos>	None	None	None	None	None	None	None
+2	\rightarrow	1	n	None	None	None	None	None	None	None
+3	\infty	2	\rightarrow	None	None	None	None	None	None	None
+4	<eos>	3	\infty	None	None	None	None	None	None	None

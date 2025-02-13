@@ -1,0 +1,16 @@
+1	f	0	<sos>	None	None	None	None	None	None	None
+2	(	1	f	None	None	None	None	None	None	None
+3	f	2	(	None	None	None	None	None	None	None
+4	(	3	f	None	None	None	None	None	None	None
+5	x	4	(	None	None	None	None	None	None	None
+6	)	5	x	None	None	None	None	None	None	None
+7	)	6	)	None	None	None	None	None	None	None
+8	=	7	)	None	None	None	None	None	None	None
+9	g	8	=	None	None	None	None	None	None	None
+10	(	9	g	None	None	None	None	None	None	None
+11	g	10	(	None	None	None	None	None	None	None
+12	(	11	g	None	None	None	None	None	None	None
+13	x	12	(	None	None	None	None	None	None	None
+14	)	13	x	None	None	None	None	None	None	None
+15	)	14	)	None	None	None	None	None	None	None
+16	<eos>	15	)	None	None	None	None	None	None	None

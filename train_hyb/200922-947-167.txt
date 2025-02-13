@@ -1,0 +1,14 @@
+1	\beta	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\beta	None	None	None	sup	None	None	right
+3	E	2	sup	None	None	None	None	None	None	None
+4	+	3	E	None	None	None	None	None	None	None
+5	e	4	+	None	None	None	None	None	None	None
+6	<eos>	5	e	None	None	None	None	None	None	None
+7	+	2	right	None	None	None	None	None	None	None
+8	0	7	+	None	None	None	None	None	None	None
+9	<	8	0	None	None	None	None	None	None	None
+10	\int	9	<	None	None	None	None	None	None	None
+11	\beta	10	\int	None	None	None	None	None	None	None
+12	d	11	\beta	None	None	None	None	None	None	None
+13	k	12	d	None	None	None	None	None	None	None
+14	<eos>	13	k	None	None	None	None	None	None	None

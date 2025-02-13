@@ -1,0 +1,9 @@
+1	I	0	<sos>	None	None	None	None	None	None	None
+2	-	1	I	None	None	None	None	None	None	None
+3	m	2	-	None	None	None	None	None	None	None
+4	\leq	3	m	None	None	None	None	None	None	None
+5	i	4	\leq	None	None	None	None	None	None	None
+6	(	5	i	None	None	None	None	None	None	None
+7	E	6	(	None	None	None	None	None	None	None
+8	)	7	E	None	None	None	None	None	None	None
+9	<eos>	8	)	None	None	None	None	None	None	None

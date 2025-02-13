@@ -1,0 +1,10 @@
+1	\tan	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\tan	None	None	None	sup	None	None	right
+3	n	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	n	None	None	None	None	None	None	None
+5	X	2	right	None	None	None	None	None	None	None
+6	struct	5	X	None	None	None	sup	None	None	None
+7	L	6	sup	None	None	None	None	None	None	None
+8	+	7	L	None	None	None	None	None	None	None
+9	q	8	+	None	None	None	None	None	None	None
+10	<eos>	9	q	None	None	None	None	None	None	None

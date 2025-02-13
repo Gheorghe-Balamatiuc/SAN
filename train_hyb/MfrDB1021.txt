@@ -1,0 +1,8 @@
+1	V	0	<sos>	None	None	None	None	None	None	None
+2	=	1	V	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	E	4	above	None	None	None	None	None	None	None
+6	<eos>	5	E	None	None	None	None	None	None	None
+7	T	4	below	None	None	None	None	None	None	None
+8	<eos>	7	T	None	None	None	None	None	None	None

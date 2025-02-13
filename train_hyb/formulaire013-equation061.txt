@@ -1,0 +1,14 @@
+1	\sqrt	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sqrt	None	None	None	None	None	inside	right
+3	a	2	inside	None	None	None	None	None	None	None
+4	<eos>	3	a	None	None	None	None	None	None	None
+5	\sqrt	2	right	None	None	None	None	None	None	None
+6	struct	5	\sqrt	None	None	None	None	None	inside	right
+7	b	6	inside	None	None	None	None	None	None	None
+8	<eos>	7	b	None	None	None	None	None	None	None
+9	=	6	right	None	None	None	None	None	None	None
+10	\sqrt	9	=	None	None	None	None	None	None	None
+11	struct	10	\sqrt	None	None	None	None	None	inside	None
+12	a	11	inside	None	None	None	None	None	None	None
+13	b	12	a	None	None	None	None	None	None	None
+14	<eos>	13	b	None	None	None	None	None	None	None

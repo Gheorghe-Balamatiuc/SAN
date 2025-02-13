@@ -1,0 +1,7 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	y	2	above	None	None	None	None	None	None	None
+4	<eos>	3	y	None	None	None	None	None	None	None
+5	T	2	below	None	None	None	None	None	None	None
+6	X	5	T	None	None	None	None	None	None	None
+7	<eos>	6	X	None	None	None	None	None	None	None

@@ -105,6 +105,9 @@ with torch.no_grad():
 
         latex_list = convert(1, prediction)
         latex_string = ' '.join(latex_list)
+        print(name)
+        print(latex_string)
+        print(label.strip())
         if latex_string == label.strip():
             exp_right += 1
         else:

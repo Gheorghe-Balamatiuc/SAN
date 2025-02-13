@@ -1,0 +1,15 @@
+1	\phi	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\phi	None	None	None	sup	None	None	right
+3	\frac	2	sup	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	None
+5	B	4	above	None	None	None	None	None	None	None
+6	<eos>	5	B	None	None	None	None	None	None	None
+7	4	4	below	None	None	None	None	None	None	None
+8	<eos>	7	4	None	None	None	None	None	None	None
+9	(	2	right	None	None	None	None	None	None	None
+10	M	9	(	None	None	None	None	None	None	None
+11	H	10	M	None	None	None	None	None	None	None
+12	)	11	H	None	None	None	None	None	None	None
+13	struct	12	)	None	None	None	sup	None	None	None
+14	M	13	sup	None	None	None	None	None	None	None
+15	<eos>	14	M	None	None	None	None	None	None	None

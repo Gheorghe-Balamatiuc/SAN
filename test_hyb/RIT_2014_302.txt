@@ -1,0 +1,11 @@
+1	\pm	0	<sos>	None	None	None	None	None	None	None
+2	\sqrt	1	\pm	None	None	None	None	None	None	None
+3	struct	2	\sqrt	None	None	None	None	None	inside	None
+4	\frac	3	inside	None	None	None	None	None	None	None
+5	struct	4	\frac	above	below	None	None	None	None	None
+6	1	5	above	None	None	None	None	None	None	None
+7	5	6	1	None	None	None	None	None	None	None
+8	<eos>	7	5	None	None	None	None	None	None	None
+9	1	5	below	None	None	None	None	None	None	None
+10	6	9	1	None	None	None	None	None	None	None
+11	<eos>	10	6	None	None	None	None	None	None	None

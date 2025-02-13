@@ -1,0 +1,6 @@
+1	9	0	<sos>	None	None	None	None	None	None	None
+2	=	1	9	None	None	None	None	None	None	None
+3	M	2	=	None	None	None	None	None	None	None
+4	struct	3	M	None	None	None	sup	None	None	None
+5	q	4	sup	None	None	None	None	None	None	None
+6	<eos>	5	q	None	None	None	None	None	None	None

@@ -1,0 +1,8 @@
+1	x	0	<sos>	None	None	None	None	None	None	None
+2	+	1	x	None	None	None	None	None	None	None
+3	1	2	+	None	None	None	None	None	None	None
+4	0	3	1	None	None	None	None	None	None	None
+5	=	4	0	None	None	None	None	None	None	None
+6	2	5	=	None	None	None	None	None	None	None
+7	0	6	2	None	None	None	None	None	None	None
+8	<eos>	7	0	None	None	None	None	None	None	None

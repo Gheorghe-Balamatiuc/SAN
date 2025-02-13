@@ -1,0 +1,6 @@
+1	\cdots	0	<sos>	None	None	None	None	None	None	None
+2	+	1	\cdots	None	None	None	None	None	None	None
+3	q	2	+	None	None	None	None	None	None	None
+4	struct	3	q	None	None	sub	None	None	None	None
+5	L	4	sub	None	None	None	None	None	None	None
+6	<eos>	5	L	None	None	None	None	None	None	None

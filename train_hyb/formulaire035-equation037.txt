@@ -1,0 +1,17 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	right
+3	p	2	above	None	None	None	None	None	None	None
+4	<eos>	3	p	None	None	None	None	None	None	None
+5	q	2	below	None	None	None	None	None	None	None
+6	<eos>	5	q	None	None	None	None	None	None	None
+7	=	2	right	None	None	None	None	None	None	None
+8	\frac	7	=	None	None	None	None	None	None	None
+9	struct	8	\frac	above	below	None	None	None	None	None
+10	p	9	above	None	None	None	None	None	None	None
+11	struct	10	p	None	None	sub	None	None	None	None
+12	0	11	sub	None	None	None	None	None	None	None
+13	<eos>	12	0	None	None	None	None	None	None	None
+14	q	9	below	None	None	None	None	None	None	None
+15	struct	14	q	None	None	sub	None	None	None	None
+16	0	15	sub	None	None	None	None	None	None	None
+17	<eos>	16	0	None	None	None	None	None	None	None

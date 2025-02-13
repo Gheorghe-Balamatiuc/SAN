@@ -1,0 +1,3 @@
+1	\log	0	<sos>	None	None	None	None	None	None	None
+2	\phi	1	\log	None	None	None	None	None	None	None
+3	<eos>	2	\phi	None	None	None	None	None	None	None

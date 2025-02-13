@@ -1,0 +1,17 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\int	above	None	None	sup	None	None	right
+3	m	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	m	None	None	None	None	None	None	None
+5	\gamma	2	above	None	None	None	None	None	None	None
+6	+	5	\gamma	None	None	None	None	None	None	None
+7	V	6	+	None	None	None	None	None	None	None
+8	<eos>	7	V	None	None	None	None	None	None	None
+9	\frac	2	right	None	None	None	None	None	None	None
+10	struct	9	\frac	above	below	None	None	None	None	right
+11	\theta	10	above	None	None	None	None	None	None	None
+12	<eos>	11	\theta	None	None	None	None	None	None	None
+13	u	10	below	None	None	None	None	None	None	None
+14	<eos>	13	u	None	None	None	None	None	None	None
+15	d	10	right	None	None	None	None	None	None	None
+16	e	15	d	None	None	None	None	None	None	None
+17	<eos>	16	e	None	None	None	None	None	None	None

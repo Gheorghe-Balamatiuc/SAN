@@ -1,0 +1,9 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	r	2	above	None	None	None	None	None	None	None
+4	<eos>	3	r	None	None	None	None	None	None	None
+5	\int	2	below	None	None	None	None	None	None	None
+6	q	5	\int	None	None	None	None	None	None	None
+7	d	6	q	None	None	None	None	None	None	None
+8	R	7	d	None	None	None	None	None	None	None
+9	<eos>	8	R	None	None	None	None	None	None	None

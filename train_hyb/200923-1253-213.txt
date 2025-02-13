@@ -1,0 +1,4 @@
+1	g	0	<sos>	None	None	None	None	None	None	None
+2	\sum	1	g	None	None	None	None	None	None	None
+3	A	2	\sum	None	None	None	None	None	None	None
+4	<eos>	3	A	None	None	None	None	None	None	None

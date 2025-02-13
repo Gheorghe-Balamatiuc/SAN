@@ -1,0 +1,4 @@
+1	\pi	0	<sos>	None	None	None	None	None	None	None
+2	r	1	\pi	None	None	None	None	None	None	None
+3	l	2	r	None	None	None	None	None	None	None
+4	<eos>	3	l	None	None	None	None	None	None	None

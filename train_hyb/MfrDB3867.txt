@@ -1,0 +1,8 @@
+1	v	0	<sos>	None	None	None	None	None	None	None
+2	=	1	v	None	None	None	None	None	None	None
+3	a	2	=	None	None	None	None	None	None	None
+4	\cdot	3	a	None	None	None	None	None	None	None
+5	b	4	\cdot	None	None	None	None	None	None	None
+6	\cdot	5	b	None	None	None	None	None	None	None
+7	c	6	\cdot	None	None	None	None	None	None	None
+8	<eos>	7	c	None	None	None	None	None	None	None

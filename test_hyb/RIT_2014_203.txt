@@ -1,0 +1,10 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\pi	2	above	None	None	None	None	None	None	None
+4	r	3	\pi	None	None	None	None	None	None	None
+5	struct	4	r	None	None	None	sup	None	None	None
+6	2	5	sup	None	None	None	None	None	None	None
+7	<eos>	6	2	None	None	None	None	None	None	None
+8	2	2	below	None	None	None	None	None	None	None
+9	\pi	8	2	None	None	None	None	None	None	None
+10	<eos>	9	\pi	None	None	None	None	None	None	None

@@ -1,0 +1,9 @@
+1	r	0	<sos>	None	None	None	None	None	None	None
+2	=	1	r	None	None	None	None	None	None	None
+3	\alpha	2	=	None	None	None	None	None	None	None
+4	(	3	\alpha	None	None	None	None	None	None	None
+5	\theta	4	(	None	None	None	None	None	None	None
+6	)	5	\theta	None	None	None	None	None	None	None
+7	\pm	6	)	None	None	None	None	None	None	None
+8	d	7	\pm	None	None	None	None	None	None	None
+9	<eos>	8	d	None	None	None	None	None	None	None

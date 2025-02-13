@@ -1,0 +1,4 @@
+1	k	0	<sos>	None	None	None	None	None	None	None
+2	\times	1	k	None	None	None	None	None	None	None
+3	n	2	\times	None	None	None	None	None	None	None
+4	<eos>	3	n	None	None	None	None	None	None	None

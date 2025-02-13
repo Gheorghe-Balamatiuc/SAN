@@ -1,0 +1,6 @@
+1	\sin	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sin	None	None	None	sup	None	None	right
+3	r	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	r	None	None	None	None	None	None	None
+5	\pi	2	right	None	None	None	None	None	None	None
+6	<eos>	5	\pi	None	None	None	None	None	None	None

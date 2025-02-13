@@ -1,0 +1,7 @@
+1	\lim	0	<sos>	None	None	None	None	None	None	None
+2	(	1	\lim	None	None	None	None	None	None	None
+3	x	2	(	None	None	None	None	None	None	None
+4	+	3	x	None	None	None	None	None	None	None
+5	2	4	+	None	None	None	None	None	None	None
+6	)	5	2	None	None	None	None	None	None	None
+7	<eos>	6	)	None	None	None	None	None	None	None

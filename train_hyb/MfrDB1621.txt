@@ -1,0 +1,13 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	2	1	\int	None	None	None	None	None	None	None
+3	x	2	2	None	None	None	None	None	None	None
+4	d	3	x	None	None	None	None	None	None	None
+5	x	4	d	None	None	None	None	None	None	None
+6	=	5	x	None	None	None	None	None	None	None
+7	x	6	=	None	None	None	None	None	None	None
+8	struct	7	x	None	None	None	sup	None	None	right
+9	2	8	sup	None	None	None	None	None	None	None
+10	<eos>	9	2	None	None	None	None	None	None	None
+11	+	8	right	None	None	None	None	None	None	None
+12	C	11	+	None	None	None	None	None	None	None
+13	<eos>	12	C	None	None	None	None	None	None	None

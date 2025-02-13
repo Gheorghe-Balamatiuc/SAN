@@ -1,0 +1,9 @@
+1	e	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	e	None	None	None	sup	None	None	right
+3	\alpha	2	sup	None	None	None	None	None	None	None
+4	t	3	\alpha	None	None	None	None	None	None	None
+5	<eos>	4	t	None	None	None	None	None	None	None
+6	\sin	2	right	None	None	None	None	None	None	None
+7	\beta	6	\sin	None	None	None	None	None	None	None
+8	t	7	\beta	None	None	None	None	None	None	None
+9	<eos>	8	t	None	None	None	None	None	None	None

@@ -1,0 +1,12 @@
+1	c	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	c	None	None	sub	None	None	None	right
+3	i	2	sub	None	None	None	None	None	None	None
+4	j	3	i	None	None	None	None	None	None	None
+5	<eos>	4	j	None	None	None	None	None	None	None
+6	=	2	right	None	None	None	None	None	None	None
+7	\cos	6	=	None	None	None	None	None	None	None
+8	\theta	7	\cos	None	None	None	None	None	None	None
+9	struct	8	\theta	None	None	sub	None	None	None	None
+10	i	9	sub	None	None	None	None	None	None	None
+11	j	10	i	None	None	None	None	None	None	None
+12	<eos>	11	j	None	None	None	None	None	None	None

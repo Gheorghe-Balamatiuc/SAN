@@ -1,0 +1,9 @@
+1	t	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	t	None	None	sub	None	None	None	right
+3	0	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	0	None	None	None	None	None	None	None
+5	\leq	2	right	None	None	None	None	None	None	None
+6	t	5	\leq	None	None	None	None	None	None	None
+7	\leq	6	t	None	None	None	None	None	None	None
+8	b	7	\leq	None	None	None	None	None	None	None
+9	<eos>	8	b	None	None	None	None	None	None	None

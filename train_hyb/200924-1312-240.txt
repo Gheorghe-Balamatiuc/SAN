@@ -1,0 +1,17 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sum	above	below	None	None	None	None	right
+3	L	2	below	None	None	None	None	None	None	None
+4	=	3	L	None	None	None	None	None	None	None
+5	c	4	=	None	None	None	None	None	None	None
+6	<eos>	5	c	None	None	None	None	None	None	None
+7	\sqrt	2	above	None	None	None	None	None	None	None
+8	struct	7	\sqrt	None	None	None	None	None	inside	None
+9	f	8	inside	None	None	None	None	None	None	None
+10	<eos>	9	f	None	None	None	None	None	None	None
+11	\cdots	2	right	None	None	None	None	None	None	None
+12	+	11	\cdots	None	None	None	None	None	None	None
+13	\int	12	+	None	None	None	None	None	None	None
+14	o	13	\int	None	None	None	None	None	None	None
+15	d	14	o	None	None	None	None	None	None	None
+16	m	15	d	None	None	None	None	None	None	None
+17	<eos>	16	m	None	None	None	None	None	None	None

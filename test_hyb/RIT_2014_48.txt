@@ -1,0 +1,15 @@
+1	q	0	<sos>	None	None	None	None	None	None	None
+2	-	1	q	None	None	None	None	None	None	None
+3	(	2	-	None	None	None	None	None	None	None
+4	q	3	(	None	None	None	None	None	None	None
+5	-	4	q	None	None	None	None	None	None	None
+6	\sqrt	5	-	None	None	None	None	None	None	None
+7	struct	6	\sqrt	None	None	None	None	None	inside	right
+8	2	7	inside	None	None	None	None	None	None	None
+9	<eos>	8	2	None	None	None	None	None	None	None
+10	)	7	right	None	None	None	None	None	None	None
+11	=	10	)	None	None	None	None	None	None	None
+12	\sqrt	11	=	None	None	None	None	None	None	None
+13	struct	12	\sqrt	None	None	None	None	None	inside	None
+14	2	13	inside	None	None	None	None	None	None	None
+15	<eos>	14	2	None	None	None	None	None	None	None

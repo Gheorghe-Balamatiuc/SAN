@@ -1,0 +1,13 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	m	1	(	None	None	None	None	None	None	None
+3	)	2	m	None	None	None	None	None	None	None
+4	struct	3	)	None	None	None	sup	None	None	right
+5	l	4	sup	None	None	None	None	None	None	None
+6	-	5	l	None	None	None	None	None	None	None
+7	f	6	-	None	None	None	None	None	None	None
+8	<eos>	7	f	None	None	None	None	None	None	None
+9	(	4	right	None	None	None	None	None	None	None
+10	-	9	(	None	None	None	None	None	None	None
+11	V	10	-	None	None	None	None	None	None	None
+12	)	11	V	None	None	None	None	None	None	None
+13	<eos>	12	)	None	None	None	None	None	None	None

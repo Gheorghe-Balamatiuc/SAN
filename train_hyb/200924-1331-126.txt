@@ -1,0 +1,7 @@
+1	\alpha	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\alpha	None	None	None	sup	None	None	right
+3	h	2	sup	None	None	None	None	None	None	None
+4	<eos>	3	h	None	None	None	None	None	None	None
+5	\theta	2	right	None	None	None	None	None	None	None
+6	C	5	\theta	None	None	None	None	None	None	None
+7	<eos>	6	C	None	None	None	None	None	None	None

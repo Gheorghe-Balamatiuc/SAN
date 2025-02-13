@@ -1,0 +1,14 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	\sin	2	above	None	None	None	None	None	None	None
+4	B	3	\sin	None	None	None	None	None	None	None
+5	+	4	B	None	None	None	None	None	None	None
+6	\sin	5	+	None	None	None	None	None	None	None
+7	C	6	\sin	None	None	None	None	None	None	None
+8	<eos>	7	C	None	None	None	None	None	None	None
+9	\cos	2	below	None	None	None	None	None	None	None
+10	B	9	\cos	None	None	None	None	None	None	None
+11	+	10	B	None	None	None	None	None	None	None
+12	\cos	11	+	None	None	None	None	None	None	None
+13	C	12	\cos	None	None	None	None	None	None	None
+14	<eos>	13	C	None	None	None	None	None	None	None

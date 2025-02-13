@@ -1,0 +1,15 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	r	2	above	None	None	None	None	None	None	None
+4	(	3	r	None	None	None	None	None	None	None
+5	g	4	(	None	None	None	None	None	None	None
+6	)	5	g	None	None	None	None	None	None	None
+7	+	6	)	None	None	None	None	None	None	None
+8	p	7	+	None	None	None	None	None	None	None
+9	<eos>	8	p	None	None	None	None	None	None	None
+10	\frac	2	below	None	None	None	None	None	None	None
+11	struct	10	\frac	above	below	None	None	None	None	None
+12	l	11	above	None	None	None	None	None	None	None
+13	<eos>	12	l	None	None	None	None	None	None	None
+14	1	11	below	None	None	None	None	None	None	None
+15	<eos>	14	1	None	None	None	None	None	None	None

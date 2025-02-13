@@ -1,0 +1,14 @@
+1	a	0	<sos>	None	None	None	None	None	None	None
+2	x	1	a	None	None	None	None	None	None	None
+3	struct	2	x	None	None	None	sup	None	None	right
+4	2	3	sup	None	None	None	None	None	None	None
+5	<eos>	4	2	None	None	None	None	None	None	None
+6	+	3	right	None	None	None	None	None	None	None
+7	2	6	+	None	None	None	None	None	None	None
+8	b	7	2	None	None	None	None	None	None	None
+9	x	8	b	None	None	None	None	None	None	None
+10	+	9	x	None	None	None	None	None	None	None
+11	c	10	+	None	None	None	None	None	None	None
+12	=	11	c	None	None	None	None	None	None	None
+13	0	12	=	None	None	None	None	None	None	None
+14	<eos>	13	0	None	None	None	None	None	None	None

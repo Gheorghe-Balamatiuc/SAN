@@ -1,0 +1,8 @@
+1	\alpha	0	<sos>	None	None	None	None	None	None	None
+2	+	1	\alpha	None	None	None	None	None	None	None
+3	\beta	2	+	None	None	None	None	None	None	None
+4	=	3	\beta	None	None	None	None	None	None	None
+5	\beta	4	=	None	None	None	None	None	None	None
+6	+	5	\beta	None	None	None	None	None	None	None
+7	\alpha	6	+	None	None	None	None	None	None	None
+8	<eos>	7	\alpha	None	None	None	None	None	None	None

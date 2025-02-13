@@ -1,0 +1,3 @@
+1	F	0	<sos>	None	None	None	None	None	None	None
+2	H	1	F	None	None	None	None	None	None	None
+3	<eos>	2	H	None	None	None	None	None	None	None

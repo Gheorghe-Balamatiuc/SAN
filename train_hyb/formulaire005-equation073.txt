@@ -1,0 +1,8 @@
+1	\gamma	0	<sos>	None	None	None	None	None	None	None
+2	=	1	\gamma	None	None	None	None	None	None	None
+3	\pi	2	=	None	None	None	None	None	None	None
+4	-	3	\pi	None	None	None	None	None	None	None
+5	\alpha	4	-	None	None	None	None	None	None	None
+6	-	5	\alpha	None	None	None	None	None	None	None
+7	\beta	6	-	None	None	None	None	None	None	None
+8	<eos>	7	\beta	None	None	None	None	None	None	None

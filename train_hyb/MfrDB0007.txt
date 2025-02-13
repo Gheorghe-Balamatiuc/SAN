@@ -1,0 +1,15 @@
+1	V	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	V	None	None	sub	None	None	None	right
+3	2	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	2	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	\frac	5	=	None	None	None	None	None	None	None
+7	struct	6	\frac	above	below	None	None	None	None	None
+8	V	7	above	None	None	None	None	None	None	None
+9	struct	8	V	None	None	sub	None	None	None	None
+10	P	9	sub	None	None	None	None	None	None	None
+11	<eos>	10	P	None	None	None	None	None	None	None
+12	\sqrt	7	below	None	None	None	None	None	None	None
+13	struct	12	\sqrt	None	None	None	None	None	inside	None
+14	2	13	inside	None	None	None	None	None	None	None
+15	<eos>	14	2	None	None	None	None	None	None	None

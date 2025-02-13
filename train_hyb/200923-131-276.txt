@@ -1,0 +1,13 @@
+1	(	0	<sos>	None	None	None	None	None	None	None
+2	-	1	(	None	None	None	None	None	None	None
+3	\int	2	-	None	None	None	None	None	None	None
+4	y	3	\int	None	None	None	None	None	None	None
+5	struct	4	y	None	None	sub	None	None	None	right
+6	e	5	sub	None	None	None	None	None	None	None
+7	<eos>	6	e	None	None	None	None	None	None	None
+8	d	5	right	None	None	None	None	None	None	None
+9	a	8	d	None	None	None	None	None	None	None
+10	)	9	a	None	None	None	None	None	None	None
+11	struct	10	)	None	None	None	sup	None	None	None
+12	i	11	sup	None	None	None	None	None	None	None
+13	<eos>	12	i	None	None	None	None	None	None	None

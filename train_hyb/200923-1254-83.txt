@@ -1,0 +1,9 @@
+1	\int	0	<sos>	None	None	None	None	None	None	None
+2	(	1	\int	None	None	None	None	None	None	None
+3	n	2	(	None	None	None	None	None	None	None
+4	)	3	n	None	None	None	None	None	None	None
+5	d	4	)	None	None	None	None	None	None	None
+6	w	5	d	None	None	None	None	None	None	None
+7	struct	6	w	None	None	sub	None	None	None	None
+8	m	7	sub	None	None	None	None	None	None	None
+9	<eos>	8	m	None	None	None	None	None	None	None

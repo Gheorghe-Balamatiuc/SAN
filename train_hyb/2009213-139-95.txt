@@ -1,0 +1,6 @@
+1	\gamma	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\gamma	None	None	None	sup	None	None	None
+3	\sqrt	2	sup	None	None	None	None	None	None	None
+4	struct	3	\sqrt	None	None	None	None	None	inside	None
+5	v	4	inside	None	None	None	None	None	None	None
+6	<eos>	5	v	None	None	None	None	None	None	None

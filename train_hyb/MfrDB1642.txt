@@ -1,0 +1,7 @@
+1	E	0	<sos>	None	None	None	None	None	None	None
+2	=	1	E	None	None	None	None	None	None	None
+3	M	2	=	None	None	None	None	None	None	None
+4	C	3	M	None	None	None	None	None	None	None
+5	struct	4	C	None	None	None	sup	None	None	None
+6	2	5	sup	None	None	None	None	None	None	None
+7	<eos>	6	2	None	None	None	None	None	None	None

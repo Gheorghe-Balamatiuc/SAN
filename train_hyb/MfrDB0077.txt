@@ -1,0 +1,12 @@
+1	F	0	<sos>	None	None	None	None	None	None	None
+2	(	1	F	None	None	None	None	None	None	None
+3	x	2	(	None	None	None	None	None	None	None
+4	)	3	x	None	None	None	None	None	None	None
+5	=	4	)	None	None	None	None	None	None	None
+6	\log	5	=	None	None	None	None	None	None	None
+7	|	6	\log	None	None	None	None	None	None	None
+8	x	7	|	None	None	None	None	None	None	None
+9	|	8	x	None	None	None	None	None	None	None
+10	+	9	|	None	None	None	None	None	None	None
+11	2	10	+	None	None	None	None	None	None	None
+12	<eos>	11	2	None	None	None	None	None	None	None

@@ -1,0 +1,8 @@
+1	-	0	<sos>	None	None	None	None	None	None	None
+2	\sum	1	-	None	None	None	None	None	None	None
+3	I	2	\sum	None	None	None	None	None	None	None
+4	+	3	I	None	None	None	None	None	None	None
+5	H	4	+	None	None	None	None	None	None	None
+6	struct	5	H	None	None	None	sup	None	None	None
+7	u	6	sup	None	None	None	None	None	None	None
+8	<eos>	7	u	None	None	None	None	None	None	None

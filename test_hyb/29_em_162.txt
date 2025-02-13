@@ -1,0 +1,14 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	f	2	above	None	None	None	None	None	None	None
+4	\prime	3	f	None	None	None	None	None	None	None
+5	(	4	\prime	None	None	None	None	None	None	None
+6	x	5	(	None	None	None	None	None	None	None
+7	)	6	x	None	None	None	None	None	None	None
+8	<eos>	7	)	None	None	None	None	None	None	None
+9	g	2	below	None	None	None	None	None	None	None
+10	\prime	9	g	None	None	None	None	None	None	None
+11	(	10	\prime	None	None	None	None	None	None	None
+12	x	11	(	None	None	None	None	None	None	None
+13	)	12	x	None	None	None	None	None	None	None
+14	<eos>	13	)	None	None	None	None	None	None	None

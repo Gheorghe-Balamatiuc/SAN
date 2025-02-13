@@ -1,0 +1,7 @@
+1	\frac	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\frac	above	below	None	None	None	None	None
+3	p	2	above	None	None	None	None	None	None	None
+4	\pi	3	p	None	None	None	None	None	None	None
+5	<eos>	4	\pi	None	None	None	None	None	None	None
+6	q	2	below	None	None	None	None	None	None	None
+7	<eos>	6	q	None	None	None	None	None	None	None

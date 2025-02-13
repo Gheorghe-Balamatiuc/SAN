@@ -1,0 +1,14 @@
+1	1	0	<sos>	None	None	None	None	None	None	None
+2	5	1	1	None	None	None	None	None	None	None
+3	4	2	5	None	None	None	None	None	None	None
+4	\times	3	4	None	None	None	None	None	None	None
+5	1	4	\times	None	None	None	None	None	None	None
+6	8	5	1	None	None	None	None	None	None	None
+7	6	6	8	None	None	None	None	None	None	None
+8	\leq	7	6	None	None	None	None	None	None	None
+9	2	8	\leq	None	None	None	None	None	None	None
+10	8	9	2	None	None	None	None	None	None	None
+11	6	10	8	None	None	None	None	None	None	None
+12	4	11	6	None	None	None	None	None	None	None
+13	4	12	4	None	None	None	None	None	None	None
+14	<eos>	13	4	None	None	None	None	None	None	None

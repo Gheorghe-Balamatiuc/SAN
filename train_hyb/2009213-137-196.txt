@@ -1,0 +1,10 @@
+1	\sum	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sum	None	below	None	None	None	None	right
+3	E	2	below	None	None	None	None	None	None	None
+4	\geq	3	E	None	None	None	None	None	None	None
+5	c	4	\geq	None	None	None	None	None	None	None
+6	<eos>	5	c	None	None	None	None	None	None	None
+7	p	2	right	None	None	None	None	None	None	None
+8	+	7	p	None	None	None	None	None	None	None
+9	R	8	+	None	None	None	None	None	None	None
+10	<eos>	9	R	None	None	None	None	None	None	None

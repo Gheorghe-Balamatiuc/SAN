@@ -1,0 +1,15 @@
+1	\beta	0	<sos>	None	None	None	None	None	None	None
+2	=	1	\beta	None	None	None	None	None	None	None
+3	\frac	2	=	None	None	None	None	None	None	None
+4	struct	3	\frac	above	below	None	None	None	None	right
+5	v	4	above	None	None	None	None	None	None	None
+6	<eos>	5	v	None	None	None	None	None	None	None
+7	c	4	below	None	None	None	None	None	None	None
+8	<eos>	7	c	None	None	None	None	None	None	None
+9	=	4	right	None	None	None	None	None	None	None
+10	\frac	9	=	None	None	None	None	None	None	None
+11	struct	10	\frac	above	below	None	None	None	None	None
+12	b	11	above	None	None	None	None	None	None	None
+13	<eos>	12	b	None	None	None	None	None	None	None
+14	a	11	below	None	None	None	None	None	None	None
+15	<eos>	14	a	None	None	None	None	None	None	None

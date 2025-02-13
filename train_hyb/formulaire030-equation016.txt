@@ -1,0 +1,9 @@
+1	k	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	k	None	None	None	sup	None	None	right
+3	n	2	sup	None	None	None	None	None	None	None
+4	+	3	n	None	None	None	None	None	None	None
+5	1	4	+	None	None	None	None	None	None	None
+6	<eos>	5	1	None	None	None	None	None	None	None
+7	-	2	right	None	None	None	None	None	None	None
+8	0	7	-	None	None	None	None	None	None	None
+9	<eos>	8	0	None	None	None	None	None	None	None

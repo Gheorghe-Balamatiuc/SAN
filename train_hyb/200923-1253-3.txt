@@ -1,0 +1,2 @@
+1	Y	0	<sos>	None	None	None	None	None	None	None
+2	<eos>	1	Y	None	None	None	None	None	None	None

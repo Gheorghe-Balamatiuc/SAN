@@ -1,0 +1,13 @@
+1	\sigma	0	<sos>	None	None	None	None	None	None	None
+2	struct	1	\sigma	None	None	sub	None	None	None	right
+3	p	2	sub	None	None	None	None	None	None	None
+4	<eos>	3	p	None	None	None	None	None	None	None
+5	=	2	right	None	None	None	None	None	None	None
+6	\sqrt	5	=	None	None	None	None	None	None	None
+7	struct	6	\sqrt	None	None	None	None	None	inside	None
+8	\sigma	7	inside	None	None	None	None	None	None	None
+9	struct	8	\sigma	None	None	sub	sup	None	None	None
+10	p	9	sub	None	None	None	None	None	None	None
+11	<eos>	10	p	None	None	None	None	None	None	None
+12	2	9	sup	None	None	None	None	None	None	None
+13	<eos>	12	2	None	None	None	None	None	None	None
