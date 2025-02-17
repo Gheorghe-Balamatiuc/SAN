@@ -1,5 +1,5 @@
 # 实验名称
-experiment: "SAN"
+experiment: "SAN Tuning"
 
 # 随机种子
 seed: 20200814
@@ -14,7 +14,7 @@ lr_decay: cosine # tune
 step_ratio: 10 # tune
 eps: 1e-6
 weight_decay: 1e-4 # tune
-beta: 0.9 # tune
+beta: 0.9
 image_resize: True
 image_width: 400
 image_height: 150
