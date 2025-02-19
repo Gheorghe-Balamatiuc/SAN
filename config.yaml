@@ -5,7 +5,7 @@ experiment: "SAN Tuning"
 seed: 20200814
 
 # 训练参数
-epoches: 200
+epoches: 10
 batch_size: 8 # tune
 workers: 0
 optimizer: Adadelta # tune

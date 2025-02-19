@@ -9,11 +9,94 @@ import torch
 
 from dataset import get_dataset
 from models.Backbone import Backbone
-from training import train, eval
 from utils import load_config
 from ray.train import Checkpoint
 from ray import tune
 from ray.tune.schedulers import ASHAScheduler
+from ray.tune.search import ConcurrencyLimiter
+from ray.tune.search.hyperopt import HyperOptSearch
+from utils import updata_lr, Meter, cal_score
+from tqdm import tqdm
+
+
+def train(params, model, optimizer, epoch, train_loader):
+
+    model.train()
+    device = params['device']
+    loss_meter = Meter()
+
+    word_right, struct_right, exp_right, length, cal_num = 0, 0, 0, 0, 0
+
+    for batch_idx, (images, image_masks, labels, label_masks) in enumerate(train_loader):
+
+        images, image_masks, labels, label_masks = images.to(device), image_masks.to(device), labels.to(
+            device), label_masks.to(device)
+
+        batch, time = labels.shape[:2]
+        if not 'lr_decay' in params or params['lr_decay'] == 'cosine':
+            updata_lr(optimizer, epoch, batch_idx, len(train_loader), params['epoches'], params['lr'])
+        optimizer.zero_grad()
+
+        probs, loss = model(images, image_masks, labels, label_masks)
+
+        word_loss, struct_loss, parent_loss, kl_loss = loss
+        loss = (word_loss + struct_loss + parent_loss + kl_loss)
+
+        loss.backward()
+        if params['gradient_clip']:
+            torch.nn.utils.clip_grad_norm_(model.parameters(), params['gradient'])
+
+        optimizer.step()
+
+        loss_meter.add(loss.item())
+
+        wordRate, structRate, ExpRate = cal_score(probs, labels, label_masks)
+
+        word_right = word_right + wordRate * time
+        struct_right = struct_right + structRate * time
+        exp_right = exp_right + ExpRate * batch
+        length = length + time
+        cal_num = cal_num + batch
+
+        if batch_idx % 10 == 9:
+            print(f'Epoch: {epoch+1} batch index: {batch_idx+1}/{len(train_loader)} train loss: {loss.item():.4f} word loss: {word_loss:.4f} '
+                                 f'struct loss: {struct_loss:.4f} parent loss: {parent_loss:.4f} '
+                                 f'kl loss: {kl_loss:.4f} WordRate: {word_right / length:.4f} '
+                                 f'structRate: {struct_right / length:.4f} ExpRate: {exp_right / cal_num:.4f}')
+
+    return loss_meter.mean, word_right / length, struct_right / length, exp_right / cal_num
+
+
+def eval(params, model, epoch, eval_loader):
+
+    model.eval()
+    device = params['device']
+    loss_meter = Meter()
+
+    word_right, struct_right, exp_right, length, cal_num = 0, 0, 0, 0, 0
+
+    for batch_idx, (images, image_masks, labels, label_masks) in enumerate(eval_loader):
+
+        images, image_masks, labels, label_masks = images.to(device), image_masks.to(device), labels.to(
+            device), label_masks.to(device)
+
+        batch, time = labels.shape[:2]
+
+        probs, loss = model(images, image_masks, labels, label_masks, is_train=False)
+
+        word_loss, struct_loss = loss
+        loss = word_loss + struct_loss
+        loss_meter.add(loss.item())
+
+        wordRate, structRate, ExpRate = cal_score(probs, labels, label_masks)
+
+        word_right = word_right + wordRate * time
+        struct_right = struct_right + structRate * time
+        exp_right = exp_right + ExpRate
+        length = length + time
+        cal_num = cal_num + batch
+
+    return loss_meter.mean, word_right / length, struct_right / length, exp_right / cal_num
 
 
 parser = argparse.ArgumentParser()
@@ -59,10 +142,6 @@ def train_tune(config, base_dir):
 
     optimizer = getattr(torch.optim, params['optimizer'])(model.parameters(), lr=float(params['lr']),
                                                       eps=float(params['eps']), weight_decay=float(params['weight_decay']))
-    
-    if not os.path.exists(os.path.join(params['checkpoint_dir'], model.name)):
-        os.makedirs(os.path.join(params['checkpoint_dir'], model.name), exist_ok=True)
-    os.system(f'cp {args.config} {os.path.join(params["checkpoint_dir"], model.name, model.name)}.yaml')
     
     # Load existing checkpoint through `get_checkpoint()` API.
     if ray.train.get_checkpoint():
@@ -127,18 +206,37 @@ def main(num_samples=20, max_num_epochs=10, gpus_per_trial=1):
         "lr_decay": tune.choice(['step', 'cosine']),
         "step_ratio": tune.choice([5, 10, 20, 30, 40]),
         "weight_decay": tune.loguniform(1e-4, 1),
-        "dropout": tune.choice(['True', 'False']),
+        "dropout": tune.choice([True, False]),
         "dropout_ratio": tune.uniform(0.2, 0.5),
-        "relu": tune.choice(['True', 'False']),
+        "relu": tune.choice([True, False]),
         "gradient": tune.choice([0.1, 1, 5, 10, 100]),
-        "gradient_clip": tune.choice(['True', 'False']),
-        "use_label_mask": tune.choice(['True', 'False']),
+        "gradient_clip": tune.choice([True, False]),
+        "use_label_mask": tune.choice([True, False]),
     }
     scheduler = ASHAScheduler(
         max_t=max_num_epochs,
         grace_period=1,
         reduction_factor=2
     )
+
+    initial_params = [
+        {
+            "batch_size": 8,
+            "optimizer": 'Adadelta',
+            "lr": 1,
+            "lr_decay": 'cosine',
+            "step_ratio": 10,
+            "weight_decay": 1e-4,
+            "dropout": True,
+            "dropout_ratio": 0.5,
+            "relu": True,
+            "gradient": 100,
+            "gradient_clip": True,
+            "use_label_mask": False,
+        },
+    ]
+    algo = HyperOptSearch(points_to_evaluate=initial_params)
+    algo = ConcurrencyLimiter(algo, max_concurrent=4)
 
     tuner = tune.Tuner(
         tune.with_resources(
@@ -149,6 +247,7 @@ def main(num_samples=20, max_num_epochs=10, gpus_per_trial=1):
             metric="loss",
             mode="min",
             scheduler=scheduler,
+            search_alg=algo,
             num_samples=num_samples,
         ),
         param_space=config,
