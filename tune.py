@@ -12,15 +12,17 @@ from models.Backbone import Backbone
 from utils import load_config
 from ray.train import Checkpoint
 from ray import tune
+from ray import train
 from ray.tune.schedulers import ASHAScheduler
+from ray.train import RunConfig
 from ray.tune.search import ConcurrencyLimiter
 from ray.tune.search.hyperopt import HyperOptSearch
 from utils import updata_lr, Meter, cal_score
 from tqdm import tqdm
 
 
-def train(params, model, optimizer, epoch, train_loader):
-
+def training(params, model, optimizer, epoch, train_loader):
+    
     model.train()
     device = params['device']
     loss_meter = Meter()
@@ -98,21 +100,12 @@ def eval(params, model, epoch, eval_loader):
 
     return loss_meter.mean, word_right / length, struct_right / length, exp_right / cal_num
 
+def train_tune(config, **kwargs):
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--config', default='config.yaml', type=str, help='path to config file')
-parser.add_argument('--check', action='store_true', help='only for code check')
-args = parser.parse_args()
+    """config"""
+    params = load_config(kwargs['args'].config)
 
-if not args.config:
-    print('please provide config yaml')
-    exit(-1)
-
-"""config"""
-params = load_config(args.config)
-
-def train_tune(config, base_dir):
-
+    base_dir = "/workspaces/Anaconda/SAN"
     params.update(config)
 
     """random seed"""
@@ -140,31 +133,54 @@ def train_tune(config, base_dir):
     print(model.name)
     model = model.to(device)
 
-    optimizer = getattr(torch.optim, params['optimizer'])(model.parameters(), lr=float(params['lr']),
-                                                      eps=float(params['eps']), weight_decay=float(params['weight_decay']))
+    optimizer_cls = getattr(torch.optim, params['optimizer'])
+    if params['optimizer'] == "SGD":
+        optimizer = optimizer_cls(
+            model.parameters(),
+            lr=float(params['lr']),
+            weight_decay=float(params['weight_decay'])
+        )
+    else:
+        optimizer = optimizer_cls(
+            model.parameters(),
+            lr=float(params['lr']),
+            eps=float(params['eps']),
+            weight_decay=float(params['weight_decay'])
+        )
     
     # Load existing checkpoint through `get_checkpoint()` API.
-    if ray.train.get_checkpoint():
-        loaded_checkpoint = ray.train.get_checkpoint()
-        with loaded_checkpoint.as_directory() as loaded_checkpoint_dir:
-            model_state, optimizer_state = torch.load(
-                os.path.join(loaded_checkpoint_dir, "checkpoint.pt")
+    start = 0
+    checkpoint = train.get_checkpoint()
+    print('checkpoint:', checkpoint)
+    if checkpoint:
+        with checkpoint.as_directory() as checkpoint_dir:
+            model_state, optimizer_state, prev_epoch = torch.load(
+                os.path.join(checkpoint_dir, "checkpoint.pt"),
+                map_location=params["device"]
             )
+            print('Checkpoint size: ', os.path.getsize(os.path.join(checkpoint_dir, "checkpoint.pt")) / 1024 / 1024, 'MB')
+            start = prev_epoch + 1
             model.load_state_dict(model_state)
             optimizer.load_state_dict(optimizer_state)
+            print('Start from epoch:', start)
+        del checkpoint
+        import gc
+        gc.collect()
+        if device.type == "cuda":
+            torch.cuda.empty_cache()
     
     min_score = 0
     min_step = 0
-    for epoch in range(params['epoches']):
+    for epoch in range(start, params['epoches']):
         
-        train_loss, train_word_score, train_node_score, train_expRate = train(params, model, optimizer, epoch, train_loader)
+        train_loss, train_word_score, train_node_score, train_expRate = training(params, model, optimizer, epoch, train_loader)
 
         eval_loss, eval_word_score, eval_node_score, eval_expRate = eval(params, model, epoch, eval_loader)
 
         print(f'Epoch: {epoch+1}  loss: {eval_loss:.4f}  word score: {eval_word_score:.4f}  struct score: {eval_node_score:.4f} '
               f'ExpRate: {eval_expRate:.4f}')
         
-        if eval_expRate > min_score and not args.check:
+        if eval_expRate > min_score and not kwargs['args'].check:
             min_score = eval_expRate
             min_step = 0
         
@@ -187,10 +203,10 @@ def train_tune(config, base_dir):
         with tempfile.TemporaryDirectory() as temp_checkpoint_dir:
             path = os.path.join(temp_checkpoint_dir, "checkpoint.pt")
             torch.save(
-                (model.state_dict(), optimizer.state_dict()), path
+                (model.state_dict(), optimizer.state_dict(), epoch), path
             )
             checkpoint = Checkpoint.from_directory(temp_checkpoint_dir)
-            ray.train.report(
+            train.report(
                 {"loss": eval_loss, "accuracy": eval_expRate},
                 checkpoint=checkpoint,
             )
@@ -199,6 +215,15 @@ def train_tune(config, base_dir):
 
 
 def main(num_samples=20, max_num_epochs=10, gpus_per_trial=1):
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--config', default='config.yaml', type=str, help='path to config file')
+    parser.add_argument('--check', action='store_true', help='only for code check')
+    args = parser.parse_args()
+
+    if not args.config:
+        print('please provide config yaml')
+        exit(-1)
+
     config = {
         "batch_size": tune.choice([2, 4, 8]),
         "optimizer": tune.choice(['Adadelta', 'Adagrad', 'Adam', 'RMSprop', 'SGD']),
@@ -236,22 +261,31 @@ def main(num_samples=20, max_num_epochs=10, gpus_per_trial=1):
         },
     ]
     algo = HyperOptSearch(points_to_evaluate=initial_params)
-    algo = ConcurrencyLimiter(algo, max_concurrent=4)
+    algo = ConcurrencyLimiter(algo, max_concurrent=1)
 
-    tuner = tune.Tuner(
-        tune.with_resources(
-            tune.with_parameters(train_tune, base_dir="/workspaces/Anaconda/SAN"),
-            resources={"cpu": 8, "gpu": gpus_per_trial}
-        ),
-        tune_config=tune.TuneConfig(
-            metric="loss",
-            mode="min",
-            scheduler=scheduler,
-            search_alg=algo,
-            num_samples=num_samples,
-        ),
-        param_space=config,
-    )
+    storage_path = os.path.expanduser("~/ray_results")
+    exp_name = "tune"
+    path = os.path.join(storage_path, exp_name)
+
+    if tune.Tuner.can_restore(path):
+        tuner = tune.Tuner.restore(path, tune.with_parameters(train_tune, args=args), resume_errored=True)
+    else:
+        tuner = tune.Tuner(
+            tune.with_resources(
+                tune.with_parameters(train_tune, args=args),
+                resources={"cpu": 16, "gpu": gpus_per_trial}
+            ),
+            tune_config=tune.TuneConfig(
+                metric="loss",
+                mode="min",
+                scheduler=scheduler,
+                search_alg=algo,
+                num_samples=num_samples,
+                reuse_actors=True,
+            ),
+            param_space=config,
+            run_config=RunConfig(storage_path=storage_path, name=exp_name),
+        )
     results = tuner.fit()
 
     best_result = results.get_best_result("loss", "min")
