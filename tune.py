@@ -163,11 +163,6 @@ def train_tune(config, **kwargs):
             model.load_state_dict(model_state)
             optimizer.load_state_dict(optimizer_state)
             print('Start from epoch:', start)
-        del checkpoint
-        import gc
-        gc.collect()
-        if device.type == "cuda":
-            torch.cuda.empty_cache()
     
     min_score = 0
     min_step = 0
@@ -268,7 +263,15 @@ def main(num_samples=20, max_num_epochs=10, gpus_per_trial=1):
     path = os.path.join(storage_path, exp_name)
 
     if tune.Tuner.can_restore(path):
-        tuner = tune.Tuner.restore(path, tune.with_parameters(train_tune, args=args), resume_errored=True)
+        tuner = tune.Tuner.restore(
+            path, 
+            tune.with_resources(
+                tune.with_parameters(train_tune, args=args),
+                resources={"cpu": 16, "gpu": gpus_per_trial}
+            ),
+            resume_errored=True,
+            param_space=config,
+        )
     else:
         tuner = tune.Tuner(
             tune.with_resources(
@@ -281,7 +284,6 @@ def main(num_samples=20, max_num_epochs=10, gpus_per_trial=1):
                 scheduler=scheduler,
                 search_alg=algo,
                 num_samples=num_samples,
-                reuse_actors=True,
             ),
             param_space=config,
             run_config=RunConfig(storage_path=storage_path, name=exp_name),
