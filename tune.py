@@ -201,15 +201,17 @@ def train_tune(config, **kwargs):
                 (model.state_dict(), optimizer.state_dict(), epoch), path
             )
             checkpoint = Checkpoint.from_directory(temp_checkpoint_dir)
+            print('loss:', eval_loss, 'accuracy:', eval_expRate)
             train.report(
                 {"loss": eval_loss, "accuracy": eval_expRate},
                 checkpoint=checkpoint,
             )
+            print('checkpoint done')
     
     print("Finished Training")
 
 
-def main(num_samples=20, max_num_epochs=10, gpus_per_trial=1):
+def main(num_samples=20, max_num_epochs=20, gpus_per_trial=1):
     parser = argparse.ArgumentParser()
     parser.add_argument('--config', default='config.yaml', type=str, help='path to config file')
     parser.add_argument('--check', action='store_true', help='only for code check')
@@ -279,7 +281,7 @@ def main(num_samples=20, max_num_epochs=10, gpus_per_trial=1):
                 resources={"cpu": 16, "gpu": gpus_per_trial}
             ),
             tune_config=tune.TuneConfig(
-                metric="loss",
+                metric="accuracy",
                 mode="min",
                 scheduler=scheduler,
                 search_alg=algo,
@@ -290,7 +292,7 @@ def main(num_samples=20, max_num_epochs=10, gpus_per_trial=1):
         )
     results = tuner.fit()
 
-    best_result = results.get_best_result("loss", "min")
+    best_result = results.get_best_result("accuracy", "min")
 
     print("Best trial config: {}".format(best_result.config))
     print("Best trial final validation loss: {}".format(best_result.metrics["loss"]))
