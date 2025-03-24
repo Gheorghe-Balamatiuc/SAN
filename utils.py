@@ -60,10 +60,12 @@ def save_checkpoint(model, optimizer, word_score, struct_score, ExpRate_score, e
         state = {
             'model': model.state_dict(),
             'optimizer': optimizer.state_dict(),
+            'epoch': epoch
         }
     else:
         state = {
-            'model': model.state_dict()
+            'model': model.state_dict(),
+            'epoch': epoch
         }
 
     torch.save(state, filename)
@@ -81,6 +83,9 @@ def load_checkpoint(model, optimizer, path):
         print(f'No optimizer in the pretrained model')
 
     model.load_state_dict(state['model'])
+    start_epoch = state['epoch']
+
+    return start_epoch
 
 
 class Meter:
