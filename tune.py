@@ -228,7 +228,6 @@ def main(num_samples=20, max_num_epochs=20, gpus_per_trial=1):
         "lr_decay": tune.choice(['step', 'cosine']),
         "step_ratio": tune.choice([5, 10, 20, 30, 40]),
         "weight_decay": tune.loguniform(1e-4, 1),
-        "dropout": tune.choice([True, False]),
         "dropout_ratio": tune.uniform(0.2, 0.5),
         "relu": tune.choice([True, False]),
         "gradient": tune.choice([0.1, 1, 5, 10, 100]),
@@ -249,7 +248,6 @@ def main(num_samples=20, max_num_epochs=20, gpus_per_trial=1):
             "lr_decay": 'cosine',
             "step_ratio": 10,
             "weight_decay": 1e-4,
-            "dropout": True,
             "dropout_ratio": 0.5,
             "relu": True,
             "gradient": 100,
@@ -261,7 +259,7 @@ def main(num_samples=20, max_num_epochs=20, gpus_per_trial=1):
     algo = ConcurrencyLimiter(algo, max_concurrent=1)
 
     storage_path = os.path.expanduser("~/ray_results")
-    exp_name = "tune"
+    exp_name = "tune1"
     path = os.path.join(storage_path, exp_name)
 
     if tune.Tuner.can_restore(path):
@@ -282,7 +280,7 @@ def main(num_samples=20, max_num_epochs=20, gpus_per_trial=1):
             ),
             tune_config=tune.TuneConfig(
                 metric="accuracy",
-                mode="min",
+                mode="max",
                 scheduler=scheduler,
                 search_alg=algo,
                 num_samples=num_samples,
@@ -292,7 +290,7 @@ def main(num_samples=20, max_num_epochs=20, gpus_per_trial=1):
         )
     results = tuner.fit()
 
-    best_result = results.get_best_result("accuracy", "min")
+    best_result = results.get_best_result("accuracy", "max")
 
     print("Best trial config: {}".format(best_result.config))
     print("Best trial final validation loss: {}".format(best_result.metrics["loss"]))
