@@ -50,11 +50,16 @@ optimizer = getattr(torch.optim, params['optimizer'])(model.parameters(), lr=flo
                                                       eps=float(params['eps']), weight_decay=float(params['weight_decay']))
 
 start_epoch = 0
+min_score = 0
+min_step = 0
 if params['finetune']:
 
     print('loading pretrain model weight')
     print(f'pretrain model: {params["checkpoint"]}')
-    start_epoch = load_checkpoint(model, optimizer, params['checkpoint'])
+    start_epoch, min_score, min_step = load_checkpoint(model, optimizer, params['checkpoint'])
+    print(f'start from epoch {start_epoch}')
+    print(f'min_score: {min_score}')
+    print(f'min_step: {min_step}')
 
 if not args.check:
     if not os.path.exists(os.path.join(params['checkpoint_dir'], model.name)):
@@ -62,8 +67,6 @@ if not args.check:
     os.system(f'cp {args.config} {os.path.join(params["checkpoint_dir"], model.name, model.name)}.yaml')
 
 
-min_score = 0
-min_step = 0
 for epoch in range(start_epoch, params['epoches']):
 
     train_loss, train_word_score, train_node_score, train_expRate = train(params, model, optimizer, epoch, train_loader, writer=writer)
@@ -73,7 +76,7 @@ for epoch in range(start_epoch, params['epoches']):
     print(f'Epoch: {epoch+1}  loss: {eval_loss:.4f}  word score: {eval_word_score:.4f}  struct score: {eval_node_score:.4f} '
             f'ExpRate: {eval_expRate:.4f}')
     
-    save_checkpoint(model, optimizer, eval_word_score, eval_node_score, eval_expRate, epoch+1,
+    save_checkpoint(model, optimizer, eval_word_score, eval_node_score, eval_expRate, epoch+1, min_score, min_step,
                         optimizer_save=params['optimizer_save'], path=params['checkpoint_dir'])
 
     if eval_expRate > min_score and not args.check:
@@ -95,14 +98,3 @@ for epoch in range(start_epoch, params['epoches']):
                 param_group['lr'] = new_lr
 
             min_step = 0
-
-
-
-
-
-
-
-
-
-
-

@@ -69,7 +69,7 @@ hybrid_tree:
 optimizer_save: True
 checkpoint_dir: 'checkpoints'
 finetune: True
-checkpoint: "checkpoints/SAN_tune_config_Encoder-DenseNet_Decoder-SAN_decoder_max_size-150-400/SAN_tune_config_Encoder-DenseNet_Decoder-SAN_decoder_max_size-150-400_WordRate-0.2966_structRate-0.9174_ExpRate-0.0000_1.pth"
+checkpoint: "checkpoints/SAN_tune_config_Encoder-DenseNet_Decoder-SAN_decoder_max_size-150-400/SAN_tune_config_Encoder-DenseNet_Decoder-SAN_decoder_max_size-150-400_WordRate-0.8356_structRate-0.9903_ExpRate-0.4108_112.pth"
 
 # tensorboard路径
 log_dir: 'logs'

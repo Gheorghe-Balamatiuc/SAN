@@ -52,7 +52,7 @@ def updata_lr(optimizer, current_epoch, current_step, steps, epoches, initial_lr
         param_group['lr'] = new_lr
 
 
-def save_checkpoint(model, optimizer, word_score, struct_score, ExpRate_score, epoch, optimizer_save=False, path='checkpoints', multi_gpu=False, local_rank=0):
+def save_checkpoint(model, optimizer, word_score, struct_score, ExpRate_score, epoch, min_score, min_step, optimizer_save=False, path='checkpoints', multi_gpu=False, local_rank=0):
 
     filename = f'{os.path.join(path, model.name)}/{model.name}_WordRate-{word_score:.4f}_structRate-{struct_score:.4f}_ExpRate-{ExpRate_score:.4f}_{epoch}.pth'
 
@@ -60,12 +60,16 @@ def save_checkpoint(model, optimizer, word_score, struct_score, ExpRate_score, e
         state = {
             'model': model.state_dict(),
             'optimizer': optimizer.state_dict(),
-            'epoch': epoch
+            'epoch': epoch,
+            'min_score': min_score,
+            'min_step': min_step
         }
     else:
         state = {
             'model': model.state_dict(),
-            'epoch': epoch
+            'epoch': epoch,
+            'min_score': min_score,
+            'min_step': min_step
         }
 
     torch.save(state, filename)
@@ -83,9 +87,8 @@ def load_checkpoint(model, optimizer, path):
         print(f'No optimizer in the pretrained model')
 
     model.load_state_dict(state['model'])
-    start_epoch = state['epoch']
 
-    return start_epoch
+    return (state['epoch'], state['min_score'], state['min_step'])
 
 
 class Meter:
