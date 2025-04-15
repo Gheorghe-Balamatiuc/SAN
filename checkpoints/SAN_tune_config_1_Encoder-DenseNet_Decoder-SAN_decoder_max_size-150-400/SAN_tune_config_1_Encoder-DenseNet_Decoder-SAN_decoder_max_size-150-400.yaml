@@ -5,7 +5,7 @@ experiment: "SAN_tune_config_1"
 seed: 20200814
 
 # 训练参数
-epoches: 200
+epoches: 230
 batch_size: 8 # tune
 workers: 0
 optimizer: RMSprop # tune
@@ -70,7 +70,7 @@ hybrid_tree:
 optimizer_save: True
 checkpoint_dir: 'checkpoints'
 finetune: True
-checkpoint: "checkpoints/SAN_tune_config_1_Encoder-DenseNet_Decoder-SAN_decoder_max_size-150-400/SAN_tune_config_1_Encoder-DenseNet_Decoder-SAN_decoder_max_size-150-400_WordRate-0.2917_structRate-0.9169_ExpRate-0.0000_1.pth"
+checkpoint: "checkpoints/SAN_tune_config_1_Encoder-DenseNet_Decoder-SAN_decoder_max_size-150-400/SAN_tune_config_1_Encoder-DenseNet_Decoder-SAN_decoder_max_size-150-400_WordRate-0.8718_structRate-0.9911_ExpRate-0.5020_151.pth"
 
 # tensorboard路径
 log_dir: 'logs'

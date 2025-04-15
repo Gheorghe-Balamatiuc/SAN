@@ -1,0 +1,76 @@
+# 实验名称
+experiment: "SAN_tune_config_cosine"
+
+# 随机种子
+seed: 20200814
+
+# 训练参数
+epoches: 200
+batch_size: 8 # tune
+workers: 0
+optimizer: RMSprop # tune
+lr: 0.00022786372843519373 # tune
+lr_decay: cosine # tune
+step_ratio: 10 # tune
+eps: 1e-6
+weight_decay: 0.0002171129988286736 # tune
+step_decay: 2.0
+beta: 0.9
+image_resize: True
+image_width: 400
+image_height: 150
+image_channel: 1
+dropout: True
+dropout_ratio: 0.41625698446503034 # tune
+relu: True # tune
+gradient: 10 # tune
+gradient_clip: True # tune
+use_label_mask: False # tune
+
+# 训练数据
+train_image_path: 'data/train_image.pkl'
+train_label_path: 'data/train_label.pkl'
+eval_image_path: 'data/test_image.pkl'
+eval_label_path: 'data/test_label.pkl'
+
+word_path: 'data/word.txt'
+
+# 选择encoder
+encoder:
+  net: DenseNet
+  input_channels: 1
+  out_channels: 684
+
+resnet:
+  conv1_stride: 1
+
+densenet:
+  ratio: 16
+  growthRate: 24
+  reduction: 0.5
+  bottleneck: True
+  use_dropout: True
+
+# 使用的rnn cell
+decoder:
+  net: SAN_decoder
+  cell: 'GRU'
+  input_size: 256
+  hidden_size: 256
+
+# attention 参数
+attention:
+  attention_dim: 512
+
+# hybrid tree
+hybrid_tree:
+  threshold: 0.5
+
+# 训练权重存放路径
+optimizer_save: True
+checkpoint_dir: 'checkpoints'
+finetune: True
+checkpoint: "checkpoints/SAN_tune_config_cosine_Encoder-DenseNet_Decoder-SAN_decoder_max_size-150-400/SAN_tune_config_cosine_Encoder-DenseNet_Decoder-SAN_decoder_max_size-150-400_WordRate-0.8739_structRate-0.9919_ExpRate-0.5071_184.pth"
+
+# tensorboard路径
+log_dir: 'logs'

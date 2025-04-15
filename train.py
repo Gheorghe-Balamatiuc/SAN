@@ -46,8 +46,20 @@ if args.check:
 else:
     writer = SummaryWriter(f'{params["log_dir"]}/{model.name}')
 
-optimizer = getattr(torch.optim, params['optimizer'])(model.parameters(), lr=float(params['lr']),
-                                                      eps=float(params['eps']), weight_decay=float(params['weight_decay']))
+optimizer_cls = getattr(torch.optim, params['optimizer'])
+if params['optimizer'] == "SGD":
+    optimizer = optimizer_cls(
+        model.parameters(),
+        lr=float(params['lr']),
+        weight_decay=float(params['weight_decay'])
+    )
+else:
+    optimizer = optimizer_cls(
+        model.parameters(),
+        lr=float(params['lr']),
+        eps=float(params['eps']),
+        weight_decay=float(params['weight_decay'])
+    )
 
 start_epoch = 0
 min_score = 0

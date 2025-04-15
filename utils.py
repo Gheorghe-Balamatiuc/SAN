@@ -81,14 +81,15 @@ def load_checkpoint(model, optimizer, path):
 
     state = torch.load(path, map_location='cpu', weights_only=True)
 
-    if 'optimizer' in state:
+    if 'optimizer' in state and optimizer is not None:
         optimizer.load_state_dict(state['optimizer'])
     else:
         print(f'No optimizer in the pretrained model')
 
     model.load_state_dict(state['model'])
 
-    return (state['epoch'], state['min_score'], state['min_step'])
+    if 'epoch' in state and 'min_score' in state and 'min_step' in state:
+        return (state['epoch'], state['min_score'], state['min_step'])
 
 
 class Meter:
